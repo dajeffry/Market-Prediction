@@ -1,0 +1,91 @@
+---
+title: "The Bread Basket"
+author: "Daniel Jeffry"
+date: "2/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+This report describe data transaction in The Bread Basket Cafe, located in Edinburgh. The dataset has 20507 entries and over 9000 transactions. The dataset has transactions of customers who ordered different items from this bakery online and the time period of the data is 26-01-11 to 27-12-03. The dataset used in this report is The Bread Basket hosted in kaggle.
+
+DataSet -> (https://www.kaggle.com/mittalvasu95/the-bread-basket)
+
+**Report Outline**
+1. Data Extraction  
+2. Exploratory Data Analysis  
+3. Modelling  
+4. Evaluation  
+5. Recommendation 
+
+## 1. Data Extraction
+
+The Dataset is downlaoded from kaggle and saved in the data folder. we used read_excel function to read the dataset and put in bread data frame.
+
+```{r}
+library(readxl)
+bread_df <- read_excel("data/bread-basket.xlsx")
+```
+
+To see the number of rows and column from data frame, we used dim fuction. The dataset has 20507 rows and 5 columns.
+
+```{r}
+dim(bread_df)
+```
+
+## 2. Exploratory Data Analysis
+
+To find out the column names and types, we used **str() function
+To find out the the first 6 transactions, we used **head() function
+To find out the sumamry from this transactions, we used **summary() function
+
+```{r}
+str(bread_df)
+head(bread_df)
+summary(bread_df)
+```
+
+From the result above, we know the following:
+1. The second column is **Item**. this should be a class variable, Currently the type is **char** and it should be converted to **factor**  
+2. The third column is **date_time**. this should be a class variable, Currently the type is **char** and it should be converted to **Date**  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
