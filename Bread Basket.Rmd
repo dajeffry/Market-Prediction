@@ -1,0 +1,527 @@
+---
+title: "The Bread Basket"
+author: "Daniel Jeffry"
+date: "2/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+This report describe data transaction in The Bread Basket Cafe, located in Edinburgh. The dataset has 20507 entries and over 9000 transactions. The dataset has transactions of customers who ordered different items from this bakery online and the time period of the data is 26-01-11 to 27-12-03. The dataset used in this report is The Bread Basket hosted in kaggle.
+
+DataSet -> (https://www.kaggle.com/mittalvasu95/the-bread-basket)  
+
+**Report Outline**  
+1. Data Extraction  
+2. Exploratory Data Analysis  
+3. Modelling  
+4. Recommendation 
+
+## 1. Data Extraction
+
+The Dataset is downlaoded from kaggle and saved in the data folder. we used read_excel function to read the dataset and put in bread data frame.  
+
+```{r}
+library(readxl)
+bread_df <- read_excel("data/bread-basket.xlsx")
+```
+
+To see the number of rows and column from data frame, we used dim fuction. The dataset has 20507 rows and 5 columns.  
+
+```{r}
+dim(bread_df)
+```
+
+## 2. Exploratory Data Analysis  
+
+To find out the column names and types, we used **str() function.      
+To find out the the first 6 transactions, we used **head() function.      
+To find out the sumamry from this transactions, we used **summary() function.      
+
+```{r}
+str(bread_df)
+head(bread_df)
+summary(bread_df)
+```
+
+From the result above, we know the following:   
+1. The second column is **Item**. this should be a class variable, Currently the type is **char** and it should be converted to **factor**.      
+2. The third column is **date_time**. this should be a class variable, Currently the type is **char** and it should be converted to **Date**.      
+
+```{r}
+bread_df$Item <- as.factor(bread_df$Item)
+bread_df$Date <- as.Date(bread_df$date_time)
+```
+
+### 2.1 Univariate Data Analysis  
+To find out a diagram of the number of weekday and weekend transactions, we can used **ggplot()  
+
+```{r}
+library(ggplot2)
+ggplot(data=bread_df, aes(x = weekday_weekend)) +
+  geom_bar(color = "blue")
+```
+
+### 2.2 Bivariate Data Analysis  
+Analysis of two variables, Distribution of transactions on **weekday_weekend** variable based on period day.  
+
+```{r}
+ggplot(bread_df, aes(x=weekday_weekend, fill = period_day)) +
+  geom_bar(position = "dodge")
+```
+
+## 3. Data Processing  
+Change to transaction based data.    
+
+```{r, warning=FALSE, massage=FALSE}
+library(tidyverse)
+library(knitr)
+library(lubridate)
+library(arules)
+library(arulesViz)
+library(plyr)
+
+bread_df <- bread_df[complete.cases(bread_df),]
+bread_df$Transaction <- as.numeric(bread_df$Transaction)
+bread_df_sorted <- bread_df[order(bread_df$Transaction), ]
+
+
+itemlist <- ddply(bread_df, c("Transaction"),
+                  function(df1)paste(df1$Item, collapse = ","))
+
+itemlist$Transaction <- NULL
+colnames(itemlist) <- c("items")
+
+# Write to csv file
+write.csv(itemlist, "data/bread basket.csv", 
+          quote = FALSE,
+          row.names = TRUE)
+
+# IMPORT AS TRANSACTION
+tr_df <- read.transactions("data/bread basket.csv",
+                           format = "basket",
+                           sep = ",")
+```
+
+We can see the summary from this transaction and top 10 product in The Bread Basket Cafe.   
+
+```{r}
+summary(tr_df)
+itemFrequencyPlot(tr_df, topN = 10)
+```
+
+## 4. Modelling
+
+we generating rules using apriori and set the value for minimim support and minimum confident. We set a different value for each period and time in order to know what recommendations can be given to the company. We can also plot using method **grouped, **graph, and **paracoord.      
+
+### 4.1 All Transactions
+
+In All transactions, we set min. Support in 0.001 and min. Confident in 0.8  
+
+```{r}
+rules <- apriori(tr_df, parameter = list(supp = 0.001,
+                                         conf = 0.8, minlen = 2))
+rules <- sort(rules, by="confidence", decreasing = TRUE)
+rules
+inspect(rules)
+
+plot(rules)
+plot(rules,method = "grouped")
+plot(rules,method = "graph")
+plot(rules,method = "paracoord")
+```
+
+As we can see, there are 7 rules and coffee is the best selling product at the cafe, followed by bread and tea in the all transactions. Through those rules, we can find out what products are bought along with coffee And it turns out they used to buy coffee with product keeping it local and extra salami or feta.  
+
+### 4.2 Weekday   
+
+we can separate weekday and weekend transactions into differents data frame and the we can generate the rules. In weekday, we set min. Support in 0.001 and min. Confident in 0.8    
+
+```{r,  warning=FALSE, massage=FALSE}
+bread_weekday_df <- bread_df %>%
+  filter(weekday_weekend=="weekday")
+
+str(bread_weekday_df)
+head(bread_weekday_df)
+summary(bread_weekday_df)
+
+itemlist_weekday <- ddply(bread_weekday_df, c("Transaction"),
+                  function(df1)paste(df1$Item, collapse = ","))
+
+itemlist_weekday$Transaction <- NULL
+colnames(itemlist_weekday) <- c("items")
+
+# Write to csv file
+write.csv(itemlist_weekday, "data/bread basket weekday.csv", 
+          quote = FALSE,
+          row.names = TRUE)
+
+# IMPORT AS TRANSACTION
+bread_weekday_tr_df <- read.transactions("data/bread basket weekday.csv",
+                           format = "basket",
+                           sep = ",")
+
+bread_weekday_tr_df
+summary(bread_weekday_tr_df)
+itemFrequencyPlot(bread_weekday_tr_df, topN = 10,)
+
+rules_weekday <- apriori(bread_weekday_tr_df, parameter = list(supp = 0.001,
+                                          conf = 0.8, minlen = 2))
+rules_weekday <- sort(rules_weekday, by="confidence", decreasing = TRUE)
+rules_weekday
+inspect(rules_weekday)
+
+plot(rules_weekday)
+plot(rules_weekday,method = "grouped")
+plot(rules_weekday,method = "graph")
+plot(rules_weekday,method = "paracoord")
+```
+
+As we can see, there are 9 rules and coffee still is the best selling product at the cafe, followed by bread and tea in the weekday transactions. Through those rules, we can find out what products are bought along with coffee And it turns out they used to buy coffee with product extra salami or feta and cake or toast.  
+
+### 4.3 Weekend  
+
+In weekend transactions, we set min. Support in 0.002 and min. Confident in 0.8   
+
+```{r,  warning=FALSE, massage=FALSE}
+bread_weekend_df <- bread_df %>%
+  filter(weekday_weekend=="weekend")
+
+str(bread_weekend_df)
+head(bread_weekend_df)
+summary(bread_weekend_df)
+
+itemlist_weekend <- ddply(bread_weekend_df, c("Transaction"),
+                          function(df1)paste(df1$Item, collapse = ","))
+
+itemlist_weekend$Transaction <- NULL
+colnames(itemlist_weekend) <- c("items")
+
+# Write to csv file
+write.csv(itemlist_weekend, "data/bread basket weekend.csv", 
+          quote = FALSE,
+          row.names = TRUE)
+
+# IMPORT AS TRANSACTION
+bread_weekend_tr_df <- read.transactions("data/bread basket weekend.csv",
+                                      format = "basket",
+                                      sep = ",")
+
+bread_weekend_tr_df
+summary(bread_weekend_tr_df)
+itemFrequencyPlot(bread_weekend_tr_df, topN = 10)
+
+rules_weekend <- apriori(bread_weekend_tr_df, parameter = list(supp = 0.002,
+                                                            conf = 0.8, minlen = 2))
+rules_weekend <- sort(rules_weekend, by="confidence", decreasing = TRUE)
+rules_weekend
+inspect(rules_weekend)
+
+plot(rules_weekend)
+plot(rules_weekend,method = "grouped")
+plot(rules_weekend,method = "graph")
+plot(rules_weekend,method = "paracoord")
+
+```
+
+As we can see, there are 6 rules and coffee still is the best selling product at the cafe, followed by bread and tea in the weekend transactions. Through those rules, we can find out what products are bought along with coffee And it turns out they used to buy coffee with product extra salami or feta and juice or spanish brunch.  
+
+#### 4.2.1 Weekday Morning  
+
+In weekday morning, we set min. Support in 0.002 and min. Confident in 0.7  
+
+```{r,  warning=FALSE, massage=FALSE}
+bread_morning <- bread_df
+bread_morning$period_day <- as.factor(bread_morning$period_day)
+
+bread_weekday_morning_df <- bread_weekday_df %>%
+  filter(period_day=="morning")
+
+str(bread_weekday_morning_df)
+head(bread_weekday_morning_df)
+summary(bread_weekday_morning_df)
+
+itemlist_weekday_morning <- ddply(bread_weekday_morning_df, c("Transaction"),
+                          function(df1)paste(df1$Item, collapse = ","))
+
+itemlist_weekday_morning$Transaction <- NULL
+colnames(itemlist_weekday_morning) <- c("items")
+
+# Write to csv file
+write.csv(itemlist_weekday_morning, "data/bread basket weekday morning.csv", 
+          quote = FALSE,
+          row.names = TRUE)
+
+# IMPORT AS TRANSACTION
+bread_weekday_morning_tr_df <- read.transactions("data/bread basket weekday morning.csv",
+                                         format = "basket",
+                                         sep = ",")
+
+bread_weekday_morning_tr_df
+summary(bread_weekday_morning_tr_df)
+itemFrequencyPlot(bread_weekday_morning_tr_df, topN = 10)
+
+rules_weekday_morning <- apriori(bread_weekday_morning_tr_df, parameter = list(supp = 0.002,
+                                                               conf = 0.7, minlen = 2))
+rules_weekday_morning <- sort(rules_weekday_morning, by="confidence", decreasing = TRUE)
+rules_weekday_morning
+inspect(rules_weekday_morning)
+
+plot(rules_weekday_morning)
+plot(rules_weekday_morning,method = "grouped")
+plot(rules_weekday_morning,method = "graph")
+plot(rules_weekday_morning,method = "paracoord")
+```
+
+As we can see, there are 7 rules and coffee still is the best selling product at the cafe, followed by bread and pastry in the weekday morning transactions. Through those rules, we can find out what products are bought along with coffee And it turns out they used to buy coffee with toast and keeping it local.  
+
+#### 4.2.1 Weekday Afternoon  
+
+In weekday morning, we set min. Support in 0.002 and min. Confident in 0.7  
+
+```{r,  warning=FALSE, massage=FALSE}
+bread_afternoon <- bread_df
+bread_afternoon$period_day <- as.factor(bread_afternoon$period_day)
+
+bread_weekday_afternoon_df <- bread_weekday_df %>%
+  filter(period_day=="afternoon")
+
+str(bread_weekday_afternoon_df)
+head(bread_weekday_afternoon_df)
+summary(bread_weekday_afternoon_df)
+
+itemlist_weekday_afternoon <- ddply(bread_weekday_afternoon_df, c("Transaction"),
+                                  function(df1)paste(df1$Item, collapse = ","))
+
+itemlist_weekday_afternoon$Transaction <- NULL
+colnames(itemlist_weekday_afternoon) <- c("items")
+
+# Write to csv file
+write.csv(itemlist_weekday_afternoon, "data/bread basket weekday afternoon.csv", 
+          quote = FALSE,
+          row.names = TRUE)
+
+# IMPORT AS TRANSACTION
+bread_weekday_afternoon_tr_df <- read.transactions("data/bread basket weekday afternoon.csv",
+                                                 format = "basket",
+                                                 sep = ",")
+
+bread_weekday_afternoon_tr_df
+summary(bread_weekday_afternoon_tr_df)
+itemFrequencyPlot(bread_weekday_afternoon_tr_df, topN = 10)
+
+rules_weekday_afternoon <- apriori(bread_weekday_afternoon_tr_df, parameter = list(supp = 0.002,
+                                                                               conf = 0.7, minlen = 2))
+rules_weekday_afternoon <- sort(rules_weekday_afternoon, by="confidence", decreasing = TRUE)
+rules_weekday_afternoon
+inspect(rules_weekday_afternoon)
+
+plot(rules_weekday_afternoon)
+plot(rules_weekday_afternoon,method = "grouped")
+plot(rules_weekday_afternoon,method = "graph")
+plot(rules_weekday_afternoon,method = "paracoord")
+```
+
+As we can see, there are 11 rules and coffee still is the best selling product at the cafe, followed by bread and tea in the weekday afternoon transactions. Through those rules, we can find out what products are bought along with coffee And it turns out they used to buy coffee with toast and Extra Salami or Feta.  
+
+#### 4.2.1 Weekday Evening  
+
+In weekday morning, we set min. Support in 0.01 and min. Confident in 0.8  
+
+```{r,  warning=FALSE, massage=FALSE}
+bread_evening <- bread_df
+bread_evening$period_day <- as.factor(bread_evening$period_day)
+
+bread_weekday_evening_df <- bread_weekday_df %>%
+  filter(period_day=="evening")
+
+str(bread_weekday_evening_df)
+head(bread_weekday_evening_df)
+summary(bread_weekday_evening_df)
+
+itemlist_weekday_evening <- ddply(bread_weekday_evening_df, c("Transaction"),
+                                    function(df1)paste(df1$Item, collapse = ","))
+
+itemlist_weekday_evening$Transaction <- NULL
+colnames(itemlist_weekday_evening) <- c("items")
+
+# Write to csv file
+write.csv(itemlist_weekday_evening, "data/bread basket weekday evening.csv", 
+          quote = FALSE,
+          row.names = TRUE)
+
+# IMPORT AS TRANSACTION
+bread_weekday_evening_tr_df <- read.transactions("data/bread basket weekday evening.csv",
+                                                   format = "basket",
+                                                   sep = ",")
+
+bread_weekday_evening_tr_df
+summary(bread_weekday_evening_tr_df)
+itemFrequencyPlot(bread_weekday_evening_tr_df, topN = 10)
+
+rules_weekday_evening <- apriori(bread_weekday_evening_tr_df, parameter = list(supp = 0.01,
+                                                                                   conf = 0.8, minlen = 2))
+rules_weekday_evening <- sort(rules_weekday_evening, by="confidence", decreasing = TRUE)
+rules_weekday_evening
+inspect(rules_weekday_evening)
+
+plot(rules_weekday_evening)
+plot(rules_weekday_evening,method = "grouped")
+plot(rules_weekday_evening,method = "graph")
+plot(rules_weekday_evening,method = "paracoord")
+```
+
+As we can see, there are 15 rules and coffee still is the best selling product at the cafe, followed by bread and tea in the weekday evening transactions. Through those rules, we can find out what products are bought along with coffee And it turns out they used to buy coffee with Alfajores or Coke.  
+
+#### 4.3.1 Weekend Morning   
+
+In weekday morning, we set min. Support in 0.005 and min. Confident in 0.8  
+
+```{r,  warning=FALSE, massage=FALSE}
+bread_weekend_morning_df <- bread_weekend_df %>%
+  filter(period_day=="morning")
+
+str(bread_weekend_morning_df)
+head(bread_weekend_morning_df)
+summary(bread_weekend_morning_df)
+
+itemlist_weekend_morning <- ddply(bread_weekend_morning_df, c("Transaction"),
+                                  function(df1)paste(df1$Item, collapse = ","))
+
+itemlist_weekend_morning$Transaction <- NULL
+colnames(itemlist_weekend_morning) <- c("items")
+
+# Write to csv file
+write.csv(itemlist_weekend_morning, "data/bread basket weekend morning.csv", 
+          quote = FALSE,
+          row.names = TRUE)
+
+# IMPORT AS TRANSACTION
+bread_weekend_morning_tr_df <- read.transactions("data/bread basket weekend morning.csv",
+                                                 format = "basket",
+                                                 sep = ",")
+
+bread_weekend_morning_tr_df
+summary(bread_weekend_morning_tr_df)
+itemFrequencyPlot(bread_weekend_morning_tr_df, topN = 10)
+
+rules_weekend_morning <- apriori(bread_weekend_morning_tr_df, parameter = list(supp = 0.005,
+                                                                               conf = 0.8, minlen = 2))
+rules_weekend_morning <- sort(rules_weekend_morning, by="confidence", decreasing = TRUE)
+rules_weekend_morning
+inspect(rules_weekend_morning)
+
+plot(rules_weekend_morning)
+plot(rules_weekend_morning,method = "grouped")
+plot(rules_weekend_morning,method = "graph")
+plot(rules_weekend_morning,method = "paracoord")
+```
+
+As we can see, there are 5 rules and coffee still is the best selling product at the cafe, followed by bread and pastry in the weekend morning transactions. Through those rules, we can find out what products are bought along with coffee And it turns out they used to buy coffee with Spanish Brunch and The Nomad.  
+
+#### 4.3.2 Weekend Afternoon   
+
+In weekend afternoon, we set min. Support in 0.004 and min. Confident in 0.7  
+
+```{r,  warning=FALSE, massage=FALSE}
+bread_weekend_afternoon_df <- bread_weekend_df %>%
+  filter(period_day=="afternoon")
+
+str(bread_weekend_afternoon_df)
+head(bread_weekend_afternoon_df)
+summary(bread_weekend_afternoon_df)
+
+itemlist_weekend_afternoon <- ddply(bread_weekend_afternoon_df, c("Transaction"),
+                                  function(df1)paste(df1$Item, collapse = ","))
+
+itemlist_weekend_afternoon$Transaction <- NULL
+colnames(itemlist_weekend_afternoon) <- c("items")
+
+# Write to csv file
+write.csv(itemlist_weekend_afternoon, "data/bread basket weekend afternoon.csv", 
+          quote = FALSE,
+          row.names = TRUE)
+
+# IMPORT AS TRANSACTION
+bread_weekend_afternoon_tr_df <- read.transactions("data/bread basket weekend afternoon.csv",
+                                                 format = "basket",
+                                                 sep = ",")
+
+bread_weekend_afternoon_tr_df
+summary(bread_weekend_afternoon_tr_df)
+itemFrequencyPlot(bread_weekend_afternoon_tr_df, topN = 10)
+
+rules_weekend_afternoon <- apriori(bread_weekend_afternoon_tr_df, parameter = list(supp = 0.004,
+                                                                               conf = 0.7, minlen = 2))
+rules_weekend_afternoon <- sort(rules_weekend_afternoon, by="confidence", decreasing = TRUE)
+rules_weekend_afternoon
+inspect(rules_weekend_afternoon)
+
+plot(rules_weekend_afternoon)
+plot(rules_weekend_afternoon,method = "grouped")
+plot(rules_weekend_afternoon,method = "graph")
+plot(rules_weekend_afternoon,method = "paracoord")
+```
+
+As we can see, there are 6 rules and coffee still is the best selling product at the cafe, followed by bread and tea in the weekend afternoon transactions. Through those rules, we can find out what products are bought along with coffee And it turns out they used to buy coffee with Sandwich or Soup and Hot chocolate or Scone.  
+
+#### 4.3.2 Weekend Evening   
+
+In weekend afternoon, we set min. Support in 0.02 and min. Confident in 0.9   
+
+```{r,  warning=FALSE, massage=FALSE}
+bread_weekend_evening_df <- bread_weekend_df %>%
+  filter(period_day=="evening")
+
+str(bread_weekend_evening_df)
+head(bread_weekend_evening_df)
+summary(bread_weekend_evening_df)
+
+itemlist_weekend_evening <- ddply(bread_weekend_evening_df, c("Transaction"),
+                                  function(df1)paste(df1$Item, collapse = ","))
+
+itemlist_weekend_evening$Transaction <- NULL
+colnames(itemlist_weekend_evening) <- c("items")
+
+# Write to csv file
+write.csv(itemlist_weekend_evening, "data/bread basket weekend evening.csv", 
+          quote = FALSE,
+          row.names = TRUE)
+
+# IMPORT AS TRANSACTION
+bread_weekend_evening_tr_df <- read.transactions("data/bread basket weekend evening.csv",
+                                                 format = "basket",
+                                                 sep = ",")
+
+bread_weekend_evening_tr_df
+summary(bread_weekend_evening_tr_df)
+itemFrequencyPlot(bread_weekend_evening_tr_df, topN = 10)
+
+rules_weekend_evening <- apriori(bread_weekend_evening_tr_df, parameter = list(supp = 0.02,
+                                                                               conf = 0.9, minlen = 2))
+rules_weekend_evening <- sort(rules_weekend_evening, by="confidence", decreasing = TRUE)
+rules_weekend_evening
+inspect(rules_weekend_evening)
+
+plot(rules_weekend_evening)
+plot(rules_weekend_evening,method = "grouped")
+plot(rules_weekend_evening,method = "graph")
+plot(rules_weekend_evening,method = "paracoord")
+```
+
+As we can see, there are 4 rules and T-shirt is the best selling product at the cafe followed by bread and tea in the weekend afternoon transactions. That's really unique because the best selling product in that cafe is always coffee. This could be the consumers are coming in the weekend mostly with family so that they are excited to buy marchandise in that cafe followed by bread and tea in the weekend afternoon transactions.  
+
+## 4. Recommendations
+
+1. Make a product package like Coffee + Bread in weekday or weekend morning, because in the morning mostly consumers wanted to buy coffee and bread.  
+2. Make a product package like Tea + Bread in weekday or weekday evening, because in the evening mostly consumers wanted to buy tea and bread besides coffee.  
+3. Launch a new food product in the weekday/weekend Afternoon.    
+4. Launch a new drink product in the weekday/weekend Morning.    
+5. Launch a new Marchandise in the weekend Evening.    
+ 
+
+
