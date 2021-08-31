@@ -1,0 +1,6146 @@
+,items
+1,Coffee,Cake
+2,Tartine,Bread
+3,Coffee,Bread
+4,Bread
+5,Coffee,Coffee,Pastry,Medialuna
+6,Juice
+7,Bread
+8,Coffee,Coffee,Jam
+9,Bread
+10,Bread,Coffee
+11,Tea
+12,Coffee
+13,Bread,Coke
+14,Coffee,Coffee
+15,Tea,Pastry,Farm House
+16,Pastry,Pastry,Coffee,Juice
+17,Coffee,Pastry,Juice
+18,Farm House
+19,Pastry,Pastry,Coffee,Bread
+20,Bread
+21,Coffee,Pastry
+22,Farm House
+23,Bread
+24,Coffee,Coffee,Medialuna,Muffin,Coffee
+25,Coffee,Tea,Cake
+26,Coffee,Coffee,Pastry,Pastry
+27,Coffee,Tea
+28,Farm House,Muffin
+29,Bread,Muffin,Pastry
+30,Pastry
+31,Coffee
+32,Coffee
+33,Coffee,Cake
+34,Farm House
+35,Bread
+36,Coffee
+37,Cookies,Cake,Coffee,My-5 Fruit Shoot
+38,Cookies,Cookies,Tea,Pastry
+39,Coffee,Coffee,Muffin
+40,Farm House
+41,Coffee,Bread
+42,Cookies
+43,Jam,Coffee,Coffee,Juice
+44,Coffee,Soup
+45,Tea
+46,Coffee,Jam
+47,Farm House
+48,Tartine,Coffee,Tea
+49,Coffee,Coffee,Cake
+50,Coffee,Coffee,Muffin
+51,Bread,Coffee
+52,Tea,Juice,Pick and Mix Bowls,Cookies
+53,Hearty & Seasonal,Soup
+54,Hearty & Seasonal,Tea,Farm House
+55,Bread
+56,Tea,Soup
+57,Farm House
+58,Soup,Hearty & Seasonal,Coffee
+59,Bread,Muffin,Hearty & Seasonal
+60,Coffee,Coffee,Cookies
+61,Bread
+62,Tea,Muffin
+63,Tea
+64,Soup,Hearty & Seasonal
+65,Coffee,Tea,Focaccia
+66,Sandwich
+67,Tartine,Coffee
+68,Fudge,Coffee,Coffee
+69,Coffee
+70,Bread
+71,Coke,Soup
+72,Muffin
+73,Tea,Coffee,Cookies,Muffin
+74,Mighty Protein,Hearty & Seasonal,Coffee,Coke
+75,Tea,Muffin,Sandwich
+76,Coffee,Muffin
+77,Coffee,Bread
+78,Coffee,Muffin
+79,Bread,Hot chocolate,Cookies
+80,Mineral water,Muffin
+81,Tea
+82,Muffin
+83,Coffee,Juice
+84,Coffee,Muffin
+85,Tea
+86,Coffee,Muffin
+87,Sandwich,Hearty & Seasonal,Bread,Mineral water
+88,Tea,Coffee
+89,Mineral water
+90,Coffee
+91,Soup,Tea
+92,Bread,Coffee
+93,Bread,Muffin
+94,Coffee
+95,Bread
+96,Cookies,Coffee
+97,Coffee,Pastry
+98,Coffee,Pastry
+99,Jam,Tea
+100,Tea,Tea
+101,Pastry,Pastry,Ella's Kitchen Pouches
+102,Pastry
+103,Farm House,Tea
+104,Tea,Victorian Sponge
+105,Tea,Pastry
+106,Bread
+107,Coffee
+108,Bread,Coffee
+109,Coffee,Pastry,Pastry
+110,Soup,Tea
+111,Bread
+112,Coffee
+113,Bread,Bread
+114,Bread,Scandinavian
+115,Bread,Cake,Cookies
+116,Coffee,Coffee,Tea
+117,Coffee,Cookies
+118,Coffee
+119,Bread
+120,Coffee,Pastry
+121,Coffee,Coffee
+122,Coffee
+123,Scandinavian,Bread
+124,Coffee,Coffee,Pastry
+125,Scandinavian,Coffee,Pastry
+126,Hearty & Seasonal,Coffee,Muffin
+127,Bread
+128,Coffee
+129,Scandinavian
+130,Soup,Coffee
+131,Coffee,Cookies,Tartine
+132,Bread
+133,Bread,Tea,Tea
+134,Pastry,Coffee
+135,Tartine,Coffee
+136,Bread,Cookies
+137,Sandwich
+138,Tartine
+139,Bread,Pastry
+140,Bread,Scandinavian
+141,Scandinavian
+142,Alfajores,Coffee
+143,Coffee
+144,Coffee,Coke,Soup
+145,Cake
+146,Tea,Sandwich,Soup
+147,Coffee
+148,Hearty & Seasonal,Bread
+149,Alfajores
+150,Cake
+151,Tea,Tea,Bread
+152,Coffee,Tea,Bread,Soup
+153,Coffee,Coffee
+154,Scandinavian
+155,Fudge
+156,Coffee,Sandwich
+157,Tea,Bread,Cookies,Pastry
+158,Muffin
+159,Scandinavian
+160,Jam,Tea
+161,Juice,Tea,Alfajores
+162,Cake,Muffin,Coffee,Soup
+163,Hot chocolate,Cake,Coffee
+164,Cake,Cookies
+165,Tea,Bread
+166,Alfajores,Coffee,Coffee,Coffee,Juice
+167,Coffee,Tea,Soup
+168,Hot chocolate
+169,Cookies
+170,Coffee,Medialuna
+171,Bread,Eggs
+172,Scandinavian
+173,Medialuna
+174,Coffee,Coffee,Pastry
+175,Coffee,Bread
+176,Bread,Coffee,Pastry
+177,Coffee,Pastry
+178,Pastry
+179,Coffee
+180,Coffee
+181,Coffee,Hot chocolate,Pastry
+182,Coke
+183,Coffee,Jam
+184,Tea
+185,Bread,Pastry
+186,Coffee,Alfajores,Farm House
+187,Tea,Pastry
+188,Bread
+189,Coffee,Jam
+190,Coffee,Tea,Coffee,Pastry
+191,Farm House
+192,Coffee,Bread,Pastry
+193,Farm House
+194,Coffee,Coffee,Pastry
+195,Farm House
+196,Coffee,Pastry
+197,Coffee
+198,Coffee,Pastry
+199,Bread,Bread
+200,Bread,Coffee,Pastry
+201,Pastry,Coffee
+202,Coffee,Farm House
+203,Farm House,Farm House,Pastry
+204,Bread,Juice,Alfajores
+205,Coffee,Pastry
+206,Bread,Alfajores
+207,Bread
+208,Coffee,Cookies
+209,Coffee
+210,Cookies
+211,Hearty & Seasonal
+212,Coffee
+213,Jam,Tartine,Bread
+214,Farm House,Scandinavian
+215,Hearty & Seasonal,Coffee,Muffin,Scandinavian
+216,Tartine,Pick and Mix Bowls,Coffee,Coke
+217,Bread
+218,Scandinavian,Farm House,Alfajores,Coffee,Coffee
+219,Juice,Mineral water,Soup
+220,Soup,Tea
+221,Juice,Tea,Cookies,Soup
+222,Hearty & Seasonal,Tea
+223,Fudge
+224,Coffee,Mineral water,Juice,Soup
+225,Hearty & Seasonal
+226,Hearty & Seasonal,Smoothies
+227,Hearty & Seasonal,Tea
+228,Coffee,Sandwich,Sandwich
+229,Cookies,Farm House
+230,Soup,Tea,Juice
+231,Soup
+232,Coffee
+233,Bread
+234,Cookies,Tea
+235,Soup,Hearty & Seasonal,Bread
+236,Coffee
+237,Coffee
+238,Coffee,Tea
+239,Bread
+240,Tea
+241,Coffee,Tea
+242,Coffee
+243,Fudge
+244,Tea
+245,Soup,Tea
+246,Juice
+247,Alfajores
+248,Bread
+249,Coffee,Alfajores
+250,Juice,Alfajores,Cookies,Pick and Mix Bowls,Mineral water
+251,Coffee,Alfajores
+252,Fudge
+253,Mighty Protein,Juice
+254,Coffee,Mineral water,Alfajores
+255,Mighty Protein,Coffee
+256,Alfajores
+257,Coffee,Bread
+258,Medialuna,Medialuna
+259,Medialuna,Bread
+260,Farm House
+261,Coffee,Pastry
+262,Farm House
+263,Coffee,Coffee,Pastry,Pastry,Coffee
+264,Medialuna
+265,Bread,Tea,Sandwich
+266,Bread
+267,Jam,Coffee,Farm House
+268,Focaccia
+269,Bread
+270,Tartine,Pastry,Bread,My-5 Fruit Shoot
+271,Farm House,Pastry
+272,Bread,Pastry
+273,Pastry,Bread
+274,Jam,Coffee
+275,Farm House
+276,Bread,Pastry
+277,Coffee,Tea,Bread
+278,Jam
+279,Pastry,Medialuna,Medialuna
+280,Coffee
+281,Tea
+282,Bread
+283,Bread,Pastry
+284,Pastry
+285,Farm House
+286,Tea
+287,Coffee,Brownie,Alfajores,Fudge
+288,Bread,Fudge,Cookies
+289,Coffee
+290,Bread
+291,Coffee,Coffee,Jam,Pastry
+292,Soup,Coffee
+293,Smoothies,Soup,Hearty & Seasonal,Pastry
+294,Pastry,Bread
+295,Pastry,Medialuna
+296,Tea,Coffee
+297,Bread,Cookies
+298,Coffee,Coffee,Bread,Hearty & Seasonal,Pick and Mix Bowls,Sandwich,Focaccia
+299,Coffee
+300,Coffee,Sandwich,Brownie
+301,Brownie,Cookies
+302,Coffee
+303,Coffee
+304,Sandwich,Bread,Coffee
+305,Coffee,Hot chocolate
+306,Tea
+307,Sandwich,Coffee,Brownie
+308,Brownie,Pastry,Focaccia,Farm House
+309,Cake,Focaccia
+310,Soup,Hearty & Seasonal,Mineral water
+311,Hearty & Seasonal
+312,Hearty & Seasonal
+313,Coffee,Coffee,Pastry
+314,Coffee
+315,Tea,Cake
+316,Coffee,Soup
+317,Bread,Focaccia,Fudge
+318,Hot chocolate,Coffee,Alfajores
+319,Brownie,Pastry,Cake
+320,Medialuna,Alfajores,Dulce de Leche
+321,Dulce de Leche,Alfajores
+322,Bread,Cake
+323,Cake,Coffee
+324,Bread
+325,Sandwich
+326,Bread,Coffee,Alfajores,Medialuna
+327,Coffee
+328,Bread,Alfajores
+329,Tea,Coffee
+330,Bread
+331,Dulce de Leche
+332,Farm House
+333,Fudge
+334,Coffee
+335,Coffee,Alfajores,Juice,Ella's Kitchen Pouches,Brownie
+336,Alfajores
+337,Alfajores,Brownie,Cookies,Bread,Juice
+338,Cake,Cookies
+339,Pick and Mix Bowls
+340,Coffee
+341,Farm House
+342,Tea
+343,Coffee
+344,Focaccia,Farm House
+345,Dulce de Leche
+346,Juice,My-5 Fruit Shoot,Ella's Kitchen Pouches,Cookies
+347,Bread
+348,Hot chocolate
+349,Coffee
+350,Coffee
+351,Coffee
+352,Medialuna
+353,Bread,Tea,Jam
+354,Farm House
+355,Bread
+356,Coffee
+357,Medialuna,Coffee
+358,Bread
+359,Medialuna,Pastry,Medialuna
+360,Coffee,Coffee,Jam
+361,Bread,Coffee
+362,Coffee,Coffee
+363,Bread
+364,Hot chocolate
+365,Bread,Medialuna
+366,Bread,Jam
+367,Jam,Bread
+368,Coffee,Bread
+369,Bread,Farm House
+370,Bread,Coffee,Coffee
+371,Tea,Pastry
+372,Coffee,Coffee
+373,Bread
+374,Pastry,Brownie
+375,Farm House
+376,Coffee
+377,Tea,Coffee,Honey,Cookies
+378,Tea
+379,Bread
+380,Brownie
+381,Bread,Coffee
+382,Bread
+383,Coffee
+384,Tea,Tea
+385,Tea
+386,Coffee,Coffee
+387,Bread,Coffee
+388,Bread,Bread
+389,Bread,The BART
+390,Coffee,Brownie
+391,Coffee
+392,Coffee,Brownie
+393,Mineral water,Coffee,Coffee,Tartine
+394,Brownie,Coffee
+395,Brownie,Juice
+396,Coffee,Coffee,Bread,Tea,Alfajores,Medialuna,Pastry,Jam
+397,Bread
+398,Fudge,Fudge
+399,Coffee,Pick and Mix Bowls
+400,Pastry,Bread
+401,Soup,Scandinavian,Coffee,Mineral water
+402,Juice,Mineral water,Sandwich,Pick and Mix Bowls
+403,Bread,Pastry,Bread
+404,Hearty & Seasonal,Hearty & Seasonal,Coffee,Coffee
+405,Bread,Hearty & Seasonal,Coffee,Mineral water
+406,Coffee,Tartine,Sandwich,Brownie
+407,Coffee,Brownie
+408,Alfajores,Coffee,Tartine
+409,Mighty Protein,Coffee
+410,Coffee,Hot chocolate
+411,Soup,Jam,Coffee,Coffee
+412,Mineral water,Brownie
+413,Scandinavian,Coffee
+414,Scandinavian,Coffee
+415,Coffee,Coffee
+416,Coffee,Coffee,Hot chocolate,Brownie,Hearty & Seasonal
+417,Tea,Cake
+418,Medialuna
+419,Alfajores,Tea,Coffee
+420,Coffee,Juice,Brownie,Alfajores
+421,Coffee,Sandwich
+422,Bread,Soup
+423,Soup,Bread
+424,Bread
+425,Tea,Brownie,Cookies
+426,Coffee,Bread,Brownie
+427,Brownie
+428,Cookies,Bread,Jam
+429,Coffee
+430,Tea,Brownie,Tea
+431,Alfajores,Medialuna,Scandinavian
+432,Hot chocolate,Coffee,Alfajores,Cookies
+433,Brownie
+434,Fudge
+435,Tea,Brownie
+436,Dulce de Leche,Fudge
+437,Coffee,Pastry
+438,Farm House,Coffee
+439,Bread,Scandinavian,Medialuna
+440,Bread
+441,Pastry,Tea,Alfajores
+442,Pastry,Coffee
+443,Bread,Pastry,Muffin,Farm House
+444,Medialuna,Tea
+445,Alfajores
+446,Sandwich,Tea
+447,Tea,Bread
+448,Bread,Coffee,Pastry
+449,Coffee,Coffee,Muffin,Alfajores,Empanadas
+450,Coffee
+451,Bread
+452,Coffee
+453,Coffee
+454,Bread
+455,Bread,Pastry,Medialuna,Tea
+456,Tea,Bread
+457,Muffin
+458,Coffee,Muffin
+459,Coffee,Bread,Pastry,Medialuna
+460,Coffee,Coffee,Muffin
+461,Muffin,Hot chocolate,Scandinavian,Bread
+462,Farm House
+463,Muffin
+464,Coffee
+465,Bread
+466,Coffee,Coffee,Cookies
+467,Coffee,Coffee
+468,Muffin
+469,Coffee,Tea,Keeping It Local
+470,Coffee,Medialuna
+471,Bread
+472,Tartine,Scandinavian
+473,Coffee,Tea
+474,Bread
+475,Coffee,Coke
+476,Coffee,Muffin
+477,Coffee,Bread,Coffee,Medialuna,Muffin,Scandinavian
+478,Bread
+479,Coke
+480,Bread,Scandinavian
+481,Coffee
+482,Bread
+483,Scandinavian,Bread
+484,Fudge,Fudge
+485,Soup,Hearty & Seasonal,Coffee
+486,Coke
+487,Coffee,Cookies,Tea
+488,Pastry,Tea,Coffee
+489,Bread
+490,Coffee,Medialuna
+491,Coffee,Coffee,Muffin,Sandwich,Soup
+492,Tea,Coffee,Muffin
+493,Alfajores
+494,Bread
+495,Coffee,Medialuna
+496,Coffee
+497,Coffee
+498,Medialuna
+499,Empanadas,Bread,Scandinavian
+500,Coffee,Tartine
+501,Tea
+502,Scandinavian
+503,Muffin
+504,Scandinavian,Bread
+505,Bread
+506,Coffee
+507,Bread
+508,Bread
+509,Coffee,Coffee
+510,Cookies,Scandinavian
+511,Coffee,Bread,Empanadas,Medialuna
+512,Coffee,Pastry
+513,Bread
+514,Pastry,Tea
+515,Coffee,Coffee,Pastry
+516,Coffee,Bread
+517,Coffee,Keeping It Local
+518,Fudge
+519,Tartine,Coffee,Coffee
+520,Hot chocolate,Coffee,Pastry,Medialuna
+521,Alfajores,Coffee
+522,Coffee
+523,Coffee,Coffee,Medialuna
+524,Coke
+525,Coffee,Coffee,Alfajores
+526,Muffin
+527,Farm House,Brownie,Fudge
+528,Coffee,Coffee
+529,Tea,Muffin,Farm House
+530,Coffee,Pastry
+531,Pastry,Brownie
+532,Medialuna
+533,Coffee
+534,Pastry,Coffee,Juice
+535,Coffee,Bread
+536,Tea,Coffee
+537,Tea,Alfajores
+538,Alfajores,Coffee
+539,Scandinavian
+540,Pastry,Medialuna
+541,Brownie
+542,Farm House
+543,Coffee,Cookies
+544,Soup
+545,Art Tray,Coffee,Coffee,Brownie
+546,Coffee
+547,Farm House
+548,Soup,Art Tray,Alfajores,Frittata
+549,Sandwich,Coffee
+550,Tea
+551,Farm House
+552,Scandinavian,Muffin
+553,Farm House
+554,Scandinavian
+555,Soup
+556,Hearty & Seasonal,Tea,Bread
+557,Hot chocolate
+558,Coffee,Sandwich,Hearty & Seasonal
+559,Brownie,Hearty & Seasonal,Sandwich,Coffee
+560,Medialuna,Coffee
+561,Coffee,Brownie,Soup
+562,Sandwich,Sandwich,Alfajores,Alfajores,Focaccia
+563,Farm House,Tartine
+564,Bread
+565,Coffee
+566,Hot chocolate,Tea,Muffin
+567,Pastry
+568,Coffee,Brownie,Hearty & Seasonal,Soup,Bowl Nic Pitt
+569,Coffee
+570,Alfajores,Medialuna,Scandinavian,Farm House
+571,Soup,Coffee
+572,Tea,Tea
+573,Coffee,Tea,Cookies
+574,Tea,Muffin
+575,Coffee,Coffee,Brownie
+576,Coffee
+577,Coffee
+578,Coffee
+579,Farm House
+580,Coffee,Bread Pudding
+581,Coffee,Medialuna
+582,Hot chocolate
+583,Coffee,Hot chocolate,Farm House
+584,Pastry,Coffee
+585,Bread
+586,Pastry,Coffee
+587,Coffee,Coffee
+588,Coffee,Pastry
+589,Farm House
+590,Bread
+591,Coffee,Hot chocolate
+592,Bread
+593,Coffee,Focaccia,Coffee,Medialuna,Bread
+594,Coffee
+595,Bread,Keeping It Local
+596,Bread,Coffee
+597,Bread
+598,Bread,Medialuna
+599,Coffee
+600,Coffee,Coffee,Medialuna
+601,Coffee,Cookies,Tartine
+602,Tea,Bread
+603,Bread,Keeping It Local,Coffee
+604,Coffee,Medialuna
+605,Coffee,Medialuna
+606,Tea
+607,Juice,Coke,Soup
+608,Bread
+609,Brownie
+610,Brownie,Bread,Coffee
+611,Coffee,Pastry,Bread,Hearty & Seasonal
+612,Bread,Coffee,Brownie
+613,Coffee
+614,Bread,Cookies
+615,Fudge,Eggs
+616,Bread
+617,Bread,Muffin
+618,Soup
+619,Coffee,Bread Pudding
+620,Bread,Tartine
+621,Sandwich,Coffee,Fudge,Jam,Bread Pudding
+622,Bread Pudding,Soup,Coffee
+623,Hearty & Seasonal,Bread
+624,Coffee,Coffee,Cookies
+625,Coffee
+626,Bread
+627,Coffee,Bread,Soup
+628,Soup,Tea,Focaccia
+629,Coffee,My-5 Fruit Shoot,Cookies
+630,Coffee,Coffee
+631,Coffee,Sandwich,Tea
+632,Scandinavian
+633,Adjustment
+634,Coffee
+635,Medialuna,Coffee
+636,Bread
+637,Bread
+638,Coffee,Pastry
+639,Farm House
+640,Medialuna,Brownie
+641,Bread,Pastry,Brownie
+642,Pastry,Bread,Cookies
+643,Bread,Bread
+644,Cookies,Pastry,Coffee,Juice
+645,Pastry,Cookies,Coffee
+646,Coffee,Medialuna
+647,Bread
+648,Tartine,Coffee
+649,Coffee,Medialuna
+650,Bread
+651,Bread,Coffee,Alfajores,Cookies
+652,Bread,Coffee,Coffee
+653,Bread
+654,Bread,Coffee,Tea,Keeping It Local,Jam,Cookies
+655,Pastry,Coffee,Juice
+656,Medialuna,Bread,Focaccia
+657,Pastry,Medialuna,Coffee
+658,Coffee
+659,Coffee
+660,Coffee,Cookies,Truffles,Brownie,Bread
+661,Art Tray,Tea
+662,Bread
+663,Coffee
+664,Coffee,Cookies
+665,Brownie
+666,Bread,Tea,Empanadas
+667,Bread,Hot chocolate
+668,Coffee,Cookies
+669,Bread
+670,Tartine,Sandwich,Tea,Bread
+671,Soup,Sandwich,Bread
+672,Soup,Bread
+673,Fudge
+674,Coffee
+675,Coffee,Empanadas,Soup
+676,Bread,Coffee,Brownie
+677,Coffee,Smoothies,Juice,Soup,Hearty & Seasonal
+678,Alfajores,Sandwich,Hot chocolate,Coffee,Scandinavian,Cookies
+679,Tea,Coffee
+680,Bread,Cookies
+681,Alfajores,Cookies,Bread,Bread
+682,Tea,Brownie
+683,Tea,Bread
+684,Coffee,Alfajores
+685,Bread
+686,Empanadas,Coffee
+687,Bread
+688,Coffee,Hot chocolate
+689,Coffee
+690,Coffee,Brownie
+691,Tea,Hot chocolate,Brownie,Truffles
+692,Coffee,Keeping It Local
+693,Coffee
+694,Alfajores
+695,Scandinavian,Chimichurri Oil
+696,Bread,Truffles
+697,Brownie,Focaccia
+698,Coffee,Bread
+699,Coffee,Tea,Art Tray,Cookies
+700,Coffee
+701,Bread
+702,Coffee,Alfajores,Alfajores,Coke
+703,Bread
+704,Bread
+705,Bread,Pastry,Medialuna,Coffee
+706,Coffee
+707,Bread,Keeping It Local
+708,Bread
+709,Coffee,Scandinavian
+710,Bread,Farm House,Pastry,Medialuna
+711,Medialuna
+712,Coffee
+713,Bread,Farm House
+714,Bread
+715,Keeping It Local,Bread
+716,Bread,Medialuna
+717,Tea
+718,Coffee,Coffee,Pastry,Keeping It Local
+719,Coffee
+720,Tea
+721,Hot chocolate
+722,Tea,Sandwich
+723,Bread
+724,Medialuna,Muffin,Brownie
+725,Coffee,Muffin
+726,Bread
+727,Coffee,Medialuna
+728,Coffee
+729,Coffee,Medialuna
+730,Coffee
+731,Coffee,Hot chocolate,Brownie,Bread
+732,Bread,Bread
+733,Bread
+734,Coffee,Brownie
+735,Ella's Kitchen Pouches,Coffee,Coffee,Medialuna,Pastry
+736,Jam
+737,Bread
+738,Ella's Kitchen Pouches
+739,Coffee,Coffee,Muffin
+740,Tea,Coffee,Truffles
+741,Coffee
+742,Pastry,Brownie
+743,Brownie,Bread
+744,Bread,Coffee
+745,Bread,Pastry
+746,Alfajores,Bread
+747,Brownie,Muffin,Scandinavian
+748,Coffee
+749,Fudge
+750,Tea,Brownie
+751,Bread
+752,Bread,Muffin
+753,Scandinavian
+754,Bread
+755,Coffee
+756,Bread
+757,Coffee,Soup
+758,Soup
+759,Coffee,Bread,Coffee,Alfajores,Alfajores
+760,Farm House
+761,Farm House,Chimichurri Oil
+762,Farm House
+763,Sandwich
+764,Soup,Bread
+765,Coffee,Art Tray,Frittata,Sandwich
+766,Scandinavian,Fairy Doors
+767,Mineral water,Cookies
+768,Brownie,Coffee,Coffee
+769,Bread,Hearty & Seasonal
+770,Hearty & Seasonal,Bread
+771,Scandinavian,Focaccia
+772,Fudge
+773,Coffee,Tea,Cake
+774,Coffee
+775,Truffles
+776,Coffee,Coffee,Brownie
+777,Scandinavian
+778,Muffin,Coffee
+779,Soup,Coke,Hot chocolate,Fudge
+780,Sandwich,Juice,Alfajores
+781,Coffee,Alfajores
+782,Brownie,Coffee,Hot chocolate,Coffee,Juice
+783,Scandinavian
+784,Coffee
+785,Hot chocolate,My-5 Fruit Shoot,Cake
+786,Soup,Sandwich,Tea,Alfajores,Alfajores
+787,Mineral water
+788,Bread
+789,Scandinavian
+790,Tea
+791,Tea
+792,Fudge
+793,Scandinavian
+794,Coffee
+795,Coffee
+796,Coffee
+797,Coffee
+798,Tea,Medialuna
+799,Medialuna,Coffee
+800,Coffee
+801,Coffee,Medialuna
+802,Pastry,Coffee
+803,Keeping It Local,Tea,Coffee,Coffee
+804,Farm House
+805,Tea,Truffles
+806,Farm House
+807,Coffee,Keeping It Local
+808,Medialuna,Truffles,Tea
+809,Tea,Keeping It Local
+810,Medialuna,Pastry,Truffles
+811,Pastry
+812,Focaccia,Farm House
+813,Coffee,Bread
+814,Coffee,Truffles
+815,Coffee,Coffee,Kids biscuit
+816,Coffee,Tea
+817,Coffee,Coffee
+818,Bread,Bread
+819,Bread
+820,Medialuna
+821,Bread
+822,Tea,Bread
+823,Mineral water,Coffee,Kids biscuit,Muffin
+824,Pastry
+825,Coffee,Keeping It Local
+826,Bread,Sandwich,Tea
+827,Fudge,Fudge,Bread,Truffles
+828,Sandwich,Coffee
+829,Coffee,Tea,Truffles
+830,Bread
+831,Sandwich,Coffee,Tea
+832,Coffee
+833,Sandwich,Bread
+834,Hearty & Seasonal,Hearty & Seasonal,Alfajores,Truffles
+835,Frittata,Muffin,Coffee,Coffee
+836,Sandwich,Hot chocolate,Coffee,Hearty & Seasonal,Cookies
+837,Bread,Bread,Sandwich
+838,Farm House
+839,Coffee,Muffin
+840,Scandinavian,Bread
+841,Sandwich,Soup,Coffee,Tea
+842,Farm House
+843,Coffee,Tea
+844,Soup,Jam,Muffin,Coffee
+845,Bread
+846,Coffee,Soup
+847,Coffee,Coffee,Muffin
+848,Bread,Muffin,Kids biscuit
+849,Coffee,Bread
+850,Coffee
+851,Muffin
+852,Ella's Kitchen Pouches,Bread,Muffin
+853,Soup,Sandwich,Frittata
+854,Bread,Sandwich
+855,Coffee,Bread,Coffee,Bread,Cookies
+856,Bread,Art Tray,Tea,Hot chocolate
+857,Art Tray,Coffee,Hot chocolate,Juice,Muffin
+858,Hot chocolate,Coffee
+859,Farm House
+860,Farm House,Muffin
+861,Coffee,Medialuna
+862,Bread,Keeping It Local
+863,Coffee
+864,Bread
+865,Medialuna,Tea,Coffee
+866,Hot chocolate
+867,Coffee
+868,Coke
+869,Coffee
+870,Farm House
+871,Coffee,Coffee,Keeping It Local,Bread
+872,Coffee,Truffles
+873,Coffee
+874,Coffee,Tea,Keeping It Local
+875,Coffee,Keeping It Local
+876,Coffee,Tea
+877,Coffee
+878,Coffee
+879,Coffee,Bread
+880,Coffee
+881,Bread
+882,Farm House
+883,Coffee,Kids biscuit
+884,Tea,Muffin
+885,Bread
+886,Coffee,Pastry
+887,Scandinavian,Coffee,Soup
+888,Scandinavian,Pastry,Muffin
+889,Coffee,Pastry
+890,Soup,Hearty & Seasonal,Tea
+891,Bread,Scandinavian
+892,Scandinavian,Bread,Truffles
+893,Coffee,Coffee,Soup
+894,Medialuna,Medialuna
+895,Coffee,Coffee,Medialuna,Medialuna,Bread
+896,Bread
+897,Coffee,Bread
+898,Soup,Sandwich
+899,Sandwich,Hearty & Seasonal,Coffee
+900,Soup
+901,Bread
+902,Soup,Coffee,Pastry
+903,Pastry,Coffee,Coffee
+904,Coffee,Coffee,Soup,Bread
+905,Bread
+906,Coffee,Coffee,Sandwich,Hearty & Seasonal
+907,Coffee,Coffee,Soup
+908,Bread
+909,Bread
+910,Bread
+911,Coffee
+912,Bread,Soup
+913,Coffee,Coffee,Hearty & Seasonal,Soup
+914,Scandinavian
+915,Coffee,Medialuna
+916,Bread
+917,Bread,Brownie
+918,Fudge
+919,Coke
+920,Coke
+921,Brownie,Muffin
+922,Tea,Bread,Truffles,Pastry
+923,Tea
+924,Bread,Truffles
+925,Medialuna
+926,Coffee,Medialuna
+927,Bread
+928,Pastry,Coffee
+929,Coffee,Bread,Jam
+930,Bread,Coffee
+931,Coke
+932,Bread
+933,Coffee,Coffee
+934,Coffee
+935,Pastry
+936,Scandinavian,Pastry
+937,Bread,Granola
+938,Tea,Coffee,Pastry
+939,Bread,Mineral water
+940,Tea,Medialuna
+941,Brownie
+942,Tea,Coffee,Pastry
+943,Hot chocolate,Coffee,Cake
+944,Bread
+945,Bread,Jam
+946,Scandinavian
+947,Bread,Coffee,Pastry,Cake
+948,Bread
+949,Coffee
+950,Bread
+951,Coffee,Cake
+952,Coffee
+953,Coffee
+954,Coffee,Soup
+955,Scandinavian,Bread
+956,Sandwich,Soup,Bread,Cake
+957,Coffee,Bread,Tartine
+958,Soup
+959,Bread
+960,Soup,Juice,Brownie
+961,Coffee
+962,Hearty & Seasonal
+963,Coffee,Soup,Sandwich,Tea,Cake
+964,Tea,Soup
+965,Coffee,Bread,Sandwich
+966,Soup,Coffee
+967,Soup,Coffee
+968,Tea,Soup
+969,Cake
+970,Coffee,Tea,Cake,Muffin
+971,Bread
+972,Coffee,Bread
+973,Coffee,Tea
+974,Tea,Soup
+975,Coffee,Tea,Cake
+976,Bread,Bread
+977,Hearty & Seasonal
+978,Bread,Mineral water,Brownie
+979,Fudge
+980,Muffin,Hot chocolate,Coffee
+981,Tea,Muffin
+982,Cake,Coffee
+983,Victorian Sponge
+984,Soup,Sandwich,Tea
+985,Scandinavian
+986,Coffee
+987,Bread
+988,Tartine,Bread,Coffee
+989,Medialuna,Medialuna
+990,Bread
+991,Bread,Scandinavian
+992,Bread
+993,Coffee,Medialuna
+994,Siblings
+995,Siblings
+996,Bread,Medialuna
+997,Medialuna,Pastry
+998,Keeping It Local,Tea
+999,Farm House
+1000,Pastry
+1001,Farm House
+1002,Tea
+1003,Tea,Scandinavian
+1004,Coffee,Muffin
+1005,Coffee
+1006,Bread
+1007,Farm House,Scandinavian,Coffee,Pastry
+1008,Coffee
+1009,Coffee,Keeping It Local
+1010,Bread
+1011,Jam
+1012,Alfajores,Medialuna,Coffee,Bread
+1013,Coffee,Keeping It Local
+1014,Coffee
+1015,Bread
+1016,Tea,Muffin
+1017,Coffee,Hot chocolate,Alfajores
+1018,Bread,Pastry,Bread
+1019,Coffee
+1020,Bread
+1021,Tea
+1022,Coffee,Sandwich
+1023,Bread
+1024,Soup
+1025,Coffee
+1026,Tea
+1027,Coffee,Soup,Art Tray,Pastry
+1028,Hearty & Seasonal,Mineral water,Alfajores
+1029,Bread
+1030,Coffee,Hearty & Seasonal,Hearty & Seasonal,Alfajores,Alfajores,Cake,Bread
+1031,Coffee
+1032,Bread
+1033,Cake
+1034,Bread
+1035,Fudge
+1036,Muffin
+1037,Bread,Coffee
+1038,Coffee,Hearty & Seasonal,Sandwich,Bread
+1039,Soup,Coffee
+1040,Coffee,Hearty & Seasonal,Keeping It Local
+1041,Bread
+1042,Coffee,Coffee
+1043,Scandinavian
+1044,Coffee,Alfajores
+1045,Coffee
+1046,Soup,Brownie
+1047,Coffee,Coffee
+1048,Bread
+1049,Bread
+1050,Bread,Scandinavian,Coffee
+1051,Coffee,Coffee
+1052,Coffee
+1053,Soup
+1054,Coffee,Muffin
+1055,Cake,Bread,Hot chocolate
+1056,Coffee,Cake
+1057,Cake,Alfajores,Coffee,Tea
+1058,Bread
+1059,Coffee
+1060,Coffee,Tea,Hot chocolate,Brownie,Alfajores,Bread
+1061,Hot chocolate,Tea,Brownie,Alfajores
+1062,Coffee
+1063,Scandinavian
+1064,Coffee,Cookies
+1065,Bread,Coffee
+1066,Coffee,Bread
+1067,Coffee,Medialuna
+1068,Coffee,Coffee
+1069,Coffee
+1070,Medialuna,Pastry
+1071,Coffee,Tea,Pastry,Muffin
+1072,Coffee,Pastry
+1073,Bread,Coffee,Keeping It Local
+1074,Bread,Bread,Pastry
+1075,Coffee,Medialuna
+1076,Bread
+1077,Coffee
+1078,Coffee,Coffee
+1079,Bread
+1080,Bread,Tea,Pastry
+1081,Coffee,Cookies
+1082,Bread,Bread
+1083,Coffee
+1084,Coffee
+1085,Tea,Bread
+1086,Coffee,Coffee,Medialuna,Bread
+1087,Bread
+1088,Pastry,Coffee
+1089,Coffee,Pastry
+1090,Coffee,Bread,Alfajores
+1091,Coffee
+1092,Bread
+1093,Bread
+1094,Farm House
+1095,Bread
+1096,Coffee,Tea
+1097,Coffee
+1098,Coffee
+1099,Coffee,Soup
+1100,Soup
+1101,Farm House,Pastry
+1102,Soup
+1103,Coffee
+1104,Coffee,Coffee,Brownie
+1105,Coffee,Bread,Sandwich
+1106,Coffee
+1107,Sandwich,Soup,Bread,Tea
+1108,Soup,Art Tray,My-5 Fruit Shoot,Bread,Muffin
+1109,Tea,Sandwich
+1110,Bread,Soup
+1111,Soup,Tea
+1112,Farm House
+1113,Mineral water,Mineral water,Coffee,Soup,Sandwich
+1114,Bread,Coffee,Keeping It Local
+1115,Soup,Bread
+1116,Art Tray,Coffee,Bread,Hearty & Seasonal,Hearty & Seasonal
+1117,Bread
+1118,Farm House
+1119,Brownie
+1120,Farm House
+1121,Bread,Soup,Alfajores
+1122,Coke,Coffee,Medialuna,Cake
+1123,Scandinavian,Alfajores,Alfajores
+1124,Scandinavian
+1125,Hot chocolate,Pastry
+1126,Coke,Coffee,Brownie
+1127,Farm House
+1128,Coffee,Pastry
+1129,Farm House
+1130,Farm House
+1131,Cookies,Brownie,Coffee,Tea
+1132,Tea,Coffee,Medialuna,Cookies,Farm House
+1133,Bread,Coffee
+1134,Coffee
+1135,Tea,Coffee,Alfajores
+1136,Bread,Hot chocolate,Coffee
+1137,Medialuna,Tea
+1138,Coke
+1139,Medialuna
+1140,Fudge,Fudge
+1141,Tea,Muffin
+1142,Alfajores,Coffee
+1143,Coffee
+1144,Coffee
+1145,Bread
+1146,Coffee
+1147,Coffee
+1148,Bread,Pastry
+1149,Coffee
+1150,Coffee,Farm House
+1151,Keeping It Local,Coffee,Coffee
+1152,Coffee,Medialuna
+1153,Coffee
+1154,Coffee,Pastry
+1155,Tea
+1156,Coffee,Keeping It Local
+1157,Pastry,Coffee,Smoothies
+1158,Coffee,Muffin,Medialuna
+1159,Coffee
+1160,Coffee
+1161,Coffee
+1162,Coffee,Tea,Farm House,Brownie
+1163,Coffee
+1164,Coffee,Bread,Coffee,Keeping It Local
+1165,Tea
+1166,Coffee,Bread
+1167,Farm House
+1168,Coffee
+1169,Sandwich
+1170,Farm House,Scandinavian
+1171,Coffee
+1172,Coffee,Cake
+1173,Bread,Tea
+1174,Truffles
+1175,Bread,Fudge,Medialuna,Pastry
+1176,Bread
+1177,Tea,Brownie,Cake
+1178,Juice,Medialuna
+1179,Tea,Cake
+1180,Coffee,Tea,Sandwich,Medialuna,Bread
+1181,Alfajores
+1182,Coffee,Coffee
+1183,Cookies,My-5 Fruit Shoot,Coffee,Keeping It Local
+1184,Hot chocolate,Hot chocolate,Bread,Alfajores
+1185,Bread
+1186,Farm House
+1187,Coffee,Juice,Pastry
+1188,Cookies
+1189,Brownie
+1190,Coffee,Medialuna
+1191,Keeping It Local,Coffee
+1192,Tea
+1193,Tea,Medialuna
+1194,Scandinavian,Bread
+1195,Scandinavian,Bread
+1196,Pastry,Keeping It Local,Coffee,Hot chocolate
+1197,Bread
+1198,Coffee
+1199,Bread
+1200,Coffee,Cookies
+1201,Coffee,Coffee,Pastry
+1202,Tea
+1203,Coffee,Brownie,Bread
+1204,Sandwich,Coke
+1205,Cake,Bread,Tea,Medialuna
+1206,Bread
+1207,Coffee,Medialuna,Brownie
+1208,Bread
+1209,Coffee
+1210,Medialuna
+1211,Coffee,Scandinavian,Medialuna
+1212,Tea,Brownie
+1213,Coffee,Pastry
+1214,Coffee
+1215,Fudge,Cake,Coffee,Tea
+1216,Bread
+1217,Coffee,Cake
+1218,Sandwich,Coffee,Coffee,Tea,Brownie,Cake
+1219,Coffee,Alfajores,Coffee,Cake
+1220,Coffee,Coffee
+1221,Mineral water
+1222,Coffee,Cookies
+1223,Bread,Cake
+1224,Bread
+1225,Coffee
+1226,Tea,Brownie,Cake
+1227,Hot chocolate,Hot chocolate,Medialuna
+1228,Hot chocolate
+1229,Coffee,Bread
+1230,Cake,Coffee
+1231,Coffee,Cake
+1232,Hot chocolate,Medialuna,Coffee
+1233,Hot chocolate,Medialuna,Coffee
+1234,Coffee,Hot chocolate,Medialuna
+1235,Coffee,Keeping It Local,Bread
+1236,Coffee
+1237,Coffee
+1238,Coffee
+1239,Coffee,Bread
+1240,Coffee,Sandwich
+1241,Bread,Keeping It Local,Cake
+1242,Coffee
+1243,Brownie,Cookies
+1244,Bread
+1245,Juice,Bread
+1246,Coffee,Cookies
+1247,Coffee
+1248,Coffee,Medialuna,Cookies,Tea
+1249,Tea,Cookies
+1250,Mineral water
+1251,Coffee,Bread,Tea,Pastry,Tiffin,Cake
+1252,Coffee
+1253,Cookies
+1254,Sandwich
+1255,Coffee
+1256,Tea,Sandwich
+1257,Jam
+1258,Brownie,Tea
+1259,Bread
+1260,Bread,Olum & polenta
+1261,Bread
+1262,Polenta,Tea
+1263,Coffee,Sandwich
+1264,Coffee
+1265,Coffee,Cake
+1266,Tea,Coffee,Alfajores
+1267,Coke
+1268,Coffee
+1269,Coffee
+1270,Coffee,Medialuna
+1271,Cookies,Bread
+1272,Coffee
+1273,Coffee
+1274,Bread
+1275,Bread
+1276,Coffee
+1277,Coffee
+1278,Hot chocolate
+1279,Pastry
+1280,Coffee,Keeping It Local
+1281,Pastry,Bread
+1282,Bread,Keeping It Local
+1283,Pastry
+1284,Hot chocolate
+1285,Coffee,Pastry
+1286,Bread,Medialuna
+1287,Medialuna,Medialuna,Pastry,Alfajores
+1288,Coffee
+1289,Coffee
+1290,Tea,Cake
+1291,Coffee,Bread
+1292,Coffee
+1293,Bread,Tea,Cake
+1294,Bread,Bread,Coffee
+1295,Coffee,Alfajores
+1296,Coffee
+1297,Bread,Cookies
+1298,Bread,Sandwich,Tea
+1299,Bread
+1300,Tea,Coffee,Cake
+1301,Bread
+1302,Hot chocolate,Brownie
+1303,Bread
+1304,Tea,Coffee
+1305,Coffee,Cake
+1306,The Nomad,Bread,Tea
+1307,Coffee,Smoothies
+1308,Bread
+1309,Bread
+1310,Coffee,Bread
+1311,Coffee,Cake
+1312,Fudge,Coffee,Coffee,Sandwich
+1313,Brownie
+1314,Bread,Sandwich
+1315,Coffee
+1316,Bread,Brownie
+1317,Sandwich
+1318,Coffee,Sandwich,Hearty & Seasonal
+1319,Coffee
+1320,Tea,Cake
+1321,Coffee,Bread
+1322,Coffee,Sandwich
+1323,Coffee
+1324,Cake
+1325,Coffee,Alfajores
+1326,Coffee,Cake
+1327,Tea,Tea
+1328,Bread
+1329,Tea,Cake
+1330,Brownie,Alfajores
+1331,Hack the stack,Art Tray,Coffee
+1332,Tea
+1333,Coffee,Cake
+1334,Coffee,Coke
+1335,Hack the stack,My-5 Fruit Shoot,Tea,Art Tray
+1336,Ella's Kitchen Pouches
+1337,Coffee,Medialuna
+1338,Coffee
+1339,Coffee,Coffee
+1340,Coffee,Bread
+1341,Coffee,Medialuna
+1342,Coffee
+1343,Coffee
+1344,Coffee,Pastry,Bread
+1345,Bread,Coffee
+1346,Bread
+1347,Keeping It Local,Coffee,Bread
+1348,Coffee
+1349,Coffee,Coffee
+1350,Keeping It Local,Tea,Brownie,Bread
+1351,Coffee,Pastry
+1352,Bread
+1353,Coffee,Cake
+1354,Coffee,Keeping It Local
+1355,Coffee
+1356,Bread,Medialuna
+1357,Bread,Focaccia
+1358,Medialuna,Coffee
+1359,Bread
+1360,Coffee,Coffee
+1361,Coffee
+1362,Bread
+1363,Farm House
+1364,Coffee,Pastry
+1365,Cookies,Juice,Tea,Alfajores
+1366,Coffee,Alfajores
+1367,Coffee,Sandwich
+1368,Coffee
+1369,Coffee,Coffee
+1370,Bread
+1371,Coffee,Bread
+1372,Coffee
+1373,Tea
+1374,Sandwich,Bread
+1375,Tea,Art Tray
+1376,Bread
+1377,Coffee,Cake
+1378,Mineral water,Coffee
+1379,Mineral water
+1380,Tartine
+1381,Coffee
+1382,Bread,Coffee
+1383,Bread
+1384,Hot chocolate,Bread,Sandwich
+1385,Juice
+1386,Bread
+1387,Mineral water
+1388,Sandwich,Bread,Jam
+1389,Coffee,Sandwich,Bread
+1390,Tea
+1391,Tea
+1392,Bread,Pastry
+1393,Coffee,Tea
+1394,Bread,Brownie
+1395,Alfajores,Alfajores,Bread
+1396,Coffee,Medialuna
+1397,Medialuna
+1398,Coffee,Bread,Pastry,Medialuna
+1399,Tea,Alfajores,Cake
+1400,Tea,Brownie,Alfajores,Pastry,Bread
+1401,Medialuna,Pastry
+1402,Brownie
+1403,Coffee,Bread
+1404,Pastry
+1405,Bread
+1406,Medialuna,Coffee
+1407,Coffee
+1408,Ella's Kitchen Pouches,Coffee
+1409,Coffee,Pastry
+1410,Coffee
+1411,Coffee,Tartine
+1412,Bread
+1413,Coffee
+1414,Tea,Coffee
+1415,Coffee,Coffee,Medialuna,Pastry
+1416,Pastry,Coffee
+1417,Coffee,Medialuna
+1418,Tea,Coffee,Keeping It Local
+1419,Pastry,Bread,Cookies,Coffee,Bread
+1420,Jam,Sandwich,Bread,Smoothies
+1421,Bread,Cookies
+1422,Bread
+1423,Cookies,Coffee,Coffee
+1424,Sandwich
+1425,Hot chocolate
+1426,Bread,Coffee,Bakewell,Lemon and coconut
+1427,Coffee
+1428,Coffee,Coffee,Lemon and coconut,Sandwich
+1429,Tea
+1430,Bread,Coffee
+1431,Bread
+1432,Bread
+1433,Coffee
+1434,Coffee,Hot chocolate,Pastry,Cake
+1435,Bread
+1436,Bread
+1437,Bread
+1438,Coffee,Coffee
+1439,Bread,Tea,Lemon and coconut,Cake
+1440,Pastry,Medialuna,Coffee,Tea
+1441,Bread
+1442,Tea,Coffee,Tiffin,Cookies,Ella's Kitchen Pouches
+1443,Coffee
+1444,Pastry,Pastry
+1445,Pastry,Bread,Coffee
+1446,Tea,Keeping It Local
+1447,Coffee
+1448,Coffee,Medialuna
+1449,Bread
+1450,Keeping It Local,Coffee,Coffee
+1451,Hot chocolate,Pastry
+1452,Bread
+1453,Coffee,Tea
+1454,Bread
+1455,Coke
+1456,Bread
+1457,Bread,Bread
+1458,Coffee,Coffee,Medialuna,Pastry
+1459,Muffin,Coffee
+1460,Coffee,Muffin
+1461,Coffee,Bread
+1462,Farm House
+1463,Muffin,Coffee
+1464,Bread,Coffee,Bread
+1465,Coffee
+1466,Coffee
+1467,Scandinavian,Farm House
+1468,Coffee
+1469,Tea
+1470,Coffee,Muffin
+1471,Bread
+1472,Bread,Scandinavian
+1473,Tea
+1474,Medialuna,Coffee
+1475,Tea
+1476,Tea,Sandwich
+1477,Coffee,Cake
+1478,Coffee,Cake,Muffin
+1479,Cookies
+1480,Tea
+1481,Sandwich
+1482,Farm House
+1483,Cake,Sandwich
+1484,Coffee,Hot chocolate,Cake,Bread
+1485,Tea,Tea,Muffin
+1486,Coffee,Tea,Bread,Fudge,Jam
+1487,Juice,Tea,Cookies
+1488,Coffee,Bread,Cake
+1489,Coke
+1490,Tiffin,Pastry
+1491,Alfajores
+1492,Tiffin,Coffee
+1493,Bread
+1494,Bread
+1495,Medialuna,Bread
+1496,Cake,Bread
+1497,Bread
+1498,Farm House
+1499,Medialuna,Pastry
+1500,Keeping It Local,Cookies,Coffee
+1501,Coffee,Coffee
+1502,Coffee,Tea,Hot chocolate
+1503,Smoothies
+1504,Coffee,Keeping It Local
+1505,Coffee
+1506,Farm House
+1507,Tea,Tea
+1508,Bread,Medialuna
+1509,Pastry,Bread
+1510,Coffee,Pastry
+1511,Coffee,Keeping It Local
+1512,Coffee
+1513,Bread
+1514,Bread,Cookies
+1515,Coffee
+1516,Bread
+1517,Keeping It Local,Coffee,Fudge,Jam
+1518,Tea,Hot chocolate,Keeping It Local,Coffee,Art Tray
+1519,Coffee
+1520,Coffee,Cake
+1521,Bread,Bread,Jammie Dodgers
+1522,Muffin,Smoothies
+1523,Coffee,Coffee,Jammie Dodgers,Cookies
+1524,Coffee,Cake,Bread
+1525,Bread,Muffin,Cookies
+1526,Bread
+1527,Tea
+1528,Hot chocolate,Bread,Alfajores
+1529,Tea
+1530,Muffin
+1531,Sandwich,Mineral water,Bread,Coffee,Alfajores,Bread
+1532,Sandwich,Alfajores
+1533,Coffee
+1534,Coffee,Coffee,Muffin
+1535,Coffee,Tiffin
+1536,Coffee,Bread
+1537,Hot chocolate,Cookies,Hot chocolate
+1538,Tea
+1539,Bread,Hot chocolate
+1540,Hot chocolate,Fudge
+1541,Coffee
+1542,Coffee,Tiffin
+1543,Tiffin,Bread,Bread
+1544,Bread
+1545,Bread,Pastry,Jam
+1546,Hot chocolate
+1547,Coffee,Hot chocolate,Pastry,Bread
+1548,Pastry,Coffee
+1549,Bread,Tea,Muffin,Pastry
+1550,Bread,Coffee,Coffee
+1551,Coffee,Pastry
+1552,Tea
+1553,Tea
+1554,Tea,The Nomad
+1555,Coffee
+1556,Medialuna
+1557,Farm House
+1558,Bread
+1559,Coffee,Coffee
+1560,Farm House
+1561,Bread,Coffee,Pastry,Keeping It Local
+1562,Bread,Coffee
+1563,Hearty & Seasonal
+1564,Bread
+1565,Fudge
+1566,Scandinavian
+1567,Bread,Alfajores,Bread
+1568,Sandwich,Coke,Juice,Coffee
+1569,Farm House
+1570,Bread
+1571,Coffee,Medialuna
+1572,Pastry,Bread,Coffee
+1573,Sandwich,Coffee
+1574,Bread
+1575,Muffin,Bread
+1576,Coffee
+1577,Coffee,Muffin
+1578,Coffee
+1579,Fudge,Spread
+1580,Bread
+1581,Coffee,Pastry,Bread
+1582,Coffee,Cake
+1583,Coffee
+1584,Bread
+1585,Tea
+1586,Coffee
+1587,Hot chocolate,Coffee,Cake
+1588,Tea,Bread
+1589,Cake
+1590,Medialuna
+1591,Coffee,Pastry
+1592,Coffee
+1593,Coffee
+1594,Bread
+1595,Coffee,Cake
+1596,Bread
+1597,Coffee
+1598,Coffee
+1599,Tea
+1600,Keeping It Local,Coffee
+1601,Sandwich,Tea
+1602,Coffee
+1603,Coffee,Coffee
+1604,Coffee
+1605,Bread
+1606,Tea,Bread
+1607,Pastry,Coffee
+1608,Coffee,Bread,Pastry
+1609,Coffee,Medialuna
+1610,Tea,Coffee
+1611,Bread
+1612,Coffee
+1613,Coffee,Coffee,Medialuna,Pastry,Cookies
+1614,Bread,Cake
+1615,Bread,Coffee
+1616,Bread
+1617,Coffee
+1618,Toast
+1619,Hot chocolate,Hot chocolate
+1620,Fudge,Scandinavian
+1621,Medialuna,Coffee
+1622,Coffee,Pastry
+1623,Coffee,Medialuna,Cake
+1624,Sandwich,Farm House,Fudge
+1625,Sandwich,Scone
+1626,Sandwich,Bread
+1627,Sandwich
+1628,Coffee
+1629,Sandwich,Sandwich,Bread
+1630,Sandwich,Coke
+1631,Sandwich,Coke
+1632,Sandwich
+1633,Sandwich,Scone
+1634,Hot chocolate
+1635,Coffee,Muffin
+1636,Bread
+1637,Bread
+1638,Bread
+1639,Coffee,Alfajores
+1640,Bread,Sandwich
+1641,Bread,Scone
+1642,Coffee,Medialuna
+1643,Cake
+1644,Truffles
+1645,Cake,Coffee
+1646,Scone
+1647,Scone,Hot chocolate,Mineral water,Cookies
+1648,Coffee,Tea,Scone
+1649,Bread
+1650,Coffee
+1651,Bread
+1652,Coffee
+1653,Bread
+1654,Coffee,Bread,Toast,Pastry
+1655,Coffee
+1656,Muffin
+1657,Bread
+1658,Farm House
+1659,Coffee
+1660,Bread
+1661,Bread
+1662,Tea,Coffee,Pastry,Alfajores
+1663,Coffee,Coffee,Toast,Medialuna
+1664,Coffee
+1665,Juice,Tea,Bread,Medialuna
+1666,Medialuna,Coffee,Toast
+1667,Pastry,Tea
+1668,Farm House
+1669,Coffee,Coffee
+1670,Coffee
+1671,Coffee,Coffee,Muffin
+1672,Coffee
+1673,Coffee,Muffin
+1674,Coffee,Sandwich
+1675,Dulce de Leche,Bread,Coffee,Pastry,Bread
+1676,Jam
+1677,Coffee,Coffee,Medialuna
+1678,Cookies,Coffee,Pastry
+1679,Farm House
+1680,Coffee
+1681,Coffee
+1682,Bread,Pastry
+1683,Juice,Sandwich
+1684,Coffee,Coffee,Alfajores
+1685,Coffee,Sandwich
+1686,Bread
+1687,Bread
+1688,Bread,Tea,Medialuna
+1689,Coffee,Muffin
+1690,Cake,Tea
+1691,Cookies,Coffee
+1692,Hearty & Seasonal,Coke
+1693,Coffee,Coffee,Muffin,Sandwich
+1694,Alfajores
+1695,Alfajores
+1696,Sandwich,Coffee
+1697,Hot chocolate,Coffee,Muffin,Sandwich
+1698,Muffin
+1699,Coffee,Tea,Bread
+1700,Coffee
+1701,Bread,Medialuna,Cookies,Tea
+1702,Coffee
+1703,Coffee,Bread,Coffee
+1704,Alfajores,Alfajores,Coffee,Sandwich,Sandwich,Bread
+1705,Coffee,Coffee,Bread,Cookies,Medialuna,Coffee
+1706,Coffee,Cookies
+1707,Farm House
+1708,Coffee
+1709,Coke
+1710,Coffee,Bread
+1711,Pastry,Bread
+1712,Coffee
+1713,Hot chocolate,Alfajores,Bread,Muffin
+1714,Coffee
+1715,Bread
+1716,Coffee,Coffee
+1717,Coffee,Coffee,Medialuna
+1718,Coffee
+1719,Pastry,Medialuna,Bread
+1720,Muffin,Coffee,Coffee
+1721,Bread
+1722,Bread
+1723,Bread,Coffee
+1724,Bread,Tea
+1725,Bread,Cookies,Muffin
+1726,Tea,Coffee
+1727,Medialuna,Pastry,Bread
+1728,Coffee,Alfajores
+1729,Toast
+1730,Coffee
+1731,Tea
+1732,Hot chocolate,Medialuna
+1733,Coffee,Pastry
+1734,Coffee
+1735,Cake,Bread
+1736,Cake,Coffee
+1737,Coffee,Hot chocolate,Pastry
+1738,Tea
+1739,Bread
+1740,Tea
+1741,Bread,Farm House
+1742,Coffee
+1743,Bread
+1744,Bread
+1745,Bread,Cookies
+1746,Coffee,Bread
+1747,Cookies,Coffee
+1748,Farm House
+1749,Bread
+1750,Coffee
+1751,Coffee,Tea,Sandwich,Muffin
+1752,Coffee,Bread,Cake
+1753,Bread
+1754,Tea
+1755,Tea,Coffee
+1756,Coffee
+1757,Sandwich,Tea,Alfajores
+1758,Coffee,Mineral water,Alfajores,Cake,Sandwich
+1759,Coffee,Bread
+1760,Coffee
+1761,Tea,Cake
+1762,Bread
+1763,Cookies
+1764,Coffee,Juice
+1765,Coffee,Muffin,Mineral water,Juice
+1766,Bread
+1767,Bread
+1768,Bread
+1769,Bread,Hot chocolate,Juice,Toast
+1770,Coffee,Cake,Bread
+1771,Coffee,Toast
+1772,Coffee,Toast
+1773,Tea
+1774,Tea,Toast,Cookies
+1775,Farm House
+1776,Bread,Cake
+1777,Bread
+1778,Coffee,Coffee
+1779,Tea,Alfajores
+1780,Bread
+1781,Coffee
+1782,Juice,Coffee,Tea
+1783,Coffee,Medialuna
+1784,Bread
+1785,Medialuna,Coffee
+1786,Cake,Tea
+1787,Bread,Coffee
+1788,Farm House
+1789,Bread
+1790,Farm House,Crepes
+1791,Bread
+1792,Hot chocolate
+1793,Coffee,Coffee,Hot chocolate,Sandwich
+1794,Sandwich
+1795,Coffee,Truffles
+1796,Jam
+1797,Bread
+1798,Bread
+1799,Sandwich,Coffee,Mineral water
+1800,Bread
+1801,Coke,Coke,Cookies
+1802,Bread,Bread
+1803,Coffee,Coffee,Sandwich
+1804,Bread,Coffee
+1805,Tea,Coffee
+1806,Tea,Coffee
+1807,Hot chocolate
+1808,Coffee,Coffee,Alfajores
+1809,Fudge,Jam,Cake,Coffee
+1810,Cake
+1811,Coffee,Bread
+1812,Pastry,Coffee
+1813,Coffee,Pastry
+1814,Coffee,Pastry
+1815,Truffles,Bread
+1816,Coffee
+1817,Coffee
+1818,Coffee,Toast,Vegan mincepie,Mineral water,Coffee
+1819,Medialuna,Bread
+1820,Coffee,Cake
+1821,Coffee,Pastry
+1822,Coffee
+1823,Coffee
+1824,Bread,Cake,Cookies
+1825,Coffee,Tea,Bread,Cake
+1826,Toast,Juice
+1827,Bread
+1828,Pastry,Pastry
+1829,Coffee
+1830,Truffles
+1831,Tea
+1832,Bread
+1833,Farm House
+1834,Coffee,Cake
+1835,Coffee,Sandwich
+1836,Tea
+1837,Hearty & Seasonal,Tea
+1838,Coffee
+1839,Coffee
+1840,Tea,Cake
+1841,Farm House
+1842,Coffee
+1843,Coffee
+1844,Bread
+1845,Coffee,Cake
+1846,Cake
+1847,Alfajores,Medialuna,Brownie
+1848,Bread
+1849,Bread
+1850,Bread,Jam
+1851,Tea,Sandwich
+1852,Coffee,Medialuna,Juice,Coke
+1853,Toast,Coffee,Bread
+1854,Bread,Coffee,Toast
+1855,Bread,Coffee,Medialuna
+1856,Coffee
+1857,Bread,Toast
+1858,Bread
+1859,Coffee,Coffee,Medialuna,Cake
+1860,Tea
+1861,Tea
+1862,Coffee,Medialuna
+1863,Bread
+1864,Bread,Coffee
+1865,Bread
+1866,Bread,Brownie
+1867,Coffee
+1868,Tea,The Nomad
+1869,Fudge
+1870,Alfajores,Coffee
+1871,Bread
+1872,Coffee,Alfajores
+1873,Brownie,Coffee
+1874,Bread
+1875,Jam,Fudge
+1876,Tea
+1877,Coffee
+1878,Coffee
+1879,Bread
+1880,Coffee
+1881,Coffee
+1882,Medialuna,Cake
+1883,Coffee,Cake
+1884,Coffee,Coffee
+1885,The Nomad,Tea,Bread,Brownie,Fudge,Fudge
+1886,Scone,Tea
+1887,Bread
+1888,Sandwich,Bread,Mineral water,Coffee,Juice
+1889,Bread,Bread,Scandinavian
+1890,Sandwich
+1891,Coffee,Brownie
+1892,Hearty & Seasonal,Brownie,Bread
+1893,Tea,Hearty & Seasonal
+1894,Coffee,Brownie
+1895,Coffee,Farm House
+1896,Coffee,Scone
+1897,Scone,Crepes,Alfajores,Alfajores
+1898,Scandinavian
+1899,Cake
+1900,Bread
+1901,Bread
+1902,Bread,Tea
+1903,Brownie,Mineral water
+1904,Farm House
+1905,Coffee
+1906,Sandwich,Scone,Bread,Coffee
+1907,Coffee,Hot chocolate,Tea,Alfajores,Sandwich
+1908,Tea
+1909,Bread
+1910,Bread,Medialuna
+1911,Pastry,Toast,Coffee
+1912,Coffee,Pastry
+1913,Tea
+1914,Coffee,Toast
+1915,Coffee
+1916,Jam,Coffee,Hot chocolate,Toast
+1917,Coffee,Sandwich
+1918,Bread,Tea,Bakewell,Alfajores
+1919,Bread,Coffee,Cake
+1920,Bread
+1921,Bread
+1922,Coffee,Coffee,Bakewell,Cake
+1923,Bread
+1924,Coffee,Medialuna
+1925,Bread
+1926,Bread,Vegan mincepie
+1927,Coffee,Bread,Vegan mincepie,Cake
+1928,Bread
+1929,Sandwich
+1930,Pastry,Bread
+1931,Cake,Vegan mincepie,Coffee,Coffee,Mineral water,Mineral water
+1932,Jam
+1933,Bread
+1934,Frittata,Coffee
+1935,Coffee,Coffee
+1936,Bread
+1937,Sandwich
+1938,Sandwich,Bread,Truffles,Coffee
+1939,Tea,Toast
+1940,Coffee
+1941,Cake
+1942,Coffee,Bread,Bread,Bread
+1943,Fudge
+1944,Jam,Jam
+1945,Bread
+1946,Coffee
+1947,Tea,Bread,Hot chocolate,Vegan mincepie,Bread
+1948,Juice,Cake,Jammie Dodgers,Bread
+1949,Bread
+1950,Vegan mincepie,Tea
+1951,Coffee,Pastry
+1952,Scandinavian,Vegan mincepie
+1953,Bread
+1954,Coffee,Fudge,Jam,Fudge,Fudge
+1955,Jam,Coffee,Coffee
+1956,Coffee,Coffee
+1957,Coffee,Cookies,Pastry
+1958,Medialuna,Bread
+1959,Coffee,Art Tray
+1960,Tea,Tea,Toast
+1961,Coke
+1962,Coffee,Bread
+1963,Bakewell,Farm House
+1964,Bread,Tea,Coffee,Alfajores,Hot chocolate
+1965,Farm House
+1966,Coffee,Bread
+1967,Coffee,Toast,Scandinavian
+1968,Bread,Vegan mincepie
+1969,Bread
+1970,Coffee
+1971,Coffee,Bread,Alfajores
+1972,Coffee
+1973,Bread
+1974,Medialuna
+1975,Coffee
+1976,Frittata,Tea,Coffee
+1977,Tea
+1978,Tea,Bakewell
+1979,Farm House
+1980,Coffee,Pastry,Medialuna
+1981,Coffee,Coffee,Sandwich
+1982,Coffee,Medialuna
+1983,Coffee,Pastry
+1984,Muffin,Bread,Bread,Coffee
+1985,Coffee,Bakewell
+1986,Bread
+1987,Coffee
+1988,Bread
+1989,Coffee,Coffee,Alfajores
+1990,Bread,Truffles,Coffee,Truffles,Scandinavian
+1991,Tea,Cake
+1992,Jam
+1993,Fudge,Jam,Jam
+1994,Bread
+1995,Coffee
+1996,Tea,Coffee
+1997,Coffee,Tea,Toast
+1998,Coffee
+1999,Bread
+2000,Coffee
+2001,Coffee
+2002,Bread
+2003,Bread
+2004,Fudge
+2005,Coffee
+2006,Coffee,Tea
+2007,Coffee,Coffee,Farm House
+2008,Medialuna,Muffin,Coffee,Juice
+2009,Coffee
+2010,Coffee,Bread,Bread
+2011,Coffee,Coffee,Bread,Muffin
+2012,Vegan mincepie,Coffee,Tea
+2013,Alfajores,Coffee
+2014,Coffee,Coffee,Medialuna
+2015,Bread,Tea
+2016,Coffee
+2017,Coffee
+2018,Bread,Pastry
+2019,Bread
+2020,Farm House
+2021,Bread,Alfajores
+2022,Coffee
+2023,Jam
+2024,Coffee
+2025,Pastry
+2026,Tea
+2027,Coffee,Coffee
+2028,Coffee,Toast
+2029,Coffee
+2030,Coke,Truffles
+2031,Sandwich,Tea,Coffee
+2032,Tea
+2033,Coke
+2034,Bread,Sandwich,Bread
+2035,Juice,Bread,Art Tray,Toast
+2036,Tea,Bread
+2037,Coffee,Alfajores
+2038,Hot chocolate,Hot chocolate,Toast,Pastry
+2039,Sandwich,Tea,Juice,Vegan mincepie
+2040,Bread
+2041,Alfajores,Muffin
+2042,Coffee,Jammie Dodgers
+2043,Jammie Dodgers,Bread
+2044,Tea,Coffee,Jammie Dodgers,Cake,Bread
+2045,Coffee,Coffee
+2046,Bread,Pastry,Medialuna
+2047,Alfajores,Pastry
+2048,Medialuna,Toast,Coffee
+2049,Bread,Tea,Pastry
+2050,Bread
+2051,Coffee
+2052,Bread,Hot chocolate
+2053,Bread
+2054,Pastry
+2055,Coffee,Coffee
+2056,Bread
+2057,Coffee,Hot chocolate
+2058,Farm House
+2059,Coffee
+2060,Coffee,Coffee
+2061,Coffee
+2062,Dulce de Leche
+2063,Pastry,Farm House
+2064,Bread,Vegan mincepie,Bread
+2065,Bread
+2066,Coffee,Hot chocolate,Pastry
+2067,Coffee,Vegan mincepie,Pastry
+2068,Bread
+2069,Bread,Bread
+2070,Coffee,Hot chocolate
+2071,Bread,Sandwich,Coffee
+2072,Bread
+2073,Coffee,Coffee,Hot chocolate
+2074,Coffee
+2075,Coffee
+2076,Sandwich,Coke
+2077,Coffee
+2078,Coffee,Bread
+2079,Bread
+2080,Coffee
+2081,Coffee,Coffee
+2082,Coffee,Fudge
+2083,Coffee,Sandwich,Tea,Bread
+2084,Coffee,Coffee,Sandwich
+2085,Bread
+2086,Bread,Coffee
+2087,Coffee,Coffee,Hot chocolate
+2088,Fudge
+2089,Coffee
+2090,Coffee,Bread
+2091,Bread,Bread
+2092,Cookies
+2093,Bread
+2094,Coffee,Bread,Bread,Alfajores
+2095,Tea
+2096,Bare Popcorn,Ella's Kitchen Pouches
+2097,Farm House
+2098,Bread,Fudge,Pastry
+2099,Hot chocolate
+2100,Tea,Vegan mincepie,Jammie Dodgers,Coffee,Medialuna
+2101,Coffee
+2102,Hot chocolate,Coffee
+2103,Bread
+2104,Vegan mincepie
+2105,Medialuna,Dulce de Leche
+2106,Muesli
+2107,Muesli
+2108,Coffee,Jam,Jam
+2109,Bread,Toast
+2110,Bread,Toast
+2111,Coffee
+2112,Jammie Dodgers,Vegan mincepie
+2113,Coffee
+2114,Bread
+2115,Coffee,Coffee,Bread
+2116,Tea
+2117,Coffee
+2118,Coffee,Coffee,Juice,Farm House
+2119,Coffee,Pastry
+2120,Bread
+2121,Coffee
+2122,Coffee
+2123,Coffee
+2124,Tea,Pastry
+2125,Cookies,Coffee,Coffee,Toast
+2126,Pastry,Tea
+2127,Tea,Coffee,Coffee,Toast
+2128,Bread
+2129,Bread
+2130,Coffee
+2131,Coffee,Coffee
+2132,Pastry
+2133,Bread
+2134,Scandinavian,Coffee,Alfajores
+2135,Truffles,Ella's Kitchen Pouches,Bread
+2136,Tea,Fudge,Fudge,Jam,Juice,Ella's Kitchen Pouches
+2137,Cake
+2138,Bread,Cookies
+2139,Coffee,Cake
+2140,Coffee,Tea,Toast
+2141,Truffles
+2142,Bread
+2143,Coffee
+2144,Bread
+2145,Bread
+2146,Truffles
+2147,Toast,Bread,Tea,Cookies
+2148,Sandwich,Coffee,Coffee
+2149,Bread,Sandwich
+2150,Alfajores
+2151,Scone
+2152,Bread,Coffee,Alfajores,Vegan mincepie
+2153,Fudge
+2154,Jam
+2155,Coffee,Pastry,Jam
+2156,Coffee
+2157,Tea,Bread,Bread,Fudge
+2158,Bread,Sandwich
+2159,Farm House
+2160,Coffee
+2161,Jam,Jam
+2162,Brownie,Coffee
+2163,Tea,Sandwich,Bread
+2164,Tea
+2165,Sandwich,Tea
+2166,Coffee
+2167,Coffee
+2168,Bread
+2169,Tea,Brownie
+2170,Jam
+2171,Jam
+2172,Cookies,Sandwich,Juice
+2173,Tea,Pastry
+2174,Farm House
+2175,Scone,Coffee
+2176,Coffee,Coffee
+2177,Coffee,Coffee,Vegan mincepie
+2178,Bread,Scone
+2179,Farm House,Scone
+2180,Coffee,Brownie
+2181,Coffee,Tea
+2182,Coffee
+2183,Tea,Coffee
+2184,Bread
+2185,Coffee,Coffee,Coffee,Alfajores
+2186,Coffee,Medialuna
+2187,Cookies,Hot chocolate
+2188,Coffee
+2189,Coffee
+2190,Tea
+2191,Coffee,Bread
+2192,Hot chocolate
+2193,Coffee
+2194,Bread,Medialuna
+2195,Coffee
+2196,Bread
+2197,Coffee,Tea,Pastry
+2198,Medialuna,Coffee,Coffee
+2199,Coffee,Hot chocolate
+2200,Fudge,Jam,Fudge,Fudge
+2201,Hot chocolate,Smoothies,Bread,Cookies,Cookies
+2202,Coffee,Tea,Toast,Brownie
+2203,Coffee,Coffee
+2204,Coffee
+2205,Farm House
+2206,Tea
+2207,Bread
+2208,Bread,Coffee,Coffee,Bread
+2209,Tea
+2210,Coffee
+2211,Coffee,Fudge,Brownie
+2212,Coffee
+2213,Coffee,Bread
+2214,Coffee,Medialuna
+2215,Farm House
+2216,Fudge,Coffee,Sandwich
+2217,Toast,Cookies
+2218,Sandwich,Coffee,Bread
+2219,Focaccia,Scandinavian
+2220,Truffles,Hearty & Seasonal
+2221,Coffee,Coffee
+2222,Sandwich,Sandwich
+2223,Hearty & Seasonal,Coffee,Bread
+2224,Bread,Cake
+2225,Tea,Bread
+2226,Bread
+2227,Cookies,Bread
+2228,Coffee
+2229,Coffee
+2230,Tea,Sandwich
+2231,Bread,Brownie
+2232,Tea,Coffee
+2233,Coffee
+2234,Coffee,Cookies
+2235,Cake,Bread
+2236,Coffee
+2237,Mineral water,Coke,Bread,Sandwich
+2238,Juice,Bread
+2239,Coffee
+2240,Truffles,Tea,Cake
+2241,Coffee,Scone,Brownie
+2242,Tea
+2243,Sandwich,Juice,Tea
+2244,Coffee
+2245,Cake,Sandwich,Sandwich,Bread
+2246,Coffee,Coffee
+2247,Sandwich,Coffee
+2248,Juice,Tea,Bread
+2249,Brownie
+2250,Fudge
+2251,Tea
+2252,Tea
+2253,Truffles,Sandwich
+2254,Medialuna,Hot chocolate,Bread,Coffee
+2255,Medialuna
+2256,Coffee,Coffee
+2257,Coffee
+2258,Tea
+2259,Bread
+2260,Bread
+2261,Tea,Coke,Cake,Brownie,Bread
+2262,Bread
+2263,Tea,Tea,Medialuna,Cookies,Bread
+2264,Coffee
+2265,Sandwich,Bread,Tea
+2266,Bread,Toast,Medialuna
+2267,Pastry,Medialuna
+2268,Coffee
+2269,Coffee
+2270,Coffee,Coffee,Pastry
+2271,Cookies
+2272,Cookies
+2273,Bread
+2274,Coffee
+2275,Coffee,Coffee,Pastry
+2276,Bread
+2277,Cookies,Cake,Coffee,Hot chocolate
+2278,Pastry,Medialuna,Pastry,Coffee,Coffee,Hot chocolate,The Nomad,Toast
+2279,Coffee,Cake,Bread
+2280,Tea
+2281,Coffee,Cake
+2282,Coffee
+2283,Coffee,Cake
+2284,Toast,Coffee
+2285,Coffee
+2286,Hot chocolate,Cake
+2287,Hearty & Seasonal,Juice
+2288,Coffee
+2289,Hearty & Seasonal,Coffee
+2290,Farm House,Cake
+2291,Coffee,Bread,Farm House
+2292,Sandwich
+2293,Bread
+2294,Coffee,Brownie
+2295,Sandwich,Juice,Juice
+2296,Coffee
+2297,Coffee
+2298,Tea
+2299,Coffee
+2300,Hot chocolate
+2301,Cake,Coffee
+2302,Bread
+2303,Bread
+2304,Coffee,Hot chocolate
+2305,Coffee
+2306,Coffee,Bread
+2307,Coffee,Cake
+2308,Coffee
+2309,Farm House
+2310,Coffee
+2311,Bread
+2312,Coffee
+2313,Farm House
+2314,Scandinavian
+2315,Bread
+2316,Bread,Pastry
+2317,Coffee
+2318,Coffee
+2319,Coffee,Bread,Pastry
+2320,Coffee,Bread
+2321,Coffee,Coffee,Medialuna
+2322,Jam,Fudge,Medialuna
+2323,Tea
+2324,Bread,Bread
+2325,Bread
+2326,Pastry,Coffee,Coffee,Coffee
+2327,Coffee
+2328,Bread
+2329,Coffee,Coffee
+2330,Coffee,Cookies
+2331,Coffee
+2332,Coffee
+2333,Pastry,Coffee,Coffee
+2334,Bread
+2335,Fudge,Coffee
+2336,Hot chocolate,Cake
+2337,Muffin,Coffee
+2338,Coffee,Coffee,Medialuna
+2339,Gingerbread syrup
+2340,Coffee,Coffee
+2341,Sandwich,Coffee
+2342,Bread
+2343,Coffee
+2344,Coke,Coffee,Juice
+2345,Medialuna
+2346,Bread
+2347,Coffee,Pastry
+2348,Coffee,Cake,Bread
+2349,Coffee
+2350,Bread
+2351,Bread
+2352,Tea,Coffee,Toast
+2353,Sandwich,Smoothies
+2354,Fudge
+2355,Coffee,Hot chocolate
+2356,Coffee,Hot chocolate,Cake,Cake
+2357,Hot chocolate,Sandwich
+2358,Sandwich,Mineral water,Truffles
+2359,Cake
+2360,Scandinavian
+2361,Coffee
+2362,Cake,Bread
+2363,Cake
+2364,Coffee
+2365,Bread,Coffee,Cake
+2366,Coffee,Bread
+2367,Cookies,Cookies,Coffee,Coke
+2368,Bread
+2369,Hot chocolate,Tea,Cake,Brownie
+2370,Coke
+2371,Tea,Coffee
+2372,Coffee,Bread
+2373,Pastry,Bread
+2374,Bread
+2375,Tea,Cookies
+2376,Brownie
+2377,Coffee
+2378,Tea
+2379,Coffee,Bread,Sandwich
+2380,Scandinavian
+2381,Coffee
+2382,Bread
+2383,Coffee,Coffee,Pastry
+2384,Coffee
+2385,Medialuna
+2386,Coffee,Muffin
+2387,Bread,Pastry,The Nomad,Bread,Bread
+2388,Coffee
+2389,Coffee,Hot chocolate,Cake
+2390,Bread,Coffee,Coffee,Pastry
+2391,Bread,Coffee,Pastry,Brownie
+2392,Coffee
+2393,Tea
+2394,Pastry,Bread
+2395,Tea
+2396,Coffee,Medialuna
+2397,Coffee
+2398,Hot chocolate,Tea,Bread
+2399,Tea,Toast
+2400,Coffee,Cake
+2401,Coffee
+2402,Panatone
+2403,Coffee,Bread,Cake
+2404,Bread
+2405,Bread
+2406,Truffles
+2407,Coffee
+2408,Tea
+2409,Bread,Sandwich
+2410,Cookies
+2411,Bread
+2412,Tea,Cake
+2413,Bread
+2414,Coffee
+2415,Bread,Brownie
+2416,Art Tray,Bare Popcorn,Juice,Coffee,Brownie,Muffin,Cake,Cookies,Panatone
+2417,Coke
+2418,Tea
+2419,Bread
+2420,Tea,Brownie
+2421,Tea,Sandwich,Medialuna
+2422,Tea,Hot chocolate
+2423,Tea,Muffin,Cake
+2424,Sandwich,Mineral water
+2425,Pastry,Tea,Coffee
+2426,Coffee,Hot chocolate
+2427,Medialuna
+2428,Bread,Muffin,Bread,Tea
+2429,Jam
+2430,Bread,Tea
+2431,Farm House
+2432,Bread,Brownie,Juice,Cake
+2433,Coffee,Hot chocolate,Coffee,Cake
+2434,Fudge,Fudge
+2435,Cake,Cake,Juice
+2436,Bread,Jam,Jam,Fudge,Fudge
+2437,Bread
+2438,Bread
+2439,Pastry,Coffee
+2440,Bread
+2441,Coffee,Coffee,Medialuna
+2442,Pastry
+2443,Medialuna,Coffee
+2444,Bread,Farm House
+2445,Fudge
+2446,Bread
+2447,Farm House
+2448,Medialuna,Medialuna,Pastry
+2449,Coffee
+2450,Muffin,Cake
+2451,Bread,Pastry,The Nomad
+2452,Pastry,Scone
+2453,Coffee,Coffee
+2454,Coffee
+2455,Medialuna,Coffee,Hot chocolate,Bread,Scandinavian
+2456,Brownie,Cake,Hot chocolate
+2457,Coffee,Coffee,Cake,Brownie
+2458,Hot chocolate,Coffee
+2459,Coffee,Bread
+2460,Bread
+2461,Sandwich,Sandwich,Bread,Fudge
+2462,Tea,Juice,Muffin,Gingerbread syrup
+2463,Tea,Coffee
+2464,Coffee
+2465,Coffee,Brownie
+2466,Bread
+2467,Bread,Hot chocolate,Muffin,Smoothies
+2468,Coffee,Hot chocolate
+2469,Coffee,Scone,Juice,Cake,Brownie
+2470,Bread
+2471,Cake,Coffee
+2472,Gingerbread syrup,Jam,Fudge,Fudge
+2473,Fudge
+2474,Bread
+2475,Coffee
+2476,Cake,Scone,Coffee,Tea,Tea,Brioche and salami
+2477,Bread,Truffles
+2478,Bread,Coffee
+2479,Bread
+2480,Frittata,Coffee
+2481,Muffin,Cake
+2482,Hot chocolate
+2483,Coffee,Scone
+2484,Bread
+2485,Bread
+2486,Tea
+2487,Bread,Scone
+2488,Panatone
+2489,Sandwich,Bread,Coffee,Coke
+2490,Gingerbread syrup
+2491,Bread,Brownie,Bread
+2492,Frittata
+2493,Farm House,Cookies
+2494,Tea,Scone
+2495,Bread
+2496,Jam
+2497,Tea
+2498,Tea,Bread
+2499,Sandwich,Coffee
+2500,Coffee,Scone
+2501,Cake
+2502,Cake,Scone,Cookies,Juice,Coffee,Coffee
+2503,Coffee,Coffee
+2504,Coffee,Hot chocolate
+2505,Toast,Sandwich,Hot chocolate,Cookies
+2506,Bread,Coffee,Tea
+2507,Hot chocolate,Cake
+2508,Hot chocolate
+2509,Coffee
+2510,Bread
+2511,Coffee,Medialuna,Pastry
+2512,Coffee
+2513,Coffee,Coffee,Pastry
+2514,Coffee,Medialuna
+2515,Coffee
+2516,Coffee,Hot chocolate
+2517,Coffee,Tea
+2518,Coffee,Coffee
+2519,Coffee
+2520,Coffee,Coffee,Cake
+2521,Coffee,Coffee,Coffee,Toast
+2522,Hot chocolate,Tea
+2523,Pastry,Medialuna,Gingerbread syrup
+2524,Coffee,Coffee,Sandwich
+2525,Sandwich,Coffee,Hot chocolate
+2526,Coffee
+2527,Coffee,Cake
+2528,Cookies,Coffee
+2529,Bread,Farm House
+2530,Coffee,Coffee
+2531,Coffee
+2532,Medialuna,Pastry
+2533,Coffee,Coffee
+2534,Coffee
+2535,Coffee,Medialuna,Pastry,Medialuna
+2536,Toast,Tea,Coffee
+2537,Bread
+2538,Farm House
+2539,Bread
+2540,Bread
+2541,Bread,Medialuna,Toast,Bread
+2542,Coffee,Coffee,Tea,Bread
+2543,Bread,Farm House,Bread,Coffee,Sandwich,Truffles
+2544,Coffee
+2545,Coffee
+2546,Coffee,Cake
+2547,Coffee
+2548,Coffee,Hot chocolate,Bread,Cookies,Bread
+2549,Hot chocolate
+2550,Medialuna,Bread
+2551,Bread
+2552,Bread
+2553,Coffee
+2554,Coffee,Bread,Cake,Bread
+2555,Bread
+2556,Muesli,Bread
+2557,Coffee,Coffee,Bread
+2558,Coffee
+2559,Coffee
+2560,Bread,Coffee
+2561,Coffee
+2562,Tea
+2563,Tea
+2564,Bread,Crisps,Juice,Coffee,Hot chocolate,Truffles
+2565,Cake
+2566,Fudge
+2567,Coffee,Tea
+2568,Coffee,Juice,Coffee,Coke,Sandwich,Sandwich
+2569,Sandwich,Sandwich
+2570,Bread
+2571,Coffee,Bread
+2572,Bread,Coffee
+2573,Bread
+2574,Coffee
+2575,Coffee,Coffee,Hot chocolate,Cake,Cake
+2576,Sandwich,Coffee,Hot chocolate,Cookies,Crisps,Bare Popcorn,Coffee
+2577,Coffee
+2578,Hot chocolate,Hot chocolate
+2579,Coffee
+2580,Bread
+2581,Coffee
+2582,Coffee
+2583,Tea,Bread
+2584,Bread
+2585,Coffee,Hot chocolate,Bread
+2586,Bread
+2587,Bread,Bread
+2588,Tea,Medialuna,Bread
+2589,Medialuna,Pastry,Coffee,Coffee,Toast
+2590,Medialuna
+2591,Bread
+2592,Farm House
+2593,Coffee,Coffee,Pastry,Toast
+2594,Coffee,Cookies,Bread
+2595,Cake,Bread,Jammie Dodgers,Coffee,Tea,Coffee
+2596,Coffee,Coffee,Smoothies,Toast
+2597,Coffee,Coffee,Smoothies,Toast
+2598,Toast,Coffee,Smoothies
+2599,Bread
+2600,Bread,Bread
+2601,Bread,Coffee
+2602,Fudge,Bread,Coffee,Bread,Cake
+2603,Bread,Pastry
+2604,Tea,Frittata
+2605,Sandwich,Coffee,Bread
+2606,Bread
+2607,Coffee,Hot chocolate,Bread
+2608,Bread,Bread,Juice,Juice
+2609,Coffee
+2610,Hot chocolate,Bread
+2611,Coffee,Coffee,Juice,Sandwich,Cake,Bread,Lemon and coconut
+2612,Bread
+2613,Hearty & Seasonal,Coffee,Coffee
+2614,Medialuna
+2615,Coffee,Coffee
+2616,Bread,Pastry
+2617,Pastry,Bread,Cake
+2618,Scandinavian
+2619,Coke,Tea,Hot chocolate,Medialuna
+2620,Coffee
+2621,Jammie Dodgers,Bread
+2622,Medialuna,Coffee,Coffee
+2623,Coffee,Bread
+2624,Hot chocolate,Coffee
+2625,Coffee,Bread,Juice,Truffles,Frittata,Cookies,Crisps
+2626,Bread
+2627,Coffee,Coffee,Cake,Frittata
+2628,Jammie Dodgers
+2629,Bread,Coffee,Cake
+2630,Bread,Coffee,Cake
+2631,Jam
+2632,Bread,Coffee
+2633,Coffee,Hot chocolate,Toast
+2634,Coffee
+2635,Coffee
+2636,Hot chocolate,Bread
+2637,Bread,Coffee
+2638,Bread,Hot chocolate,Cake
+2639,Hot chocolate,Coffee,Cookies,Medialuna,Cookies
+2640,Hot chocolate,Medialuna,Pastry
+2641,Bread,Bread
+2642,Coffee,Juice,Cake,Vegan mincepie
+2643,Medialuna,Coffee
+2644,Muesli
+2645,Bread,Coffee,Frittata,Farm House
+2646,Bread
+2647,Coffee,Muesli
+2648,Tea
+2649,Bread,Sandwich,Pastry,Bread
+2650,Sandwich,Hot chocolate
+2651,Coffee,Tea,Toast
+2652,Sandwich,Tea,Coffee
+2653,Hot chocolate,Coffee,Lemon and coconut
+2654,Bread,Coffee
+2655,Coffee,Cake
+2656,Medialuna,The Nomad,Bread
+2657,Coffee
+2658,Coffee
+2659,Hot chocolate,Hot chocolate
+2660,Farm House
+2661,Sandwich,Tea
+2662,Bread
+2663,Coffee,Smoothies,Frittata
+2664,Coffee
+2665,Bread,Pastry,Bread
+2666,Coffee,Toast,Bread
+2667,Coffee
+2668,Coffee,Jammie Dodgers,Bread
+2669,Coke,Sandwich
+2670,Medialuna
+2671,Coffee
+2672,Medialuna
+2673,Sandwich,Bread,Tea,Cake
+2674,Hot chocolate
+2675,Coffee,Frittata
+2676,Tea
+2677,Bread,Tea
+2678,Coffee,Jammie Dodgers
+2679,Bread,Coffee,Coffee
+2680,Coffee,Coffee,Jammie Dodgers,Bread
+2681,Coffee,Coffee,Bread
+2682,Coffee,Hot chocolate,Jammie Dodgers,Vegan mincepie,Cake
+2683,Coffee,Cookies
+2684,Coffee,Tea,Bread
+2685,Coffee
+2686,Bread
+2687,Bread,Bread
+2688,Tea
+2689,Coffee
+2690,Coffee,Toast
+2691,Farm House
+2692,Bread,Bread
+2693,Coffee,Coffee
+2694,Coffee
+2695,Coffee,Coffee,Toast
+2696,Coffee,Coffee,Coffee
+2697,Toast,Bread
+2698,Bread
+2699,Coffee
+2700,Coffee,Coffee,Vegan mincepie,Vegan mincepie
+2701,Bread
+2702,Coffee
+2703,Coffee,Toast
+2704,Coffee
+2705,Cookies,Cake,Bread,Coffee
+2706,Tea,Cake
+2707,Bread
+2708,Coffee,Hot chocolate,Cookies
+2709,Coffee
+2710,Cake
+2711,Bread
+2712,Juice,Coffee,Sandwich,Sandwich
+2713,Coffee
+2714,Bread,Coffee,Frittata,Cookies,Mineral water
+2715,Coffee,Muffin
+2716,Sandwich,Coffee,Cake
+2717,Coffee
+2718,Coffee,Coffee,Vegan mincepie,Cake
+2719,Cake,Cake,Coffee
+2720,Coffee
+2721,Frittata,Coffee
+2722,Sandwich,Cookies
+2723,Tea
+2724,Tea
+2725,Tea
+2726,Bread,Vegan mincepie
+2727,Muffin,Coffee,Hot chocolate
+2728,Bread
+2729,Hot chocolate,Coffee,Cake
+2730,Coffee
+2731,Hot chocolate,Sandwich
+2732,Cake,Muffin,Coffee
+2733,Coffee
+2734,Coffee,Hot chocolate,Medialuna
+2735,Medialuna,Cake,Coffee,Coffee
+2736,Bread
+2737,Coffee,Coffee,Toast
+2738,Bread
+2739,Coffee
+2740,Bread
+2741,Coffee,Coffee
+2742,Coffee,Bread
+2743,Coffee
+2744,Coffee
+2745,Coffee,Cake
+2746,Coffee,Bread
+2747,Bread,Cake
+2748,Muesli,Cookies,Tea,Coffee
+2749,Coke,Pastry,Cake
+2750,Sandwich,Sandwich,Coffee
+2751,Juice
+2752,Coffee,Juice,Tea,Muffin,Sandwich
+2753,Medialuna
+2754,Pastry,Hot chocolate,Coffee,Bread
+2755,Farm House,Tea
+2756,Bread,Brownie
+2757,Coffee,Brownie
+2758,Coffee,Cookies
+2759,Coffee,Brownie
+2760,Bread,Cookies
+2761,Hot chocolate
+2762,Hot chocolate,Coffee,Pastry
+2763,Bread,Brownie
+2764,Coffee,Cake
+2765,Brownie,Tea,Coffee
+2766,Coffee,Coffee
+2767,Farm House
+2768,Bread
+2769,Bread
+2770,Coffee
+2771,Coffee
+2772,Coffee
+2773,Tea,Toast
+2774,Bread,Medialuna
+2775,Bread,Toast
+2776,Bread,Coffee,Medialuna
+2777,Coffee,Bread
+2778,Hot chocolate,Hot chocolate,Muffin
+2779,Bread,Coffee,Juice
+2780,Hot chocolate,Hot chocolate
+2781,Bread,Coffee
+2782,Coffee,Bread,Truffles
+2783,Brownie
+2784,Juice,Bread,Muffin
+2785,Farm House,Brownie
+2786,Coffee,Bread
+2787,Coffee
+2788,Farm House
+2789,Juice,Coffee,Sandwich,Ella's Kitchen Pouches
+2790,Coffee,Cake
+2791,Tea,Bread
+2792,Coffee,Coffee
+2793,Coffee
+2794,Cookies
+2795,Vegan mincepie,Cookies,Sandwich,Toast
+2796,Bread
+2797,Sandwich
+2798,Bread
+2799,Bread,Cookies,Frittata
+2800,Sandwich
+2801,Coffee
+2802,Frittata,Tea,Truffles
+2803,Coffee,Truffles,Frittata,Pastry,Fudge
+2804,Juice,Sandwich,Sandwich
+2805,Pastry
+2806,Sandwich,Medialuna
+2807,Coffee,Juice
+2808,Bread
+2809,Bread
+2810,Brownie
+2811,Bread
+2812,Coffee
+2813,Eggs
+2814,Bread
+2815,Coffee,Bread
+2816,Truffles,Bread
+2817,Toast,Coffee,Juice
+2818,Coffee,Coffee,Bread
+2819,Bread
+2820,Coffee
+2821,Bread
+2822,Tea,Toast
+2823,Toast,Coffee
+2824,Bread
+2825,Tea,Coffee,Coffee,Toast
+2826,Coffee,Cookies,Toast
+2827,Bread
+2828,Coffee,Toast
+2829,Coffee,Coffee,Coffee,Cookies,Cookies
+2830,Coffee,Medialuna
+2831,Bread,Cookies
+2832,Coffee,Toast
+2833,Coffee,Muffin
+2834,Tea,Cookies,Cake,Medialuna
+2835,Medialuna,Bread,Coffee,Coffee,Scandinavian
+2836,Medialuna,Coffee
+2837,Medialuna,Coffee,Bread,Frittata,Muffin
+2838,Coffee,Medialuna
+2839,Coffee
+2840,Bread
+2841,Bread
+2842,Coke
+2843,Coffee,Bread,Bread
+2844,Coffee
+2845,Sandwich
+2846,Bread
+2847,Coffee
+2848,Coffee,Coffee,Sandwich
+2849,Coffee,Pastry
+2850,Bread,Cake
+2851,Bread
+2852,Bread
+2853,Sandwich
+2854,Afternoon with the baker
+2855,Juice
+2856,Coffee
+2857,Farm House,Scone
+2858,Coffee
+2859,Farm House
+2860,Coffee,Coffee,Bread,Pastry
+2861,Coffee,Frittata,Bread,Tea
+2862,Bread
+2863,Coffee
+2864,Bread
+2865,Bread
+2866,Tea
+2867,Juice,Pastry
+2868,Coffee
+2869,Coffee
+2870,Bread
+2871,Coffee,Toast,Cookies,Coffee
+2872,Bread
+2873,Coffee,Coffee,Pastry,Medialuna
+2874,Coffee,Coffee,Muffin
+2875,Coffee
+2876,Bread,Scone
+2877,Muffin,Coffee,Coffee
+2878,Bread
+2879,Coffee,Tea
+2880,Juice,Pastry,Medialuna
+2881,Pastry,Coffee
+2882,Coffee,Coffee,Cookies,Scone
+2883,Tea,Coffee
+2884,Coffee
+2885,Farm House,Farm House
+2886,Medialuna,Coke,Juice
+2887,Coffee
+2888,Coffee
+2889,Coffee,Tea,Cake
+2890,Coffee
+2891,Sandwich,Coffee,Scone
+2892,Tea,Toast
+2893,Coffee
+2894,Bread
+2895,Farm House
+2896,Tea,Jammie Dodgers,Scone
+2897,Coffee,Scone
+2898,The Nomad,Cake
+2899,Coffee,Coffee,Medialuna,Cake
+2900,Jammie Dodgers,Farm House
+2901,Coffee,Bread,Tea
+2902,Bread,Tea
+2903,Tea,Cookies
+2904,Bread
+2905,Coffee
+2906,Bread
+2907,Farm House,Coffee
+2908,Farm House
+2909,Tea,Cookies
+2910,Coffee
+2911,Bread
+2912,Hot chocolate,Pastry,Bread
+2913,Coffee,Cake
+2914,Tea
+2915,Bread
+2916,Bread
+2917,Coffee,Scone
+2918,Scone,Coffee
+2919,Coffee
+2920,Farm House,Scandinavian,Coffee,Toast,Cake
+2921,Coffee,Bread
+2922,Coffee,Farm House
+2923,Sandwich,Tea
+2924,Muffin
+2925,Sandwich,Coffee,Scone
+2926,Farm House
+2927,Sandwich
+2928,Coffee,Bread
+2929,Tea,Tea
+2930,Sandwich
+2931,Coke
+2932,Jammie Dodgers
+2933,Scone,Muffin,Pastry,Frittata
+2934,Cake
+2935,Pastry,Coffee
+2936,Cake,Cake
+2937,Hearty & Seasonal,Coffee,Tea
+2938,Fudge,Bread
+2939,Coffee
+2940,Bread
+2941,Coffee,Cake
+2942,Coffee
+2943,Coffee
+2944,Tea
+2945,Bread
+2946,Bread
+2947,Bread
+2948,Toast,Coffee,Coffee,Muffin
+2949,Medialuna,Medialuna,Hot chocolate,Coffee
+2950,Bread
+2951,Bread,Pastry
+2952,Bread
+2953,Coffee
+2954,Tea,Sandwich
+2955,Coffee
+2956,Medialuna,Coffee,Farm House
+2957,Coffee,Muffin
+2958,Hot chocolate,Coffee
+2959,Coffee
+2960,Tea,Toast,Tiffin,Muffin
+2961,Cookies,Bread,Farm House
+2962,Bread
+2963,Granola
+2964,Scone,Coffee,Coffee
+2965,Bread
+2966,Coffee,Medialuna
+2967,Coffee,Coffee,Pastry,Muffin
+2968,Hot chocolate,Coffee
+2969,Bread
+2970,Bread
+2971,Bread,Coffee
+2972,Bread
+2973,Coffee,Hearty & Seasonal
+2974,Bread
+2975,Coffee,Coffee,Art Tray,Sandwich,Bread
+2976,Bread,Cake
+2977,Muffin,Alfajores,Tiffin,Tea
+2978,Coffee
+2979,Scandinavian
+2980,Afternoon with the baker,Cake
+2981,Bread
+2982,Bread,Cake,Coffee,Tea,Scandinavian
+2983,Scandinavian
+2984,Coffee,Coffee
+2985,Bread,Sandwich
+2986,Afternoon with the baker
+2987,Cake
+2988,Tea
+2989,Coffee,Cake
+2990,Coffee
+2991,Coffee,Bread,Cake
+2992,Scone,Coffee
+2993,Hot chocolate,Hot chocolate
+2994,Tea,Cookies,Cake
+2995,Coffee
+2996,Pastry,Pastry,Tea,Bread
+2997,Coffee,Toast
+2998,Bread,Coffee
+2999,Coffee
+3000,Farm House
+3001,Tea,Coffee
+3002,Cookies
+3003,Coffee
+3004,Bread
+3005,Jammie Dodgers,Juice
+3006,Bread
+3007,Cake,Coffee,Tea
+3008,Hot chocolate
+3009,Coffee,Alfajores,Alfajores,Bread
+3010,Tiffin,Cookies,Coffee
+3011,Jammie Dodgers
+3012,Coffee,Tea,Cake,Toast
+3013,Coffee,Coffee
+3014,Coffee,Vegan mincepie
+3015,Bread,Tea
+3016,Toast,Coffee,Coffee
+3017,Tea
+3018,Coffee
+3019,Cake
+3020,Coffee
+3021,Bread
+3022,Toast,Coffee
+3023,Cookies
+3024,Tea,Toast
+3025,Farm House
+3026,Coke
+3027,Coke
+3028,Bread
+3029,Toast
+3030,Bread,Tiffin,Coffee
+3031,Coffee,Jammie Dodgers,Frittata
+3032,Frittata,Coffee,Coffee
+3033,Tea,Bread
+3034,Coffee
+3035,Bread
+3036,Tea
+3037,Scandinavian
+3038,Farm House,Hot chocolate,Coffee
+3039,Pastry,Scandinavian
+3040,Coffee,Coffee,Toast,Coffee
+3041,Bread
+3042,Coffee,Coffee,Coffee,Cake,Cookies
+3043,Bread,Toast
+3044,Coffee,Sandwich,Bread
+3045,Coffee
+3046,Bread,Scandinavian
+3047,Coffee,Medialuna,Alfajores
+3048,Coffee
+3049,Pastry,Coffee
+3050,Coffee,Coffee,Juice
+3051,Coffee
+3052,Coffee,Bread,Salad,Pastry
+3053,Coffee
+3054,Bread
+3055,Bread
+3056,Hot chocolate
+3057,Coffee,Toast
+3058,Sandwich
+3059,Truffles
+3060,Medialuna,Cake,Toast,Coffee,Coffee
+3061,Coffee
+3062,Coffee,Cake,Vegan mincepie
+3063,Bread
+3064,Farm House
+3065,Coffee
+3066,Scone,Tea,Sandwich
+3067,Bread,Coffee
+3068,Coffee,Jammie Dodgers
+3069,Tea,Coffee,Toast
+3070,Tea,Coffee,Bread,Salad,Tiffin
+3071,Cake,Pastry,Pastry,Alfajores,Alfajores,Coffee,Bread
+3072,Coffee,Scone
+3073,Tea
+3074,Brownie,Pastry,Coffee
+3075,Bread
+3076,Tea
+3077,Scone
+3078,Bread
+3079,Tea,Scone
+3080,Coffee,Tea,Scone,Cake
+3081,Coffee,Truffles,Cake,Vegan mincepie
+3082,Bread
+3083,Hot chocolate,Medialuna
+3084,Tea,Hot chocolate,Cookies,Jammie Dodgers,Bread
+3085,Coffee,Scone
+3086,Bread
+3087,Afternoon with the baker
+3088,Bread
+3089,Coffee
+3090,Bread
+3091,Bread
+3092,Bread
+3093,Scandinavian,Bread,Cookies
+3094,Coffee
+3095,Coffee
+3096,Coffee,Medialuna,Cookies
+3097,Cookies,Coffee,Bread,Juice
+3098,Hot chocolate,Hot chocolate,Cookies
+3099,Bread
+3100,Coffee
+3101,Tea,Cake
+3102,Cookies,Tea
+3103,Coffee
+3104,Bread,Medialuna
+3105,Scone,Coffee,Tea
+3106,Bread,Brownie
+3107,Sandwich
+3108,Coffee
+3109,Toast
+3110,Bread
+3111,Bread
+3112,Coffee,Coffee
+3113,Coffee
+3114,Tea,Bread
+3115,Coffee
+3116,Coke
+3117,Jammie Dodgers,Bread
+3118,Bread,Medialuna,Alfajores
+3119,Medialuna
+3120,Coffee
+3121,Bread,Coffee
+3122,Coke,Tea
+3123,Truffles
+3124,Muffin
+3125,Alfajores,Bread
+3126,Bread
+3127,Coffee,Pastry
+3128,Tea,Coffee,Coffee
+3129,Coffee,Toast
+3130,Coffee,Coffee
+3131,Coffee,Pastry
+3132,Sandwich,Bread
+3133,Coffee,Coffee,Alfajores
+3134,Bread,Medialuna
+3135,Bread
+3136,Tea
+3137,Coffee,Coffee
+3138,Alfajores
+3139,Alfajores,Bread
+3140,Coffee
+3141,Coffee,Coffee
+3142,Coffee,Cake
+3143,Bread,Jammie Dodgers
+3144,Coffee,Coffee,Toast,Sandwich
+3145,Coffee,Smoothies,Sandwich,Hearty & Seasonal,Cake
+3146,Bread
+3147,Sandwich,Truffles
+3148,Salad,Sandwich,Coffee
+3149,Muffin,Cookies,Bread,Hot chocolate,Hearty & Seasonal
+3150,Farm House
+3151,Truffles,Cake,Scandinavian,Coffee
+3152,Tea
+3153,Salad,Sandwich,Bread,Coffee,Alfajores
+3154,Coffee,Bread,Toast
+3155,Coffee,Cake
+3156,Truffles,Coffee,Alfajores
+3157,Coffee,Tea,Chicken Stew
+3158,Coffee,Pastry
+3159,Coffee
+3160,Coffee
+3161,Coffee
+3162,Coffee,Soup,Cake
+3163,Tea
+3164,Coffee
+3165,Tea
+3166,Coffee
+3167,Tea,Bread,Cake
+3168,Bread
+3169,Tea
+3170,Bread
+3171,Coffee
+3172,Bread
+3173,Tea,Coffee,Coffee,Muffin,Cake
+3174,Scandinavian
+3175,Bread,Bread
+3176,Farm House
+3177,Tea
+3178,Tea,Coffee
+3179,Medialuna,Coffee,Tea
+3180,Bread
+3181,Pastry,Muffin,Coffee,Tea
+3182,Coffee,Tea
+3183,Hot chocolate,Coke,Cake
+3184,Soup,Pastry,Tea
+3185,Sandwich,Alfajores
+3186,Sandwich
+3187,Bread,Focaccia
+3188,Coffee,Juice,Sandwich,Crisps
+3189,Tea,Coffee,Soup,Salad
+3190,Coffee,Cookies
+3191,Tea,Cookies
+3192,Cake
+3193,Cake,Coffee,Coke,Tea
+3194,Coffee,Jammie Dodgers
+3195,Coke,Sandwich
+3196,Medialuna,Cookies,Juice,Ella's Kitchen Pouches,Tea
+3197,Muffin,Jammie Dodgers,Cake,Bread,Hot chocolate
+3198,Coffee,Coffee,Cake
+3199,Cake
+3200,Cake,Tea
+3201,Coffee,Tea,Coffee,Cake,Cookies
+3202,Cookies,Tea
+3203,Focaccia,Fudge
+3204,Pastry,Toast,Coffee
+3205,Tea,Sandwich
+3206,Tea,Hot chocolate,Spanish Brunch,Granola,Sandwich
+3207,Coffee,Medialuna
+3208,Bread
+3209,Coffee
+3210,Coffee,Toast
+3211,Coffee,Coffee,Pastry
+3212,Bread
+3213,Farm House
+3214,Bread,Cookies
+3215,Bread
+3216,Hot chocolate,Hot chocolate,Cake
+3217,Pastry,Cake,Mineral water
+3218,Tea
+3219,Tea,Jammie Dodgers,Cake,Juice
+3220,Tiffin
+3221,Cake,Muffin
+3222,Coffee,Coke,Juice,Truffles,Medialuna
+3223,Coffee
+3224,Coffee
+3225,Coffee,Coffee
+3226,Coffee
+3227,Coffee,Pastry
+3228,Cake,Coffee
+3229,Bread,Tiffin
+3230,Scandinavian,Bread
+3231,Coffee,Tea,Alfajores
+3232,Chicken Stew
+3233,Coffee
+3234,Coffee,Juice,Medialuna,Crisps
+3235,Coffee
+3236,Farm House
+3237,Salad,Coffee
+3238,Bread
+3239,Bread,Medialuna
+3240,Coffee,Coffee,Sandwich
+3241,Hot chocolate,Chicken Stew
+3242,Coffee,Tea,Sandwich,Medialuna
+3243,Bread,Tea,Chicken Stew,Soup,Cake,Pastry,Alfajores,Focaccia
+3244,Bread,Coffee,Soup,Muffin
+3245,Bread
+3246,Coffee,Tea,Cake
+3247,Sandwich,Sandwich,Coffee,Tea
+3248,Coffee,Coffee
+3249,Bread
+3250,Coffee
+3251,Bread
+3252,Hot chocolate
+3253,Coffee,Bread,Tiffin,Bread
+3254,Hot chocolate
+3255,Hot chocolate,Coffee,Tiffin
+3256,Coffee,Cookies,Bread
+3257,Farm House
+3258,Afternoon with the baker,Coffee,Scandinavian
+3259,Coffee,Bread
+3260,Coffee,Tea,Toast
+3261,Coffee,Toast
+3262,Coffee
+3263,Coffee,Toast
+3264,Coffee,Medialuna
+3265,Coffee
+3266,Cake
+3267,Pastry,Bread
+3268,Coffee
+3269,Bread
+3270,Farm House
+3271,Coffee,Coffee,Coffee,Toast,Cookies
+3272,Pastry,Coffee,Coffee
+3273,Coffee
+3274,Bread
+3275,Bread,Tea,Granola
+3276,Bread,Tea,Scone,Sandwich
+3277,Coffee,Coffee,Pastry
+3278,Pastry,Pastry,Coffee,Coffee,Bread
+3279,Bread
+3280,Bread
+3281,Muffin,Muffin
+3282,Farm House
+3283,Coffee,Tea,Scone
+3284,Coffee,Coffee
+3285,Bread
+3286,Bread
+3287,Coffee,Scone
+3288,Bread
+3289,Chicken Stew
+3290,Tea,Tea,Coffee
+3291,Coffee,Tea,Scone
+3292,Cake,Pastry,Farm House,Scandinavian
+3293,Smoothies,Muffin
+3294,Coffee,Tea,Sandwich,Salad
+3295,Sandwich,Truffles
+3296,Coffee,Sandwich
+3297,Bread,Coffee
+3298,Chicken Stew
+3299,Bread,Coffee,Bread
+3300,Coffee
+3301,Coffee,Sandwich
+3302,Hot chocolate
+3303,Medialuna
+3304,Hot chocolate
+3305,Coffee
+3306,Cake
+3307,Coffee,Alfajores
+3308,Bread,Coffee
+3309,Bread
+3310,Bread,Muffin
+3311,Coffee,Bread
+3312,Coffee,Coffee,Cake
+3313,Bread,Muffin
+3314,Tea,Tiffin
+3315,Coffee
+3316,Bread,Sandwich,Tea
+3317,Coffee,Pastry
+3318,Scandinavian
+3319,Medialuna,Vegan mincepie,Juice,Tea
+3320,Coffee,Scone
+3321,Tea,Brownie,Raspberry shortbread sandwich
+3322,Tea,Sandwich
+3323,Coffee,Cookies
+3324,Cookies
+3325,Farm House
+3326,Bread
+3327,Bread
+3328,Bread
+3329,Coffee,Coffee
+3330,Coffee
+3331,Hot chocolate,Toast
+3332,Tea,Hot chocolate,Sandwich
+3333,Tea,Coffee,Hot chocolate
+3334,Cake
+3335,Coffee,Coffee,Toast,Extra Salami or Feta,Cake
+3336,Bread,Coffee,Pastry
+3337,Coffee,Toast
+3338,Sandwich,Bread
+3339,Coffee
+3340,Sandwich,Cake,Hot chocolate
+3341,Farm House,Pastry
+3342,Coffee,Soup
+3343,Soup,Bread
+3344,Tea,Tea
+3345,Cake,Frittata
+3346,Tea,Coffee,Cake
+3347,Cookies,Cake
+3348,Tea,Cake,Cake
+3349,Cake
+3350,Cookies
+3351,Cake,Cookies,Sandwich,Soup,Coffee,Tea
+3352,Tea,Cookies
+3353,Bread
+3354,Sandwich,Sandwich,Coke,Cake,Crisps
+3355,Coffee,Soup
+3356,Spanish Brunch,Tea,Bread,Cake
+3357,Coffee
+3358,Bread
+3359,Coffee
+3360,Coffee
+3361,Coffee,Bread
+3362,Bread,Coffee,Cake
+3363,Coffee,Coffee,Medialuna
+3364,Cake
+3365,Soup,Coffee,Coffee,Coffee,Cake
+3366,Alfajores,Coffee
+3367,Coffee,Chicken Stew,Juice
+3368,Coffee,Hot chocolate,Cake
+3369,Cookies,Hot chocolate,Tea,Toast
+3370,Coffee
+3371,Hot chocolate,Coffee,Coffee,Cake,Cookies
+3372,Hot chocolate,Cake
+3373,Bread
+3374,Bread
+3375,Bread
+3376,Coffee,Coffee,Pastry
+3377,Coffee
+3378,Coffee,Scandinavian,Focaccia
+3379,Bread
+3380,Coffee,Coffee
+3381,Coffee
+3382,Coffee
+3383,Coffee
+3384,Bread,Cookies
+3385,Scandinavian
+3386,Scandinavian
+3387,Scandinavian
+3388,Farm House
+3389,Coffee,Coffee
+3390,Bread
+3391,Farm House
+3392,Coffee,Vegan mincepie
+3393,Coffee
+3394,Coffee,Medialuna,Bread
+3395,Muffin,Pastry,Coffee,Tea
+3396,Cake
+3397,Chicken Stew
+3398,Tea
+3399,Soup
+3400,Bread,Coffee,Salad,Spanish Brunch
+3401,Coke
+3402,Tea
+3403,Chicken Stew
+3404,Bread
+3405,Tea,Coffee,Soup,Art Tray
+3406,Bread,Focaccia,Medialuna,Cookies,Coffee
+3407,Bread
+3408,Soup
+3409,Chicken Stew,Art Tray,Pastry,Truffles,Coffee,Coke,Bread
+3410,Bread,Focaccia
+3411,Frittata,Tea
+3412,Coffee,Chicken Stew,Art Tray
+3413,Bread,Scandinavian
+3414,Tea,Tea,Spanish Brunch,Salad
+3415,Cake
+3416,Coffee,Coffee,Hot chocolate
+3417,Spanish Brunch,Juice,Truffles
+3418,Coffee,Pastry
+3419,Cake
+3420,Fudge,Sandwich
+3421,Muffin,Cookies
+3422,Bread,Bread
+3423,Coffee
+3424,Coffee,Cake
+3425,Tea,Chicken Stew
+3426,Bread,Coffee,Cake
+3427,Bread,Cake
+3428,Bread
+3429,Coffee,Bread
+3430,Coffee,Pastry
+3431,Tea,Cake
+3432,Bread
+3433,Bread
+3434,Coffee,Toast
+3435,Coffee
+3436,Bread,Medialuna
+3437,Eggs,Coffee,Pastry
+3438,Coffee
+3439,Scandinavian,Cookies
+3440,Bread
+3441,Bread
+3442,Bread
+3443,Medialuna
+3444,Farm House
+3445,Baguette,Bread
+3446,Bread
+3447,Baguette
+3448,Soup
+3449,Tea
+3450,Coffee,Tea,Cookies,Pastry
+3451,Bread
+3452,Bread
+3453,Coffee,Tea,Sandwich,Chicken Stew
+3454,Sandwich,Coffee,Coke
+3455,Sandwich
+3456,Sandwich
+3457,Coffee
+3458,Bread
+3459,Sandwich,Tea,Coffee
+3460,Hot chocolate,Bread
+3461,Tea,The Nomad,Cake
+3462,Bread,Tea,Soup
+3463,Tea,Soup,Sandwich,Medialuna
+3464,Coffee,Tea,Cake
+3465,Sandwich
+3466,Tea
+3467,Coke
+3468,Bread
+3469,Tea
+3470,Juice,Cake
+3471,Cake,Coffee
+3472,Muffin
+3473,Bread
+3474,Bread,Medialuna
+3475,Tea
+3476,Bread,Coffee
+3477,Bread
+3478,Farm House
+3479,Bread,Coffee,Tea,Cookies,Hot chocolate
+3480,Coffee
+3481,Coffee
+3482,Bread,Muffin,Coffee
+3483,Muffin
+3484,Cookies,Juice
+3485,Cookies,Cookies,Coffee,Hot chocolate
+3486,Tea,Muffin,Cake,Juice,Coffee
+3487,Tea,Muffin,Cake,Juice,Coffee
+3488,Coffee
+3489,Bread,Coffee,Toast
+3490,Coffee,Hot chocolate,Art Tray,Sandwich
+3491,Juice,Tea,Muffin
+3492,Coffee,Coffee
+3493,Coffee
+3494,Coffee,Coffee,Cookies
+3495,Bread,Baguette
+3496,Coffee,Bread
+3497,Coffee
+3498,Bread,Spanish Brunch
+3499,Coffee,Muffin
+3500,Hot chocolate,Baguette
+3501,Coffee,Sandwich,Medialuna
+3502,Bread
+3503,Coffee,Tea,Soup
+3504,Bread,Medialuna
+3505,Chicken Stew
+3506,Spanish Brunch,Tea,Coffee
+3507,Coffee,Soup,Coffee,Muffin
+3508,Cake,Soup,Tea
+3509,Sandwich,Bread,Muffin
+3510,Sandwich,Coffee,Bread
+3511,Bread,Baguette
+3512,Pastry,Bread,Jam
+3513,Bread
+3514,Pastry
+3515,Cake,Cake
+3516,Chicken Stew,Spanish Brunch
+3517,Bread,Farm House
+3518,Tea,Cake
+3519,Tea,Tea,Medialuna
+3520,Tea,Coffee,Cookies
+3521,Coffee,Muffin
+3522,Bread
+3523,Pastry,Hot chocolate
+3524,Bread
+3525,Bread
+3526,Bread,Cookies
+3527,Coffee,Toast
+3528,Bread,Bread
+3529,Coffee
+3530,Coffee,Juice,Pastry
+3531,Cookies,Muffin,Coffee,Coffee,Coffee
+3532,Bread,Pastry
+3533,Medialuna
+3534,Farm House
+3535,The Nomad,Spanish Brunch,Tea,Bread
+3536,Coffee,Medialuna
+3537,Farm House,Scandinavian
+3538,Bread
+3539,Coffee
+3540,Coffee
+3541,Coffee,Cookies,Bread
+3542,Coffee,Coffee,Juice
+3543,Coffee,Medialuna,Bread
+3544,Coffee,Toast
+3545,Coffee,Pastry,Coffee
+3546,Farm House
+3547,Cake,Muffin,Bread,Coffee,Coffee
+3548,Coffee
+3549,Bread
+3550,Coffee,Muffin
+3551,Sandwich
+3552,Pastry,Hot chocolate,Coffee,Cake
+3553,Scone,Coffee,Bread
+3554,Coffee,Coffee,Tea,Cake,Medialuna
+3555,Bread
+3556,Bread
+3557,Tea,Soup
+3558,Coffee,Coffee
+3559,Coffee,Sandwich
+3560,Bread
+3561,Truffles,Soup
+3562,Soup,Truffles
+3563,Chicken Stew,Coffee
+3564,Soup
+3565,Soup
+3566,Spanish Brunch,Truffles,Juice,Sandwich
+3567,Cookies
+3568,Bread,Muffin
+3569,Coffee,Tea,Brownie
+3570,Tea
+3571,Coffee,Tea,Soup,Extra Salami or Feta
+3572,Baguette
+3573,Bread,Muffin,Tea,Soup
+3574,Coffee,Soup,Sandwich
+3575,Coffee
+3576,Tea
+3577,Tea
+3578,Tea
+3579,Coffee,Scone
+3580,Cookies,Muffin,Coffee
+3581,Bread,Cookies
+3582,Coffee
+3583,Scone,Soup,Hot chocolate
+3584,Scone,Coffee
+3585,Bread
+3586,Bread,Cookies
+3587,Cake,Toast,Scone,Juice,Bread
+3588,Cake,Hot chocolate,Tea
+3589,Tea,Tea,Soup,Bakewell
+3590,Coffee,Coffee,Coffee,Bread,Bakewell,Brownie,Cookies,Cake
+3591,Cake,Coffee
+3592,Coffee,Cookies,Cake
+3593,Tea,Cookies,Coffee
+3594,Coffee
+3595,Bread
+3596,Pastry
+3597,Coffee,Coffee
+3598,Bread,Pastry
+3599,Bread,Bread
+3600,Bread
+3601,Bread
+3602,Bread
+3603,Pastry
+3604,Pastry,Coffee,Coffee
+3605,Bread
+3606,Farm House,Jam,Scandinavian
+3607,Coffee,Cookies
+3608,Pastry,Coffee,Coffee
+3609,Sandwich,Sandwich
+3610,Coffee,Cookies
+3611,Coffee,Coffee,Pastry
+3612,Coffee,Bread
+3613,Coffee,Coffee,Bread,Soup
+3614,Bread,Jam,Fudge,Juice
+3615,Baguette
+3616,Soup
+3617,Soup
+3618,Chicken Stew
+3619,Coffee,Tea
+3620,Coke,Sandwich,Soup,Bread
+3621,Soup
+3622,Hot chocolate,Coffee,Cake
+3623,Coffee
+3624,Pastry
+3625,Bread,Bread
+3626,Farm House
+3627,Coffee,Toast
+3628,Cake,Coffee
+3629,Coffee,Bread
+3630,Cake,Hot chocolate
+3631,Coffee
+3632,Tea,Hot chocolate,Cookies
+3633,Hot chocolate
+3634,Coffee
+3635,Scandinavian
+3636,Bread,Bread
+3637,Bread
+3638,Bread,Toast
+3639,Bread,Brownie
+3640,Pastry,Bread
+3641,Tea,Sandwich
+3642,Coffee
+3643,Coffee,Bread
+3644,Coffee,Juice
+3645,Cake,Coffee,Spanish Brunch
+3646,Coffee
+3647,Coffee,Brownie,Baguette
+3648,Pastry,Cake,Coffee,Coffee
+3649,Hot chocolate,Coffee
+3650,Farm House
+3651,Tea,Toast
+3652,Tea,Coffee,Pastry
+3653,Bread,Pastry
+3654,Coffee
+3655,Tea,Sandwich,Bread
+3656,Farm House,Cookies
+3657,Tea,Cake,Bakewell
+3658,Coffee
+3659,Bread
+3660,Coffee
+3661,Bread
+3662,Coffee
+3663,Coffee
+3664,Cookies,Baguette
+3665,Coffee,Cookies,Cake,Spanish Brunch
+3666,Tea,Coffee,Sandwich,Cake
+3667,Coffee,Coffee,Cake
+3668,Bread
+3669,Baguette
+3670,Bread
+3671,Coke,Salad
+3672,Bread
+3673,Soup
+3674,Coffee,Sandwich
+3675,Brownie
+3676,Bread
+3677,Chicken Stew,Juice,Coke
+3678,Baguette
+3679,Soup,Tea,Coffee,Coffee
+3680,Sandwich,Cookies,Coffee,Tea
+3681,Coke
+3682,Toast,Cake,Coffee
+3683,Cake,The Nomad
+3684,Coffee,Coffee,Bread
+3685,Cookies,Hot chocolate,Tea,Cake,Pastry
+3686,Tea,Coffee,Cake
+3687,Tea,Bread
+3688,Brownie
+3689,Coffee,Cake,Cookies
+3690,Bread,Bread,Bread
+3691,Bread
+3692,Coffee,Bread
+3693,Bread,Pastry
+3694,Bread
+3695,Bread,Coffee,Toast
+3696,Farm House
+3697,Cake,Coffee,Bread
+3698,Bread,Hot chocolate
+3699,Coffee,Coffee
+3700,Coffee,Bread
+3701,Coffee,Cake
+3702,Cake,Coffee
+3703,Bread,Sandwich,Toast
+3704,Coffee,Coffee,Medialuna
+3705,Coffee,Bread,Alfajores,Bakewell,Tea
+3706,Coffee,Bread
+3707,Bread
+3708,Coffee,Bread
+3709,Bread,Coffee,Bread
+3710,Bread
+3711,Baguette
+3712,Pastry
+3713,Bread,Pastry
+3714,Baguette,Bread
+3715,Bread,Pastry,Tea,Coffee
+3716,Cake,Bread
+3717,Sandwich,Coke
+3718,Coke,Cake
+3719,Hot chocolate,Coffee,Pastry,Bread
+3720,Spanish Brunch,Chicken Stew,Tea,Cookies
+3721,Cake
+3722,Coffee,Coffee
+3723,Coffee
+3724,Bread
+3725,Bread,Sandwich
+3726,Coffee,Bread,Sandwich
+3727,Coffee,Coffee,Cake
+3728,Granola,Extra Salami or Feta,Coffee
+3729,Soup,Juice,Coffee
+3730,Sandwich
+3731,Baguette
+3732,Coffee
+3733,Coffee
+3734,Hot chocolate,Coffee,Alfajores
+3735,Tea,Coffee,Bread
+3736,Cake,Coffee,Cookies
+3737,Bread
+3738,Bread
+3739,Cookies,Tea,Bread
+3740,Coffee,Vegan mincepie,Cake
+3741,Bread,Coffee,Hot chocolate
+3742,Bread
+3743,Juice,Cookies,Brownie,Alfajores,Coffee
+3744,Tea,Truffles,Cookies
+3745,Coffee,Coke
+3746,Bread
+3747,Coffee,Bread,Toast
+3748,Bread,Bread,Coffee
+3749,Cookies
+3750,Coffee,Bread
+3751,Farm House
+3752,Bread
+3753,Coffee,Cookies
+3754,Baguette
+3755,Bread,Bread
+3756,Alfajores
+3757,Juice,Hot chocolate,Coffee,Tea,Pastry,Brownie
+3758,Coffee,Coffee,Bread
+3759,Cake,Coffee
+3760,Coffee,Cake
+3761,Bread
+3762,Bread,Bread
+3763,Juice,Tea,Bread,Cake
+3764,Tea,Bread,Cookies,Sandwich,Juice
+3765,Bread,Cake
+3766,Coke,Alfajores,Hot chocolate
+3767,Cake
+3768,Sandwich
+3769,Tea,Cake,Pastry
+3770,Bread,Coffee,Coffee,Soup,Soup,Bread,Farm House
+3771,Sandwich,Bread
+3772,Tea,Mineral water,Soup,Cake
+3773,Bread,Chicken Stew,Sandwich,Coffee
+3774,Medialuna
+3775,Jam,Scandinavian
+3776,Cake
+3777,Juice,Coffee,Coffee,Bare Popcorn,Salad,Extra Salami or Feta,Spanish Brunch,Farm House
+3778,Bare Popcorn
+3779,Valentine's card
+3780,Tea,Sandwich,Bread,Cake
+3781,Tea,Tea,Spanish Brunch,Chicken Stew,Fudge,Alfajores
+3782,Coffee
+3783,Coffee,Pastry,Bread
+3784,Bread,Alfajores
+3785,Coffee,Coffee,Cookies
+3786,Bread
+3787,Coffee
+3788,Coffee,Coffee,Juice,Cake,Alfajores
+3789,Hot chocolate
+3790,Coke,Sandwich
+3791,Bread
+3792,Baguette
+3793,Coffee,Bread,Cookies,Juice
+3794,Coffee,Cake
+3795,Bread
+3796,Bread
+3797,Bread,Toast
+3798,Bread,Tea,Toast,Cake
+3799,Toast,Bread
+3800,Cookies
+3801,Coffee,Coffee,Toast
+3802,Bread,Pastry
+3803,Bread,Hot chocolate,Medialuna
+3804,Farm House
+3805,Coffee
+3806,Farm House,Gingerbread syrup
+3807,Coffee,Coffee,Coffee,Bread,Pastry,Alfajores
+3808,Coffee,Sandwich,Baguette
+3809,Coffee,Medialuna
+3810,Bread
+3811,Scandinavian
+3812,Cookies,Bread,Bread
+3813,Coke
+3814,Medialuna,Pastry
+3815,Coffee,Tea,Toast
+3816,Alfajores
+3817,Bread
+3818,Coffee,Bread,Bread
+3819,Coffee,Bread,Sandwich
+3820,Coffee,Alfajores
+3821,Truffles,Juice,Coffee,Bread,Pastry,Scone
+3822,Scandinavian,Bread
+3823,Bread
+3824,Tea,Soup
+3825,Soup,Truffles
+3826,Soup,Scone,Tea
+3827,Truffles,Sandwich
+3828,Soup,Coffee
+3829,Cake
+3830,Soup
+3831,Coffee,Toast
+3832,Bread
+3833,Bread
+3834,Tea,Bread
+3835,Coffee,Chicken Stew,Toast
+3836,Bread
+3837,Sandwich,Coffee,Cake,Coffee,Sandwich
+3838,Cake
+3839,Cookies,Bread
+3840,Coffee,Hot chocolate,Juice,Truffles,Mineral water,Sandwich,Sandwich
+3841,Coffee,Sandwich
+3842,Coffee,Bread
+3843,Tea,Coffee,Bread
+3844,Afternoon with the baker
+3845,Tea,Cookies
+3846,Coffee,Soup
+3847,Soup,Coffee
+3848,Farm House
+3849,Coffee,Cake
+3850,Coffee
+3851,Coffee
+3852,Coffee,Tea
+3853,Bread,Bread,Eggs
+3854,Baguette,Scandinavian
+3855,Coffee,Bread
+3856,Coffee,Scone
+3857,Eggs,Hot chocolate,Coffee,Alfajores
+3858,Bread,Tea
+3859,Coffee,Coffee,Coffee
+3860,Bread,Bread
+3861,Tea,Medialuna
+3862,Coffee
+3863,Bread,Bread
+3864,Bread,Coffee
+3865,Coffee
+3866,Tea
+3867,Bread
+3868,Coffee,Pastry
+3869,Coffee
+3870,Baguette,Bread,Pastry
+3871,Pastry,Pastry
+3872,Cookies,Coffee
+3873,Coffee,Sandwich
+3874,Jam,Bread,Pastry
+3875,Coffee
+3876,Coffee
+3877,Coffee,Medialuna
+3878,Cookies,Bread,Farm House
+3879,Bread,Cake
+3880,Coffee
+3881,Bread
+3882,Coffee,Pastry
+3883,Coffee
+3884,Coffee,Coffee,Toast
+3885,Bread
+3886,Coffee
+3887,Hot chocolate,Coffee,Toast
+3888,Bread
+3889,Coffee,Tea,Cake,Scone
+3890,Pastry
+3891,Bread,Bread,Sandwich
+3892,Baguette
+3893,Bread
+3894,Bread
+3895,Sandwich
+3896,Coffee
+3897,Soup,Coffee
+3898,Coffee
+3899,Truffles,Scone
+3900,Coffee,Mineral water,Sandwich,Spanish Brunch,Alfajores,Truffles,Tea
+3901,Bread,Coffee
+3902,Bread,Fudge,Fudge
+3903,Fudge
+3904,Truffles
+3905,Cake
+3906,Coffee,Cake,Juice
+3907,Truffles,Coffee,Sandwich,Spanish Brunch,Brownie
+3908,Medialuna,Tea,Brownie,Tea,Soup,Soup
+3909,Coffee,Cake,Chicken Stew
+3910,Tea,Cake
+3911,Bread
+3912,Cookies,Tea,Tea
+3913,Coffee,Juice,Alfajores
+3914,Bread
+3915,Brownie,Coffee,Coffee,Juice,Farm House
+3916,Juice,Cookies,Brownie,Tea
+3917,Coffee,Cake,Brownie
+3918,Coffee
+3919,Coffee,Scone
+3920,Tea,Brownie,Toast
+3921,Bread
+3922,Pastry,Medialuna,Hot chocolate,Coffee
+3923,Bread
+3924,Sandwich,Coffee
+3925,Bread,Farm House
+3926,Hot chocolate
+3927,Hot chocolate
+3928,Hot chocolate
+3929,Tea,Toast,Baguette
+3930,Coffee
+3931,Scandinavian,Bread,Nomad bag
+3932,Bread
+3933,Bread,Pastry
+3934,Bread
+3935,Coffee,Coffee
+3936,Coffee,Coffee,Cake,Bread
+3937,Coffee,Coffee
+3938,Coffee,Pastry,Brownie
+3939,Coffee,Pastry
+3940,Bread
+3941,Salad
+3942,Coffee
+3943,Bread,Coffee
+3944,Coffee,Coffee,Cake,Alfajores
+3945,Coffee
+3946,Coffee,Bread,Eggs
+3947,Tea
+3948,Bread
+3949,Farm House
+3950,Coffee,Alfajores
+3951,Coffee,Coffee,Pastry
+3952,Juice,Chicken Stew
+3953,Chicken Stew,Chocolates
+3954,Soup,Coffee
+3955,Chicken Stew,Juice,Eggs,Bread,Cake
+3956,Cake,Cake,Coffee,Hot chocolate
+3957,Coffee,Coffee,Cake
+3958,Farm House
+3959,Bread
+3960,Baguette
+3961,Soup
+3962,Spanish Brunch,Tea
+3963,Coffee,Cake
+3964,Tea,Tea,Spanish Brunch
+3965,Coffee,Coffee,Brownie,Truffles
+3966,Hot chocolate,Cake
+3967,Bread,Alfajores
+3968,Tea
+3969,Bread
+3970,Coffee,Alfajores
+3971,Bread,Smoothies,Mineral water,Alfajores,Brownie,Cake,Bread
+3972,Coffee,Tea,Cake
+3973,Baguette
+3974,Sandwich,Tea
+3975,Coffee
+3976,Alfajores
+3977,Bread
+3978,Bread,Pastry
+3979,Pastry,Bread,Eggs,Nomad bag
+3980,Coffee,Coffee,Alfajores
+3981,Coffee,Bread
+3982,Coffee
+3983,Bread
+3984,Coffee
+3985,Bread,Spanish Brunch
+3986,Coffee
+3987,Coffee,Coffee,Pastry,Medialuna
+3988,Mineral water,Crisps,Sandwich
+3989,Coffee,Coffee,Bread,Alfajores,Alfajores,Pastry
+3990,Medialuna,Bread,Tea
+3991,Coffee
+3992,Baguette,Farm House
+3993,Farm House
+3994,Bread,Chicken Stew
+3995,Chocolates,Chocolates,Coffee,Tea
+3996,Tea,Sandwich,Brownie
+3997,Brownie,Tea,Sandwich,Art Tray
+3998,Sandwich,Soup,Soup,Tea
+3999,Soup,Coffee,Hot chocolate,Brownie
+4000,Soup,Cake
+4001,Cake,Bread,Coffee,Coffee
+4002,Coffee
+4003,Soup,Chicken Stew,Mineral water
+4004,Coffee,Bread
+4005,Bread,Coffee
+4006,Coffee,Pastry
+4007,Tea,Coffee,Bread
+4008,Coffee,Sandwich
+4009,Bread
+4010,Coffee
+4011,Bread,Mineral water,Sandwich,Tea
+4012,Bread,Bread,Bread,Cake
+4013,Coffee,Tea,Brownie
+4014,Bread,Bread
+4015,Hot chocolate,Hot chocolate
+4016,Coffee,Cake
+4017,Coffee,Tea
+4018,Bread,Bread
+4019,Coffee,Cookies
+4020,Bread,Toast
+4021,Bread,Coffee,Pastry,Pastry
+4022,Farm House
+4023,Scandinavian
+4024,Coffee,Brownie
+4025,Bread,Hot chocolate
+4026,Coffee,Toast
+4027,Coffee
+4028,Coffee,Tea,Brownie,Farm House
+4029,Coffee,Coffee,Cookies,Cookies,Toast,Juice
+4030,Valentine's card
+4031,Coffee,Coffee,Extra Salami or Feta,Bread
+4032,Valentine's card
+4033,Hot chocolate,Coffee,Cookies,Cookies
+4034,Coffee,Medialuna,Medialuna,Sandwich
+4035,Bread
+4036,Bread
+4037,Bread
+4038,Soup,Bread,Coffee
+4039,Coffee,Soup,Pastry,Jam
+4040,Eggs,Coffee
+4041,Baguette
+4042,Coffee
+4043,Bread
+4044,Pastry
+4045,Scandinavian,Cookies
+4046,Coke,Soup
+4047,Sandwich,Coffee
+4048,Coke,Sandwich
+4049,Coffee,Chicken Stew
+4050,Chicken Stew,Coffee
+4051,Juice,Toast,Sandwich,Sandwich,Tea,Coffee,Cookies,Cookies,Alfajores,Alfajores,Hot chocolate
+4052,Cookies
+4053,Juice,Sandwich,Cake
+4054,Soup,Bread
+4055,Coffee
+4056,Fudge,Sandwich
+4057,Baguette
+4058,Coffee,Coffee,Pastry,Pastry
+4059,Medialuna,Cake,Tea,Tea
+4060,Bread
+4061,Coffee,Brownie
+4062,Soup,Soup,Soup,Bread,Cake,Cake,Tea,Bread,Tea
+4063,Coffee,Juice,Hot chocolate,Cake
+4064,Alfajores,Bread,Coffee,Coffee
+4065,Bread,Cookies,Bread
+4066,Bread
+4067,Bread
+4068,Cake,Bread
+4069,Coffee,Bread
+4070,Coffee,Tea
+4071,Bread,Bread
+4072,Coffee,Coffee,Juice,Pastry,Cookies
+4073,Bread,Pastry
+4074,Bread
+4075,Coffee,Cookies
+4076,Hot chocolate
+4077,Coffee,Hot chocolate
+4078,Coffee,Cookies
+4079,Coffee
+4080,Coffee,Toast
+4081,Valentine's card
+4082,Tea
+4083,Bread
+4084,Bread
+4085,Coffee
+4086,Bread,Juice,Sandwich,Sandwich,Cookies,Alfajores
+4087,Soup
+4088,Soup
+4089,Scone,Coffee
+4090,Truffles,Soup
+4091,Chicken Stew,Cake,Juice
+4092,Bread,Scandinavian
+4093,Coffee,Coffee
+4094,Sandwich,Coffee,Truffles
+4095,Cake
+4096,Bread
+4097,Pastry,Bread
+4098,Toast
+4099,Bread
+4100,Bread
+4101,Chicken Stew
+4102,Sandwich,Coke
+4103,Coffee,Coffee,Cake,Cake,Salad,Extra Salami or Feta,Scandinavian,Bread
+4104,Scandinavian
+4105,Coffee,Salad
+4106,Truffles,Duck egg,Extra Salami or Feta,Spanish Brunch,Afternoon with the baker
+4107,Medialuna,Medialuna
+4108,Tea,Tea,Soup,Cake,Bread,Scone,Cake
+4109,Soup,Coffee,Coffee
+4110,Medialuna,Cake,Spanish Brunch,The Nomad,Cookies
+4111,Bread,Coffee
+4112,Coffee
+4113,Coffee,Chicken Stew
+4114,Coffee
+4115,Coffee,Alfajores,Pastry
+4116,Coffee
+4117,Coffee
+4118,Coffee,Brownie
+4119,Soup
+4120,Coffee,Tea,Cookies
+4121,Bread
+4122,Bread
+4123,Baguette,Coffee
+4124,Tea
+4125,Spanish Brunch
+4126,Coffee
+4127,Cake,Cake,Cookies
+4128,Juice,Coffee,Cookies,Tea,Alfajores
+4129,Cake,Cookies,Coffee,Hot chocolate
+4130,Bread,Coffee,Bread
+4131,Coffee,Scone
+4132,Brownie,Coffee,Coffee,Baguette
+4133,Bread
+4134,Coffee,Medialuna,Baguette
+4135,Coffee
+4136,Hot chocolate,Toast
+4137,Coffee,Bread,Medialuna,Alfajores
+4138,Alfajores,Medialuna,Coffee,Bread
+4139,Focaccia,Bread
+4140,Coffee
+4141,Coffee,Coffee
+4142,Coffee
+4143,Hot chocolate
+4144,Coffee,Juice
+4145,Coffee,Pastry
+4146,Pastry,Coffee
+4147,Scandinavian
+4148,Juice,Chocolates,Hot chocolate,Coffee,Bread,Cookies
+4149,Tea,Coffee
+4150,Bread
+4151,Coffee,Brownie,Farm House
+4152,Bread,Cookies,Coffee
+4153,Coffee,Coffee
+4154,Coffee
+4155,Coffee,Coffee,Scone,Cake,Farm House,Juice
+4156,Coffee,Coffee,Cookies
+4157,Scone,Coffee
+4158,Bread
+4159,Bread,Cookies
+4160,Coffee
+4161,Cookies,Cake,Cake,Truffles
+4162,Baguette
+4163,Bread,Tea
+4164,Farm House
+4165,Coffee
+4166,Soup
+4167,Coffee,Tea,Sandwich,Sandwich
+4168,Soup,Tea,Tea
+4169,Coke,Juice,Coffee,Chicken Stew,Sandwich,Sandwich,Sandwich,Cookies,Cookies
+4170,Cake
+4171,Truffles,Bread,Sandwich,Soup
+4172,Cake,Coffee,Cookies,Coke
+4173,Truffles,Salad,Chicken Stew,Medialuna,Brownie
+4174,Coffee,Coffee,Alfajores,Cookies
+4175,Coffee,Bread,Soup,Sandwich
+4176,Bread,Alfajores
+4177,Bread
+4178,Tea,Sandwich
+4179,Alfajores,Bread,Coffee
+4180,Sandwich,Sandwich,Truffles,Tea
+4181,Cake
+4182,Farm House,Coffee
+4183,Tea,Coffee,Soup,Cake
+4184,Bread,Coffee
+4185,Chicken Stew,Coffee
+4186,Coffee,Coffee
+4187,Bread,Coffee
+4188,Tea,Toast
+4189,Coffee,Coffee
+4190,Tea,Hot chocolate,Cake,Eggs,Fudge,Bread
+4191,Bread
+4192,Coffee,Bread,Cake
+4193,Alfajores,Coffee
+4194,Bread,Bread
+4195,Afternoon with the baker
+4196,Medialuna,Alfajores
+4197,Coffee,Coffee
+4198,Coffee,Bread,Mineral water,Toast
+4199,Bread,Pastry
+4200,Tea
+4201,Coffee,Tea,Cake
+4202,Coffee,Coffee,Cake,Toast
+4203,Coffee,Pastry,Alfajores,Farm House
+4204,Hot chocolate,Cake
+4205,Hot chocolate,Cake
+4206,Bread
+4207,Coffee,Coffee,Tea,Cake,Alfajores
+4208,Cookies,Scone,Coffee,Hot chocolate
+4209,Coffee,Coffee,Hot chocolate,Coffee,Cake,Medialuna
+4210,Coffee,Coffee,Coffee,Coffee,Medialuna,Cookies
+4211,Coffee,Cake
+4212,Bread,Bread
+4213,Sandwich,Coffee
+4214,Bread
+4215,Coffee,Cake
+4216,Coffee,Coke,Pastry
+4217,Salad
+4218,Bread
+4219,Bread,Cake
+4220,Farm House,Cake
+4221,Coke
+4222,Bread
+4223,Cookies,Cookies,Spanish Brunch,Toast,Coffee,Bread
+4224,Tea,Tea
+4225,Coffee
+4226,Hot chocolate,Hot chocolate,Hot chocolate,Smoothies,Cookies,Cookies
+4227,Coffee,Juice,Bread,Bread,Afternoon with the baker
+4228,Coffee
+4229,Alfajores,Bread
+4230,Soup,Tea
+4231,Tea,Alfajores
+4232,Bread,Vegan mincepie
+4233,Baguette,Alfajores
+4234,Baguette
+4235,Bread
+4236,Coffee,Coffee
+4237,Valentine's card
+4238,Valentine's card
+4239,Coffee,Coffee
+4240,Toast
+4241,Bread
+4242,Coffee,Coffee
+4243,Pastry
+4244,Bread
+4245,Pastry,Coffee,Coffee
+4246,Baguette
+4247,Coffee
+4248,Tea,Tea,The Nomad,Pastry
+4249,Bread
+4250,Coffee,Bread
+4251,Medialuna,Medialuna,Medialuna,Baguette
+4252,Hot chocolate,Coffee,Medialuna,Soup,Cake
+4253,Bread,Coffee
+4254,Bread,Medialuna
+4255,Vegan Feast
+4256,Sandwich,Truffles
+4257,Coffee,Toast
+4258,Soup
+4259,The Nomad,Coffee,Coffee
+4260,Sandwich,Juice
+4261,Soup,Soup,Cake,Cake,Tea,Tea
+4262,Bread
+4263,Baguette,Coffee,Coffee,Coffee,Salad,Art Tray,Alfajores
+4264,Coffee,Bread
+4265,Bread
+4266,Cake
+4267,Baguette
+4268,Hot chocolate,Alfajores
+4269,Coffee,Hot chocolate,Coffee,Medialuna,Jammie Dodgers
+4270,Coffee,Vegan mincepie,Pastry
+4271,Hot chocolate,Coffee,Alfajores,Cake
+4272,Brownie
+4273,Bread
+4274,Coffee,Bread
+4275,Bread,Cake
+4276,Cake,Coffee
+4277,Coffee
+4278,Farm House
+4279,Cookies
+4280,Brownie
+4281,Coffee
+4282,Baguette
+4283,Coffee
+4284,Medialuna,Alfajores,Hot chocolate,Hot chocolate,Bread
+4285,Pastry,Medialuna,Alfajores,Alfajores,Cake
+4286,Coffee
+4287,Hot chocolate,Coffee,Cake,Cookies,Spanish Brunch,Duck egg
+4288,Coffee,Pastry
+4289,Smoothies,Sandwich,Soup
+4290,Coffee,Juice,Jammie Dodgers,Chicken Stew,Tea
+4291,Hot chocolate,Juice,Hot chocolate,Toast,Chicken Stew,Tea,Tea
+4292,Coffee
+4293,Coffee,Coffee,Pastry,Pastry
+4294,Coffee,Coffee,Cookies,Cake
+4295,Coffee
+4296,Fudge
+4297,Coffee,Cake,Brownie,Alfajores
+4298,Cake
+4299,Tea,Tea,Soup
+4300,Hot chocolate,Sandwich,Sandwich
+4301,Afternoon with the baker
+4302,Soup,Soup,Tea,Truffles
+4303,Coffee,Coffee,Brownie,Cake,Sandwich,Sandwich
+4304,Cookies
+4305,Coffee
+4306,Coffee,Coffee,Juice,Extra Salami or Feta,Salad,Toast
+4307,Pastry,Coffee,Coffee,Muffin,Alfajores
+4308,Bread
+4309,Baguette
+4310,Afternoon with the baker,Brownie,Cookies,Cookies
+4311,Cookies,Farm House
+4312,Baguette,Cake
+4313,Cake
+4314,Bread
+4315,Coffee
+4316,Tea,Medialuna
+4317,Bread
+4318,Coffee
+4319,Bread
+4320,Coffee,Coffee,Pastry,Medialuna
+4321,Jammie Dodgers,Coffee,Bread
+4322,Coffee
+4323,Spanish Brunch,Tea
+4324,Coffee,Spanish Brunch,Bread
+4325,Tea,Coffee,Cookies,Cookies
+4326,Bread,Bread
+4327,Scandinavian,Baguette
+4328,Farm House
+4329,Bread
+4330,Cake,Cookies,Coffee,Coffee
+4331,Coffee,Tea,Scone,Bread
+4332,Coffee
+4333,Tea,Cake
+4334,Pastry,Coffee,Coffee
+4335,Farm House
+4336,Juice,Bread,Sandwich,Sandwich,Sandwich,Coke
+4337,Bread,Bread,Tea,Jammie Dodgers,Tiffin
+4338,Bread,Tea
+4339,Juice,Coffee,Coffee,Hot chocolate,Hot chocolate,Chocolates,Jammie Dodgers
+4340,Brownie,Pastry,Juice,Bread,Scone
+4341,Cake,Muffin
+4342,Brownie,Sandwich,Baguette
+4343,Coffee
+4344,Coffee,Sandwich,Sandwich
+4345,Coffee,Toast
+4346,Pastry
+4347,Tiffin,Sandwich
+4348,Muffin
+4349,Bread
+4350,Bread
+4351,Chicken Stew,Scone,Brownie,Medialuna
+4352,Scone
+4353,Sandwich,Soup,Coffee
+4354,Scandinavian,Bread
+4355,Chicken Stew,Tea
+4356,Cake,Coffee,Coffee,Sandwich,Sandwich
+4357,Bread
+4358,Bread,Scone
+4359,Sandwich,Tea,Tea
+4360,Cake,Tiffin
+4361,Baguette,Scandinavian
+4362,Coffee,Coffee,Coffee,Tea,Coke,Tiffin,Medialuna,Bread,Soup,Chicken Stew,Sandwich
+4363,Coffee,Bread
+4364,Hot chocolate,Bread,Muffin
+4365,Coffee,Scone
+4366,Coffee,Hot chocolate
+4367,Tea,Coffee
+4368,Muffin
+4369,Sandwich,Sandwich,Sandwich,Coke,Truffles,Coffee
+4370,Baguette
+4371,Bread,Medialuna,Brownie,Truffles
+4372,Coffee,Coffee,Mineral water,Hot chocolate,Alfajores
+4373,Cake,Mineral water,Coffee,Sandwich
+4374,Coffee,Jammie Dodgers
+4375,Coffee
+4376,Bread,Bread,Coffee,Coffee,Tea,Brownie,Bread,Alfajores
+4377,Scone,Bread,Tea,Coffee
+4378,Cake
+4379,Cake,Bread
+4380,Muffin,Scone,Cake,Tea,Tea,Tea
+4381,Bread,Brownie
+4382,Coffee
+4383,The Nomad,Coffee
+4384,Coffee
+4385,Coffee,Scone
+4386,Coffee,Medialuna
+4387,Bread
+4388,Fudge,Fudge
+4389,Coffee,Bread
+4390,Coffee,Juice,Bread
+4391,Alfajores,Bread,Coffee,Coffee
+4392,Coffee
+4393,Coffee
+4394,Coffee,Medialuna
+4395,Pastry
+4396,Scone,Cookies,Hot chocolate,Coffee
+4397,Bread
+4398,Salad
+4399,Coffee,Tea,Coffee,Pastry
+4400,Bread
+4401,Bread
+4402,Bread
+4403,Scone
+4404,Sandwich,Sandwich,Coffee,Coffee
+4405,Bread
+4406,Coffee,Coffee
+4407,Juice,Sandwich,Spanish Brunch,Tea,Alfajores,Scone
+4408,Bread
+4409,Hot chocolate
+4410,Sandwich
+4411,Coffee,Cake
+4412,Alfajores,Brownie,Bread,Bread
+4413,Coffee,Bread
+4414,Smoothies,Coffee,Bread,Cookies
+4415,Toast,Spanish Brunch,Coke,Tea,Coffee
+4416,Bread,Bread,Scone,Sandwich,The Nomad
+4417,Coffee,Bread
+4418,Coffee,Cookies
+4419,Pastry,Jammie Dodgers
+4420,Medialuna,Coffee,Hot chocolate
+4421,Tea,Bread
+4422,Truffles
+4423,Juice,Tea,Cake
+4424,Bread,Tea
+4425,Coffee,Cake
+4426,Juice
+4427,Bread,Bread,Bread,Coffee
+4428,Coffee,Medialuna
+4429,Coffee,Bread
+4430,Alfajores,Bread
+4431,Cookies,Alfajores,Pastry,Medialuna
+4432,Eggs
+4433,Coffee,Toast
+4434,Coffee
+4435,Bread
+4436,Bread,Coffee,Pastry
+4437,Farm House
+4438,Tea
+4439,Coffee
+4440,Coffee,Bread,Pastry
+4441,Jam,Coffee,Bread,Scone
+4442,Tea,Scone
+4443,Coffee
+4444,Tea
+4445,Bread,Coffee
+4446,Baguette
+4447,Coffee
+4448,Coffee,Coffee,Bread,Pastry
+4449,Bread
+4450,Bread,Coffee,Coffee
+4451,Tea,Scone
+4452,Coffee
+4453,Sandwich,Tea
+4454,Bread
+4455,Coffee,Coffee,Tea,Medialuna
+4456,Tea,Tea,Coffee,Coffee,Sandwich
+4457,Bread
+4458,Coffee,Pastry
+4459,Cake
+4460,Coffee,Coffee,Salad
+4461,Bread
+4462,Bread
+4463,Jam
+4464,Coffee,Cake,Toast
+4465,Coffee,Toast
+4466,Cake,Tea
+4467,Truffles,Alfajores,Soup
+4468,Cake,Alfajores
+4469,Coffee,Cookies,Mineral water,Tea,Alfajores
+4470,Coffee,Toast,Coffee,Cookies
+4471,Coffee,Tea,Scone
+4472,Cookies
+4473,Farm House
+4474,Tea,Chicken Stew
+4475,Coffee,Cookies
+4476,Bread
+4477,Bread
+4478,Coffee,Pastry,Cake
+4479,Bread
+4480,Coffee
+4481,Alfajores,Alfajores
+4482,Alfajores,Alfajores
+4483,Coffee,Coffee,Pastry
+4484,Cake,Coffee
+4485,Coffee
+4486,Bread,Medialuna
+4487,Bread,Coffee,Hot chocolate
+4488,Coffee,Bread,Pastry
+4489,Toast
+4490,Coffee
+4491,Bread,Tea,Spanish Brunch
+4492,Coffee,Coffee,Pastry,Pastry
+4493,Coffee,Coffee
+4494,Farm House
+4495,Tea,Toast
+4496,Bread
+4497,Scone,Bread,Baguette
+4498,Sandwich,Bread,Alfajores,Fudge
+4499,Coffee,Sandwich
+4500,Tea
+4501,Coffee,Pastry,Bread
+4502,Truffles,Coffee,Sandwich,Sandwich,Salad
+4503,Coffee
+4504,Tea,Coke,Pastry,Brownie,Scone,Alfajores
+4505,Tea,Bread
+4506,Bread,Tea
+4507,Bread
+4508,Tea,Tea,Tea,Brownie,Bread
+4509,Bread,Bread,Chicken Stew,Sandwich
+4510,Coffee
+4511,Coffee,Sandwich
+4512,Bread,Scone
+4513,Soup,Sandwich,Coffee,Tea,Cake
+4514,Farm House
+4515,Scandinavian
+4516,Tea,Coffee,Scone
+4517,Smoothies,Coffee,Coffee,Cake
+4518,Coffee,Coffee,Coffee,Sandwich,Sandwich
+4519,Brownie,Farm House
+4520,Coffee,Cake
+4521,Alfajores,Cookies,Cake,Bread
+4522,Coffee,Juice
+4523,Bread
+4524,Bread,Brownie,Coffee
+4525,Cake
+4526,Brownie,Coffee,Coffee,Bread
+4527,Brownie,Coffee
+4528,Coffee,Bread
+4529,Hot chocolate
+4530,Coffee,Coffee
+4531,Coffee,Coffee
+4532,Medialuna,Bread
+4533,Hot chocolate,Coffee,Toast,Bread
+4534,Coffee
+4535,Coffee,Tiffin
+4536,Muffin,Cookies,Hot chocolate,Juice
+4537,Coffee,Juice,Cookies,Bread
+4538,Coffee,Coffee,Coffee,Toast,Sandwich
+4539,Baguette
+4540,Juice,Baguette
+4541,Chicken Stew,Coffee
+4542,Bread
+4543,Coffee
+4544,Sandwich
+4545,Cake,Brownie,Tea,Soup
+4546,Tea,Scone
+4547,Scone,Tea
+4548,Coffee,Tea,Cake
+4549,Chicken Stew
+4550,Coffee,Alfajores
+4551,Bread
+4552,Spanish Brunch,Coffee
+4553,Mineral water,Soup,Soup
+4554,Tiffin,Muffin
+4555,Coffee
+4556,Bread
+4557,Cake,Cookies
+4558,Tea,Spanish Brunch
+4559,Coffee,Hot chocolate
+4560,Coffee,Juice,Coffee,Jammie Dodgers,Muffin,Cake,Bread
+4561,Coffee,Tiffin
+4562,Hot chocolate,Hot chocolate,Coffee,Muffin,Tiffin,Alfajores
+4563,Bread,Bread
+4564,Tea
+4565,Coffee,Coffee,Tiffin,Muffin,Sandwich,Sandwich
+4566,Jam
+4567,Toast
+4568,Afternoon with the baker,Brownie
+4569,Coffee,Pastry
+4570,Bread
+4571,Bread
+4572,Baguette
+4573,Coffee
+4574,Coffee,Coffee,Juice,Scone,Cookies
+4575,Toast,Coffee,Coffee,Coffee
+4576,Coffee,Coffee
+4577,Tea
+4578,Tiffin
+4579,Tea
+4580,Coffee,Coffee,Coffee
+4581,Brownie,Cake,Tea
+4582,Coffee,Cookies,Bread
+4583,Pastry
+4584,Sandwich,Toast,Tea,Tea
+4585,Bread,Toast
+4586,Farm House
+4587,Coffee,Toast
+4588,Bread,Medialuna
+4589,Coffee,Alfajores,Muffin,Coffee
+4590,Bread,Coffee
+4591,Sandwich,Bread
+4592,Tea
+4593,Bread
+4594,Bread
+4595,Bread,Bread,Coffee,Coffee,Coffee,Tiffin,Medialuna,Sandwich
+4596,Coffee,Soup,Sandwich,Cake
+4597,Tea,Coffee,Sandwich,Muffin
+4598,Cake,Tea,Coffee
+4599,Soup,Soup,Coffee,Coffee
+4600,Bread
+4601,Cake,Bread
+4602,Coffee,Coffee,Brownie
+4603,Jam
+4604,Brownie,Cake
+4605,Coffee,Cake,Muffin,Toast,Coffee
+4606,Tea,Tea
+4607,Tea,Scone,Coffee
+4608,Bread,Bread
+4609,Tiffin,Mineral water
+4610,Alfajores,Scone,Bread
+4611,Bread,Smoothies,Chicken Stew
+4612,Soup,Soup
+4613,Sandwich,Bread
+4614,Tea,Tiffin
+4615,Bread
+4616,Spanish Brunch
+4617,Coffee,Coffee
+4618,Coffee,Brownie
+4619,Coffee,Truffles
+4620,Sandwich,Sandwich,Bread,Coffee,Mineral water
+4621,Bread
+4622,Bread,Coffee
+4623,Alfajores,Mineral water,Coffee,Hot chocolate,Cookies,Cookies
+4624,Farm House
+4625,Tea,Bread,Brownie
+4626,Coffee,Alfajores,Tea
+4627,Coffee
+4628,Coffee,Pastry
+4629,Coffee,Coffee,Medialuna
+4630,Coffee,Coffee
+4631,Coffee,Bread
+4632,Coffee,Medialuna
+4633,Tea,Pastry
+4634,Farm House
+4635,Coffee,Jammie Dodgers,Juice
+4636,Bread,Coffee,Pastry,Pastry
+4637,Bread
+4638,Bread,Coffee
+4639,Coffee
+4640,Bread
+4641,Bread,Tea,Tea,Medialuna
+4642,Coffee,Coffee
+4643,Coffee,Spanish Brunch
+4644,Sandwich,Coke
+4645,Soup
+4646,Bread,Soup
+4647,Coffee,Toast
+4648,Granola,Coffee
+4649,Tea,Tea,Medialuna,Jammie Dodgers
+4650,Farm House
+4651,Chicken Stew
+4652,Coffee
+4653,Tea,Tea
+4654,Bread,Bread
+4655,Coffee,Coffee,Pastry,Pastry,Soup,Chicken Stew
+4656,Coffee,Coffee,Jammie Dodgers,Truffles
+4657,Bread,Bread,Coffee
+4658,Bread
+4659,Bread,Bread
+4660,Coffee,Tea,Tiffin
+4661,Bread
+4662,Bread
+4663,Bread
+4664,Bread
+4665,Bread
+4666,Bread,Pastry
+4667,Juice,Tea
+4668,Farm House
+4669,Coffee,Tea,Toast
+4670,Baguette
+4671,Baguette,Pastry,Cake,Truffles,Coffee
+4672,Coffee
+4673,Coke,Bread
+4674,Bread,Cookies
+4675,Bread,Bread
+4676,Pastry,Coffee,Coffee
+4677,Bread
+4678,Bread,Bread,Bread
+4679,Coffee,Coffee,Bread
+4680,Bread,Bread,Tea,Pastry
+4681,Coffee,Bread
+4682,Scandinavian
+4683,Coffee,Bread
+4684,Coffee,Coffee
+4685,Bread
+4686,Baguette
+4687,Jammie Dodgers,Bread
+4688,Coffee
+4689,Bread
+4690,Mineral water,Coffee,Soup
+4691,Bread,Pastry
+4692,Tea,Cookies
+4693,Coffee
+4694,Coffee
+4695,Coffee,Coke,Sandwich,Soup
+4696,Coffee,Farm House
+4697,Baguette,Scandinavian,Pastry
+4698,Hot chocolate,Tea,Sandwich,Sandwich
+4699,Coffee
+4700,Tea,Cake
+4701,Coffee,Coffee,Alfajores,Pastry
+4702,Coffee,Hot chocolate
+4703,Coffee,Coffee,Coffee
+4704,Coffee,Sandwich
+4705,Tea,Tea,Bread,Alfajores,Bread,Spanish Brunch
+4706,Hot chocolate,Coffee,Coffee,Cookies
+4707,Coffee,Cake
+4708,Tea,Cookies
+4709,Smoothies,Cake,Coffee,Bread
+4710,Bread
+4711,Bread
+4712,Vegan Feast
+4713,Coffee,Coffee,Cake,Cake
+4714,Hot chocolate,Tea,Pastry
+4715,Cake,Coffee,Hot chocolate
+4716,Bread,Tea,Coffee
+4717,Coffee
+4718,Coffee
+4719,Coffee,Tea,Toast
+4720,Coffee,Coffee
+4721,Bread
+4722,Coffee,Coffee,Alfajores,Pastry,Pastry,Juice
+4723,Coffee,Baguette
+4724,Coffee,Coffee,Cake,Pastry
+4725,Tea,Coffee
+4726,Bread,Pastry
+4727,Bread,Pastry
+4728,Vegan mincepie,Coffee,Baguette
+4729,Baguette
+4730,Bread,Coffee,Tea
+4731,Coffee,Cake,Cake,Toast,Juice
+4732,Hot chocolate,Truffles
+4733,Coffee,Toast
+4734,Hot chocolate
+4735,Bread
+4736,Tea
+4737,Chicken Stew
+4738,Chicken Stew
+4739,Soup,Chicken Stew,Tea,Tea,Bread
+4740,Bread,Pastry
+4741,Mineral water,Salad
+4742,Duck egg,Sandwich,Soup,Truffles,Coffee
+4743,Coffee,Bread
+4744,Hot chocolate,Sandwich
+4745,Bread
+4746,Coffee,Coffee,Tea,Tea,Soup,Chicken Stew,Cake,Cake
+4747,Cookies,Coffee
+4748,Farm House
+4749,Coffee,Coffee,Bread
+4750,Tea,Coke,Truffles,Bread
+4751,Bread
+4752,Cake,Bread,Tea
+4753,Bread,Smoothies
+4754,Coffee
+4755,Coffee,Juice
+4756,Coffee
+4757,Bread
+4758,Tea,Toast,Coffee
+4759,Jam,Bread
+4760,Coffee,Pastry
+4761,Bread
+4762,Bread
+4763,Tea,Cake
+4764,Bread,Hot chocolate
+4765,Coffee,Coffee,Cake
+4766,Bread,Pastry,Hot chocolate,Coffee
+4767,Hot chocolate,Coffee,Cake
+4768,Coffee,Toast
+4769,Cake,Coffee
+4770,Pastry,Pastry,Bread
+4771,Coffee,Coffee,Tea
+4772,Coffee,Coffee,Baguette
+4773,Coffee,Coffee,Pastry
+4774,Bread,Pastry
+4775,Bread
+4776,Coffee,Coffee,Cookies
+4777,Coffee,Sandwich
+4778,Tea
+4779,Bread
+4780,Bread
+4781,Tea,Tea
+4782,Bread
+4783,Coffee,Coffee
+4784,Chicken Stew
+4785,Coffee,Sandwich
+4786,Coffee,Hot chocolate,Bread,Pastry
+4787,Coffee,Coffee,Bread
+4788,Coffee,Coffee,Coffee,Bread
+4789,Hot chocolate,Pastry
+4790,Coffee,Hot chocolate
+4791,Coffee,Tea
+4792,Tea,Tea
+4793,Coffee,Cake
+4794,Coffee,Cake
+4795,Muffin,Bread
+4796,Tea,Tea,Pastry
+4797,Cake
+4798,Bread
+4799,Bread
+4800,Bread
+4801,Bread,Pastry
+4802,Bread,Bread
+4803,Coffee
+4804,Coffee,Coffee,Toast
+4805,Coffee,Coffee
+4806,Coffee,Coffee
+4807,Coffee,Coffee,Juice,Cake,Cookies
+4808,Coffee
+4809,Coffee,Tiffin
+4810,Bread
+4811,Coffee
+4812,Coffee,Pastry,Pastry
+4813,Pastry,Pastry,Bread,Sandwich,Coffee
+4814,Fudge
+4815,Scandinavian
+4816,Bread,Hot chocolate
+4817,Fudge,Fudge,Coffee,Alfajores
+4818,Coffee
+4819,Coffee,Coffee
+4820,Tea
+4821,Bread
+4822,Bread
+4823,Coffee,Pastry
+4824,Coffee,Tea
+4825,Sandwich
+4826,Coffee,Cake,Tiffin
+4827,Coffee
+4828,Coffee,Pastry,Tea
+4829,Coffee
+4830,Coffee,Coffee
+4831,Chicken Stew,Sandwich,Mineral water
+4832,Cookies,Cake,Bread
+4833,Bread,Pastry,Coffee,Eggs
+4834,Bread
+4835,Coffee,Salad,Sandwich
+4836,Coffee,Bread,Pastry
+4837,Bread,Bread,Coffee
+4838,Chicken Stew,Tea
+4839,Cookies,Sandwich,Coffee,Coffee
+4840,Coffee,Coffee,Tiffin,Alfajores
+4841,Bread,Pastry,Pastry
+4842,Tiffin,Hot chocolate
+4843,Spanish Brunch,Duck egg,Tea,Bread
+4844,Tea,Soup,Cookies
+4845,Juice,Muffin,Cake,Soup
+4846,Sandwich,Coffee,Coke,Smoothies
+4847,Afternoon with the baker
+4848,Coffee,Coffee,Sandwich
+4849,Pastry,Scone,Bread
+4850,Coffee,Bread
+4851,Bread
+4852,Sandwich
+4853,Coffee,Cookies
+4854,Scone
+4855,Coffee
+4856,Bread,Bread,Tiffin,Sandwich
+4857,Tea,Juice,Bread,Afternoon with the baker
+4858,Scone,Coffee
+4859,Cake
+4860,Jammie Dodgers
+4861,Coffee
+4862,Coffee
+4863,Coffee,Bread
+4864,Coffee
+4865,Bread
+4866,Bread
+4867,Coffee,Pastry
+4868,Bread
+4869,Tea,Pastry
+4870,Pastry
+4871,Tea
+4872,Coffee
+4873,Farm House
+4874,Coffee
+4875,Cookies,Pastry,Coffee,Coffee
+4876,Bread,Coffee,Toast
+4877,Tea,Coffee,Cake
+4878,Toast,Coffee
+4879,Coffee,Toast
+4880,Bread
+4881,Bread
+4882,Bread
+4883,Farm House,Cake
+4884,Soup,Coffee
+4885,Coffee
+4886,Bread,Sandwich
+4887,Bread
+4888,Juice,Coffee,Sandwich,Cake
+4889,Bread
+4890,Tea
+4891,Cake,Bread
+4892,Chicken Stew,Coffee
+4893,Coffee
+4894,Coffee,Salad
+4895,Soup,Bread
+4896,Bread,Cake
+4897,Bread
+4898,Coffee,Coffee,Cake,Sandwich,Sandwich
+4899,Cake,Truffles,Tea,Coffee,Salad,Chicken Stew
+4900,Coffee,Juice,Drinking chocolate spoons
+4901,Bread,Sandwich,Coffee,Coffee,Soup,Cake
+4902,Juice
+4903,Tea
+4904,Bread
+4905,Tea,Hot chocolate,Cake
+4906,Tea,Coffee,Toast,Pastry
+4907,Coffee,Cake
+4908,Afternoon with the baker
+4909,Bread
+4910,Coffee
+4911,Toast,Coffee
+4912,Bread,Cookies,Pastry
+4913,Coke
+4914,Coffee
+4915,Coffee,Tea
+4916,Bread,Pastry
+4917,Coffee
+4918,Coffee
+4919,Bread,Pastry
+4920,Baguette
+4921,Bread
+4922,Coffee
+4923,Tea,Coffee
+4924,Coffee,Coffee,Granola
+4925,Coffee
+4926,Bread
+4927,Bread,Sandwich
+4928,Coffee
+4929,Coffee
+4930,Bread,Toast
+4931,Hot chocolate,Coffee,Pastry,Cookies
+4932,Coffee,Coffee,Bread,Cookies
+4933,Baguette
+4934,Bread,Tea
+4935,Coffee
+4936,Coffee
+4937,Bread
+4938,Coffee,Bread,Pastry
+4939,Bread
+4940,Pastry,Coffee,Bread,Spanish Brunch
+4941,Soup,Coffee,Coffee
+4942,Bread,Salad,Spanish Brunch,Jam
+4943,Tea,Soup
+4944,Coffee,Soup,Sandwich
+4945,Hot chocolate,Coffee,Sandwich,Cake
+4946,Coffee,Salad,Tiffin
+4947,Hot chocolate,Coffee,Sandwich,Cake
+4948,Coffee,Soup,Spanish Brunch
+4949,Cookies
+4950,Farm House
+4951,Farm House,Soup,Salad,Spanish Brunch,Toast,Coffee,Coffee
+4952,Fudge
+4953,Chicken Stew,Tea
+4954,Farm House
+4955,Cake,Tiffin,Coffee,Coffee
+4956,Spanish Brunch,Tea
+4957,Bread
+4958,Coffee
+4959,Pastry,Tiffin,Truffles,Bread,Soup
+4960,Bread
+4961,Bread,Pastry
+4962,Coffee,Cake
+4963,Tea,Tea,Cake,Cake
+4964,Cake,Tea
+4965,Hot chocolate,Coffee,Bread
+4966,Bread
+4967,Bread,Bread
+4968,Bread
+4969,Bread,Pastry
+4970,Pastry,Coffee
+4971,Medialuna,Bread
+4972,Toast,Bread
+4973,Bread
+4974,Coffee,Coffee,Cake
+4975,Tea,Tea,Bread,Coffee,Pastry
+4976,Bread
+4977,Pastry
+4978,Bread
+4979,Baguette
+4980,Coffee,Coffee,Pastry
+4981,Bread
+4982,Coffee,Coffee
+4983,Coffee,Coffee,Chicken Stew,Salad
+4984,Bread
+4985,Soup
+4986,Truffles,Coffee,Sandwich,Sandwich,Bread
+4987,Soup,Soup,Mineral water,Farm House
+4988,Bread
+4989,Coffee,Tea,Soup
+4990,Chicken Stew
+4991,Coffee
+4992,Cake,Jammie Dodgers
+4993,Bread
+4994,Coffee,Coffee,Coffee,Tea,Cake,Scone,Sandwich,Sandwich
+4995,Baguette
+4996,Tea,Juice,Scone,Cake
+4997,Bread,Pastry
+4998,Coffee,Tiffin,Cake,Truffles
+4999,Coffee,Jammie Dodgers
+5000,Coffee,Toast
+5001,Bread
+5002,Pastry,Coffee
+5003,Coffee
+5004,Coffee,Toast,Bread
+5005,Baguette
+5006,Coffee,Toast
+5007,Coffee,Tea,Cake,Bread
+5008,Bread,Hot chocolate
+5009,Coffee,Baguette
+5010,Tiffin,Cake
+5011,Coffee
+5012,Coffee
+5013,Cake,Juice
+5014,Bread
+5015,Coffee,Tiffin
+5016,Tea,Sandwich
+5017,Sandwich,Tea
+5018,Coffee,Chicken Stew
+5019,Sandwich,Cookies
+5020,Salad,Coffee,Juice
+5021,Tea,Bread,Salad,Sandwich
+5022,Bread,Pastry,Truffles
+5023,Bread,Scandinavian
+5024,Chicken Stew,Coffee
+5025,Soup
+5026,Coffee,Sandwich
+5027,Cookies,Soup
+5028,Christmas common
+5029,Coffee
+5030,Soup,Sandwich,Coffee,Medialuna
+5031,Coffee,Coffee,Hot chocolate,Coffee,Pastry,Cake
+5032,Coffee
+5033,Pastry
+5034,Bread,Coffee,Pastry,Chicken Stew
+5035,Coffee
+5036,Tea,Cake
+5037,Truffles,Spanish Brunch,Cake,Coffee
+5038,Truffles,Spanish Brunch,Cake
+5039,Bread,Tea,Scone
+5040,Coke,Tea
+5041,Tea,Cake
+5042,Coke
+5043,Bread,Cake,Coffee,Bread
+5044,Coffee,Coffee,Tea,Cake,Scone,Cookies
+5045,Coffee
+5046,Coffee
+5047,Coffee
+5048,Bread
+5049,Coffee,Bread,Pastry
+5050,Coffee,Bread,Spanish Brunch
+5051,Bread,Toast
+5052,Bread
+5053,Baguette
+5054,Coffee,Pastry
+5055,Hot chocolate,Tea,Cake
+5056,Coffee,Bread
+5057,Bread,Bread,Pastry
+5058,Coffee
+5059,Pastry,Pastry
+5060,Bread,Coffee,Coffee,Bread,Toast
+5061,Coffee
+5062,Bread
+5063,Coffee
+5064,Bread,Cookies
+5065,Medialuna,Bread
+5066,Tea
+5067,Coffee,Cake,Jam,Truffles
+5068,Coffee,Coffee,Juice,Pastry,Cookies
+5069,Coffee,Tiffin,Bread
+5070,Cake,Cookies,Cookies,Coffee,Coffee,Juice
+5071,Vegan Feast,Pastry,Coffee,Coffee
+5072,Coffee,Pastry
+5073,Coffee,Bread
+5074,Bread,Coffee
+5075,Bread
+5076,Coffee,Coffee,Medialuna
+5077,Coffee
+5078,Coffee,Tea,Tiffin
+5079,Bread,Bread
+5080,Brownie
+5081,Coffee
+5082,Tea,Sandwich,Sandwich
+5083,Coffee,Tiffin
+5084,Bread,Scone
+5085,Soup,Salad,Bread
+5086,Sandwich,Coke
+5087,Toast,Coffee,Bread
+5088,Cake,Sandwich,Sandwich,Coffee
+5089,Truffles,Soup
+5090,Vegan mincepie,Cookies,Tiffin,Bread
+5091,Cookies
+5092,Soup
+5093,Coffee,Spanish Brunch
+5094,Coffee,Scone
+5095,Bread,Coffee,Sandwich
+5096,Salad,Spanish Brunch,Coke
+5097,Coffee,Tea,Bread,Tiffin,Chicken Stew
+5098,Tea,Bread,Cake
+5099,Truffles,Mineral water,Bread,Scone,Spanish Brunch
+5100,Coffee
+5101,Truffles,Cake
+5102,Coffee
+5103,Coffee,Bread
+5104,Cookies,Tiffin
+5105,Tea
+5106,Pastry,Coffee
+5107,Coffee,Jammie Dodgers
+5108,Coffee
+5109,Cake
+5110,Pastry,Bread,Jam
+5111,Bread
+5112,Tea
+5113,Tea,Coffee,Spanish Brunch
+5114,Afternoon with the baker
+5115,Bread
+5116,Coffee,Cookies
+5117,Coffee,Tea,Cookies,Cake
+5118,Coffee,Coffee
+5119,Coffee,Coffee
+5120,Coffee,Coffee,Muffin
+5121,Bread
+5122,Tea
+5123,Coffee,Pastry,Pastry
+5124,Sandwich,Sandwich,Tea,Coffee
+5125,Bread
+5126,Tea,Cake
+5127,Coffee
+5128,Baguette
+5129,Baguette,Scone
+5130,Coffee
+5131,Coffee,Coffee,Pastry,Pastry
+5132,Coffee,Pastry
+5133,Pastry
+5134,Bread
+5135,Pastry,Pastry,Coffee
+5136,Tea,Bread
+5137,Baguette,Coffee
+5138,Bread
+5139,Truffles,Tea,Soup,Salad,Cookies,Bread
+5140,Soup
+5141,Coffee,Soup,Afternoon with the baker
+5142,Coffee,Afternoon with the baker,Spanish Brunch
+5143,Sandwich
+5144,Coffee
+5145,Sandwich,Coffee
+5146,Sandwich,Coffee
+5147,Coffee,Sandwich
+5148,Salad,Tea
+5149,Juice
+5150,Sandwich
+5151,Tea,Coffee,Hot chocolate
+5152,Coffee,Coffee,Soup
+5153,Tea,Cake
+5154,Cake,Bread
+5155,Jammie Dodgers,Cake,Coffee,Coffee
+5156,Coffee,Salad
+5157,Baguette
+5158,Coffee,Jammie Dodgers,Pastry
+5159,Coffee,Cookies
+5160,Coffee,Pastry,Farm House
+5161,Bread
+5162,Coffee
+5163,Coffee,Baguette
+5164,Coffee,Toast,Tea
+5165,Pastry
+5166,Bread
+5167,Coffee,Coffee,Pastry
+5168,Bread,Salad
+5169,Bread,Pastry
+5170,Coffee
+5171,Bread,Coffee,Toast
+5172,Coffee
+5173,Coffee
+5174,Gift voucher,Bread
+5175,Pastry,Bread
+5176,Sandwich
+5177,Mineral water
+5178,Coffee,Pastry
+5179,Truffles,Chicken Stew
+5180,Pastry
+5181,Coffee,Jammie Dodgers,Sandwich
+5182,Bread,Cookies
+5183,Tea,Coffee,Medialuna
+5184,Chicken Stew
+5185,Coffee
+5186,Tea,Juice,Sandwich,Chicken Stew
+5187,Tea,Tea
+5188,Bread,Sandwich,Cake
+5189,Coffee,Muffin
+5190,Coffee,Juice,Bakewell
+5191,Cake,Cookies,Juice,Cookies
+5192,Soup,Chicken Stew
+5193,Coffee,Bakewell
+5194,Juice,Coffee
+5195,Coffee,Bread
+5196,Tea,Bread
+5197,Bakewell,Tea
+5198,Coffee,Coffee,Cake
+5199,Coffee,Coffee,Bakewell
+5200,Coffee,Juice,Cookies,Cake
+5201,Hot chocolate,Coffee,Sandwich,Cake
+5202,Medialuna
+5203,Bread
+5204,Cake,Cake,Cookies,Jammie Dodgers,Vegan Feast
+5205,Bread
+5206,Coffee
+5207,Coffee
+5208,Bread,Baguette
+5209,Bread,Coffee,Pastry
+5210,Pastry,Coffee
+5211,Bread
+5212,Bread
+5213,Cake,Pastry
+5214,Toast
+5215,Hot chocolate
+5216,Coffee
+5217,Coffee,Coffee,Sandwich
+5218,Coffee,Cookies
+5219,Coffee,Cake
+5220,Bread
+5221,Bread
+5222,Bread,Jam,Christmas common
+5223,Coffee,Coffee
+5224,Coke,Salad
+5225,Extra Salami or Feta
+5226,Cookies
+5227,Cake
+5228,Truffles,Pastry
+5229,Cookies,Baguette
+5230,Coffee
+5231,Brownie
+5232,Coffee,Toast
+5233,Tea,Tea,Cookies,Pastry
+5234,Coke
+5235,Brownie,Coffee
+5236,Coffee,Cake
+5237,Sandwich,Truffles,Cake
+5238,Cake,Bakewell,Tea,Coffee
+5239,Cake,Pastry,Hot chocolate,Coffee
+5240,Brownie
+5241,Coffee,Scone
+5242,Cake,Baguette
+5243,Coffee,Tea
+5244,Coffee,Bread,Cake,Bread
+5245,Bread
+5246,Bread
+5247,Coffee,Scone
+5248,Bread,Coffee,Coffee
+5249,Juice,Coffee,Cake
+5250,Coffee,Brownie
+5251,Baguette,Cookies
+5252,Medialuna,Bread,Bread,Coffee,Mineral water
+5253,Coffee,Cookies
+5254,Coffee,Bread
+5255,Coffee,Toast
+5256,Bread,Pastry
+5257,Bread,Coffee,Pastry
+5258,Coffee,Bread,Toast
+5259,Coffee
+5260,Farm House
+5261,Bread,Coffee,Pastry
+5262,Coffee,Hot chocolate,Cookies
+5263,Coffee,Toast,Granola
+5264,Bread,Pastry
+5265,Hot chocolate,Hot chocolate,Bread,Brownie
+5266,Bread,Juice,Crisps
+5267,Jammie Dodgers,Medialuna,Tea
+5268,Bread,Jammie Dodgers
+5269,Cherry me Dried fruit,Toast,Extra Salami or Feta,Hot chocolate,Coffee,Cake
+5270,Bread
+5271,Farm House
+5272,Coffee,Medialuna
+5273,Baguette
+5274,Scandinavian
+5275,Sandwich
+5276,Bread
+5277,Coffee,Toast,Tea
+5278,Bread
+5279,Bread
+5280,Tea,Coffee,Bread
+5281,Chicken Stew,Bread
+5282,Soup
+5283,Soup,Salad,Tea,Mineral water,Juice
+5284,Cake,Truffles,Chicken Stew,Sandwich
+5285,Pastry
+5286,Chicken Stew,Coffee
+5287,Eggs,Bread
+5288,Coffee,Coffee,Soup
+5289,Coffee,Scone
+5290,Coke
+5291,Bread,Brownie
+5292,Coffee,Hot chocolate,Cookies
+5293,Coffee,Cookies
+5294,Bread,Cake
+5295,Cake,Coffee,Coffee,Coffee
+5296,Coffee
+5297,Tea,Bakewell,Bread
+5298,Smoothies,Coffee,Cake,Bread
+5299,Hot chocolate
+5300,Tea,Scone
+5301,Baguette,Cookies
+5302,Coffee,Bakewell
+5303,Mortimer
+5304,Bread
+5305,Bread
+5306,Coffee,Pastry
+5307,Coffee
+5308,Bread,Pastry
+5309,Bread
+5310,Coffee
+5311,Baguette
+5312,Coffee,Bread,Bread
+5313,Coffee,Coffee,Toast
+5314,Cake,Bread
+5315,Coffee
+5316,Coffee
+5317,Coffee,Coffee,Juice,Cake,Cookies
+5318,Baguette
+5319,Tea,Cake
+5320,Pastry,Coffee
+5321,Tea
+5322,Tea
+5323,Coffee,Pastry
+5324,Bread
+5325,Scandinavian
+5326,Cake,Tiffin,Coffee,Coffee
+5327,Tea,Hot chocolate,Pastry,Cake
+5328,Brownie,Bread
+5329,Bread
+5330,Coffee
+5331,Toast,Coffee
+5332,Tea,Toast
+5333,Coffee,Coffee,Sandwich,Pastry
+5334,Coffee
+5335,Bread
+5336,Coffee
+5337,Tiffin
+5338,Coffee
+5339,Cake,Cake,Brownie
+5340,Half slice Monster
+5341,Coffee,Coffee,Mineral water
+5342,Bread,Coffee,Cookies,Brownie
+5343,Coffee,Soup,Sandwich
+5344,Coffee,Coffee granules,Extra Salami or Feta,Salad
+5345,Salad,Coffee,Coffee
+5346,Coffee,Coffee,Cake,Salad
+5347,Cake,Cookies
+5348,Coffee,Coffee,Cookies
+5349,Scone,Coffee
+5350,Coffee,Coffee,Salad
+5351,Coke
+5352,Coffee,Cake,Cake
+5353,Hot chocolate,Coffee,Tiffin
+5354,Hot chocolate,Coffee,Scone
+5355,Bread
+5356,Hot chocolate,Hot chocolate,Coffee
+5357,Tiffin
+5358,Coffee
+5359,Coffee
+5360,Coffee,Bread
+5361,Coffee,Bread
+5362,Coffee
+5363,Coffee,Bread
+5364,Coffee,Coffee,Pastry,Bread,Bread,Toast
+5365,Pastry,Cake,Bread
+5366,Coffee,Muffin
+5367,Baguette
+5368,Coffee,Bread
+5369,Coffee,Mineral water,Cookies,Toast
+5370,Tea,Spanish Brunch
+5371,Coffee
+5372,Coffee
+5373,Bread
+5374,Coffee granules
+5375,Cake,Muffin,Juice
+5376,Coffee
+5377,Cake
+5378,Juice,Sandwich
+5379,Coffee,Pastry
+5380,Coffee,Muffin
+5381,Truffles,Sandwich
+5382,Coffee,Baguette
+5383,Farm House
+5384,Pastry
+5385,Jam
+5386,Sandwich
+5387,Coffee,Coffee
+5388,Hot chocolate,Coffee,Brownie,Muffin,Bread
+5389,Coffee,Bread
+5390,Sandwich,Coffee
+5391,Spanish Brunch,Coffee
+5392,Coffee,Toast
+5393,Coffee
+5394,Muffin
+5395,Coffee
+5396,Tea,Brownie
+5397,Hot chocolate,Tea,Bread
+5398,Bread,Salad
+5399,Salad,Tea
+5400,Coffee,Muffin
+5401,Tea
+5402,Farm House
+5403,Tea,Coffee,Bread,Pastry
+5404,Farm House,Coffee,Cookies
+5405,Tea,Medialuna
+5406,Coffee
+5407,Cookies,Coffee
+5408,Pastry
+5409,Pastry,Coffee
+5410,Pastry,Cake
+5411,Bread,Scandinavian,Bread
+5412,Bread,Coffee
+5413,Coffee,Toast
+5414,Coffee
+5415,Coffee,Pastry
+5416,Coffee
+5417,Cookies,Cake,Mineral water
+5418,Coffee,Toast
+5419,Baguette
+5420,Farm House
+5421,Cake,Tea,Coffee
+5422,Farm House,Coffee
+5423,Coffee,Coffee
+5424,Bread
+5425,Coffee,Muffin
+5426,Christmas common
+5427,Coffee,Sandwich,Soup
+5428,Sandwich,Mineral water
+5429,Bread
+5430,Coffee,Bread,Spanish Brunch,Sandwich,Bread,Farm House
+5431,Coffee,Cake
+5432,Coffee
+5433,Tea,Soup
+5434,Coffee,Cookies
+5435,Coffee,Sandwich
+5436,Coffee,Coffee,Bread
+5437,Jam
+5438,Cake,Bread
+5439,Sandwich,Coffee
+5440,Truffles
+5441,Coffee,Truffles
+5442,Coffee,Soup,Sandwich
+5443,Sandwich,Coffee,Tea
+5444,Sandwich,Coffee,Tea
+5445,Coffee,Cookies
+5446,Coffee,Bread,Muffin,Baguette
+5447,Bread,Christmas common
+5448,Coffee,Bread,Cookies,Cake
+5449,Coffee
+5450,Bread
+5451,Coffee,Cake,Bread
+5452,Half slice Monster,Juice,Cookies,Coffee
+5453,Coffee,Bread
+5454,Bread
+5455,Tea,Muffin,Bread
+5456,Baguette,Farm House
+5457,Coffee
+5458,Cookies
+5459,Coffee,Bread,Brownie
+5460,Coffee,Sandwich
+5461,Cherry me Dried fruit,Coffee
+5462,Coffee
+5463,Coffee,Pastry,Muffin,Coke
+5464,Bread
+5465,Coffee,Scandinavian,Brownie
+5466,Pastry,Coffee
+5467,Coffee
+5468,Baguette
+5469,Farm House
+5470,Bread,Bread
+5471,Bread
+5472,Toast,Coffee
+5473,Coffee,Tea,Cookies
+5474,Tea,Smoothies
+5475,Farm House
+5476,Coffee
+5477,Bread
+5478,Chicken Stew,Juice
+5479,Coffee,Bread,Sandwich
+5480,Bread
+5481,Coffee,Toast
+5482,Soup,Cake,Coffee,Coffee
+5483,Coffee,Toast
+5484,Granola,Spanish Brunch,Bread,Mineral water,Tea
+5485,Bread
+5486,Sandwich,Coke
+5487,Soup,Coffee
+5488,Bread
+5489,Coffee,Coffee
+5490,Coffee,Coffee,Sandwich
+5491,Coffee,Tea,Cake,Bread
+5492,Pastry,Juice
+5493,Soup,Jam
+5494,Coffee,Coffee,Tea,Salad,Spanish Brunch
+5495,Bread
+5496,Pastry
+5497,Bread,Cake,Bread,Juice,Coffee
+5498,Mortimer
+5499,Coffee
+5500,Coffee,Coffee
+5501,Coke
+5502,Truffles,Juice
+5503,Coffee,Tea,Soup,Bread
+5504,Coffee
+5505,Juice,Tea,Cookies,Bread,Jam
+5506,Coffee
+5507,Coffee,Pastry
+5508,Bread,Pastry
+5509,Coffee
+5510,Coffee
+5511,Bread
+5512,Coffee
+5513,Bread
+5514,Coffee,Coffee,Bread,Pastry
+5515,Cake
+5516,Bread
+5517,Juice,Tiffin
+5518,Coffee,Brownie,Cookies
+5519,Cookies,Pastry,Tea
+5520,Juice,Bread
+5521,Coffee,Toast,Bread
+5522,Bread
+5523,Juice,Hot chocolate,Coffee,Cake
+5524,Bread,Brownie
+5525,Pastry,Coffee
+5526,Bread,Tiffin,Brownie,Bread,Farm House
+5527,Bread,Sandwich
+5528,Bread
+5529,Brownie
+5530,Bread
+5531,Soup,Sandwich,Mineral water,Juice,Coffee
+5532,Pastry,Coffee
+5533,Cake,Chicken Stew,Soup,Bread
+5534,Coffee,Chicken Stew
+5535,Spanish Brunch,Chicken Stew,Juice
+5536,Coffee,Cookies
+5537,Bread,Sandwich
+5538,Soup
+5539,Argentina Night,Bread,Sandwich
+5540,Bread,Coffee
+5541,Salad,Truffles,Coke,Baguette
+5542,Pastry,Medialuna,Medialuna
+5543,Tea,Tea,Bread,Soup,Spanish Brunch,Chicken Stew
+5544,Sandwich,Spanish Brunch,Coffee,Coffee,Bread,Juice,Nomad bag
+5545,Coffee
+5546,Tiffin
+5547,Coffee
+5548,Baguette,Pastry
+5549,Pastry,Coffee
+5550,Coffee,Bread
+5551,Tea,Brownie
+5552,Coffee
+5553,Cake
+5554,Coffee
+5555,Coffee,Cake
+5556,Bread,Coffee,Truffles,Chicken Stew
+5557,Farm House
+5558,Bread
+5559,Coffee
+5560,Hot chocolate,Drinking chocolate spoons
+5561,Tiffin,Smoothies,Coffee
+5562,Mortimer
+5563,Cookies,Brownie,Coffee
+5564,Tea,Coffee,Coffee
+5565,Coffee
+5566,Coffee,Medialuna
+5567,Coffee,Farm House
+5568,Baguette
+5569,Bread,Pastry
+5570,Coffee
+5571,Tea,Coffee,Coffee
+5572,Tiffin,Coffee
+5573,Tea,Pastry
+5574,Coffee
+5575,Bread,Baguette
+5576,Coffee,Juice
+5577,Spanish Brunch,Bread
+5578,Coffee
+5579,Bread,Scandinavian,Pastry
+5580,Coffee,Cookies,Scandinavian
+5581,Coffee,Muffin,Bread
+5582,Coffee
+5583,Coffee,Pastry,Bread
+5584,Coffee,Coffee,Coffee,Tea
+5585,Coffee,Coffee,Bread,Cake
+5586,Baguette
+5587,Coffee,Pastry
+5588,Bread
+5589,Coffee,Coffee,Brownie
+5590,Bread,Tiffin
+5591,Bread
+5592,Cookies,Bread
+5593,Coffee
+5594,Bread,Muffin
+5595,Tiffin,Chicken Stew,Bread
+5596,Bread,Chicken Stew
+5597,Coffee,Coffee,Spanish Brunch
+5598,Salad
+5599,Bread
+5600,Coffee,Sandwich
+5601,Coffee,Hot chocolate,Toast,Sandwich,Soup,Cake
+5602,Coffee
+5603,Muffin,Cake
+5604,Cookies,Cake,Coffee,Coffee
+5605,Coffee,Truffles,Soup,Sandwich
+5606,Spanish Brunch,Bread
+5607,Mineral water,Truffles
+5608,Jam,Jam
+5609,Coffee,Toast
+5610,Spanish Brunch,Baguette
+5611,Coffee,Juice,Cake
+5612,Brownie,Coffee,Coffee
+5613,Tea,Cake,Bread
+5614,Bread,Bread,Eggs
+5615,Tea,Juice,Cookies
+5616,Coffee,Coffee,Cake,Bread
+5617,Coffee,Cake
+5618,Tiffin,Truffles,Coffee
+5619,Tea,Truffles
+5620,Bakewell,Coffee
+5621,Coffee,Muffin
+5622,Coffee
+5623,Bread
+5624,Tea,Toast
+5625,Hot chocolate,Toast
+5626,Coffee,Muffin
+5627,Coffee,Coffee,Tea
+5628,Coffee
+5629,Toast
+5630,Coffee,Muffin
+5631,Tea,Scone
+5632,Tea,Bread
+5633,Coffee,Bread
+5634,Coffee,Tea
+5635,Coffee,Coffee
+5636,Bread,Coffee
+5637,Coffee
+5638,Coffee
+5639,Scone,Bakewell
+5640,Hot chocolate,Brownie
+5641,Coke,Muffin,Coffee
+5642,Coffee,Sandwich
+5643,Coke,Chicken Stew
+5644,Coffee,Tea,The Nomad,Scone
+5645,Coffee
+5646,Coffee,Coffee,Chicken Stew
+5647,Bread
+5648,Bakewell
+5649,Brownie,Jammie Dodgers,Bread,Chicken Stew,Sandwich,Tea,Tea
+5650,Coffee
+5651,Coffee,Coke,Sandwich
+5652,Coffee,Jammie Dodgers
+5653,Coffee,Coke,Mineral water,Bakewell,Salad
+5654,Sandwich,Coffee,Bakewell
+5655,Coffee
+5656,Tea,Muffin
+5657,Coffee,Bread
+5658,Soup,Tea
+5659,Cookies
+5660,Tea
+5661,Coffee,Sandwich
+5662,Mineral water
+5663,Coffee
+5664,Coffee,Bread
+5665,Coffee
+5666,Bread
+5667,Coffee,Toast
+5668,Coffee
+5669,Coffee,Coffee,Bakewell
+5670,Coffee,Coffee,Sandwich
+5671,Coffee
+5672,Coffee,Pastry
+5673,Baguette
+5674,Coffee,Tea,Cookies
+5675,Coffee,Tea
+5676,Coffee,Hot chocolate,Pastry
+5677,Jammie Dodgers,Cookies,Bakewell,Coffee
+5678,Coffee,Coffee,Pastry
+5679,Pastry,Coffee,Tea
+5680,Coffee
+5681,Pastry
+5682,Coffee
+5683,Farm House
+5684,Coffee
+5685,Pastry,Truffles,Bakewell
+5686,Baguette,Bread
+5687,Eggs
+5688,Coke,Coffee,Sandwich,Muffin
+5689,Bakewell,Coffee,Soup
+5690,Cake,Muffin
+5691,Toast,Sandwich,Mineral water,Coke
+5692,Juice,Bread,Toast,Sandwich,Sandwich,Bakewell
+5693,Sandwich,Mineral water
+5694,Tea,Sandwich
+5695,Tea,Sandwich
+5696,Soup,Coffee
+5697,Soup
+5698,Muffin,Tea
+5699,Coffee,Sandwich
+5700,Soup,Coffee,Muffin
+5701,Soup,Cake,Juice
+5702,Soup,Salad
+5703,Bread
+5704,Hot chocolate,Coffee,Toast,Muffin
+5705,Coffee
+5706,Bread
+5707,Toast
+5708,Tea,Cookies
+5709,Coffee,Scone
+5710,Coffee,Chicken Stew
+5711,Bread,Cookies
+5712,Cookies,Muffin
+5713,Cookies,Bread
+5714,Coffee,Coffee,Salad
+5715,Coffee
+5716,Coffee
+5717,Hot chocolate,Bread,Cookies
+5718,Bread
+5719,Tea,Juice,Cookies
+5720,Bread,Spanish Brunch
+5721,Granola
+5722,Smoothies
+5723,Farm House,Hot chocolate
+5724,Bread
+5725,Coffee
+5726,Bread,Cake,Coffee,Coffee,Coffee
+5727,Toast,Coffee
+5728,Coffee,Coffee
+5729,Bread
+5730,Coffee
+5731,Bread
+5732,Juice,Coke,Medialuna,Sandwich
+5733,Coffee,Toast
+5734,Coffee
+5735,Coffee,Tea,Cake,Medialuna
+5736,Bread
+5737,Spanish Brunch,Art Tray,Coffee,Coffee,Juice
+5738,Coffee,Bread,Chicken Stew,Soup,Bread
+5739,Coffee
+5740,Tea,Coffee,Cookies,Sandwich
+5741,Bread
+5742,Tea,Cake,Soup
+5743,Bread
+5744,Tea,Coffee,Soup,Cake
+5745,Scone,Coffee
+5746,Bread,Muffin
+5747,Coffee,Spanish Brunch
+5748,Coffee,Tea,Coffee
+5749,Tea,Tea,Raw bars
+5750,Coffee,Medialuna,Muffin
+5751,Bread,Coffee,Bread,Drinking chocolate spoons
+5752,Coffee,Tea,Tiffin
+5753,Spanish Brunch,Truffles,Coffee,Coffee
+5754,Coffee
+5755,Juice
+5756,Tea
+5757,Coffee,Jammie Dodgers
+5758,Soup,Tea,Cake
+5759,Coffee
+5760,Christmas common
+5761,Christmas common
+5762,Christmas common
+5763,Hot chocolate,Hot chocolate,Coffee,Toast
+5764,Coffee
+5765,Mortimer
+5766,Bread
+5767,Bread,Muffin
+5768,Coffee,Cookies
+5769,Coffee
+5770,Tea,Tea,Cake
+5771,Coffee,Coffee
+5772,Bread
+5773,Tea,Toast,Bread
+5774,Bread,Coffee,Hot chocolate
+5775,Bread
+5776,Baguette,Bakewell
+5777,Jammie Dodgers,Smoothies
+5778,Jammie Dodgers,Tiffin
+5779,Cake,Bread,Coffee,Coffee,Baguette
+5780,Bread
+5781,Farm House
+5782,Coffee
+5783,Coffee
+5784,Juice,Hot chocolate,Muffin
+5785,Coffee,Muffin
+5786,Bread,Cake,Jammie Dodgers,Tea,Truffles
+5787,Coffee,Bakewell
+5788,Sandwich
+5789,Cake,Truffles
+5790,Salad
+5791,Juice,Cake,Sandwich
+5792,Coffee,Chicken Stew
+5793,Coke,Tea,Cake
+5794,Extra Salami or Feta,Salad,Toast,Coffee
+5795,Coffee,Sandwich
+5796,Truffles,Soup,Cookies
+5797,Toast,Coffee
+5798,Cake,Coffee
+5799,Coffee,Coffee,Cake,Tiffin,Bread
+5800,Bread
+5801,Coffee,Tea,Cake
+5802,Coffee,Tea,Sandwich,Toast
+5803,Coffee,Coffee,Cake
+5804,Bread
+5805,Coffee
+5806,Tea,Coffee,Sandwich,Sandwich
+5807,Coffee,Tea,Cake
+5808,Tea,Coffee,Sandwich,Sandwich
+5809,Coffee,Cake
+5810,Cake,Coffee,Juice
+5811,Tea,Cake
+5812,Juice,Coffee,Coffee,Spanish Brunch,Bread
+5813,Muffin
+5814,Coffee,Sandwich
+5815,Coffee
+5816,Coffee,Toast
+5817,Coffee,Tiffin
+5818,Coffee
+5819,Coffee,Coffee,Toast
+5820,Coffee,Medialuna
+5821,Medialuna,Bread,Tea
+5822,Cookies,Bread
+5823,Tea
+5824,Hot chocolate,Tea,Pastry,Tiffin
+5825,Coffee
+5826,Bread
+5827,Cake
+5828,Bread,Bread
+5829,Coffee,Medialuna
+5830,Farm House
+5831,Jammie Dodgers,Muffin,Coffee,Coffee,Juice
+5832,Alfajores,Juice,Coffee,Coffee,Medialuna,Cookies
+5833,Coffee
+5834,Medialuna,Bread
+5835,Spanish Brunch
+5836,Coffee,Bread
+5837,Bread,Coffee
+5838,Coffee,Alfajores
+5839,Bread,Coke,Bread,Cookies
+5840,Cookies,Bread
+5841,Bread,Cookies
+5842,Bread
+5843,Coffee
+5844,Toast,Coffee
+5845,Coffee,Coffee,Pastry
+5846,Coffee
+5847,Juice,Muffin
+5848,Farm House
+5849,Coffee
+5850,Coffee,Medialuna
+5851,Bread,Brownie
+5852,Salad,Extra Salami or Feta,Bread,Baguette,Tea,Bread
+5853,Bread
+5854,Bread,Hot chocolate,Coffee,Sandwich,Cookies
+5855,Chicken Stew
+5856,Bread,Sandwich
+5857,Sandwich,Coffee,Bread
+5858,Sandwich,Coffee,Coffee
+5859,Tiffin
+5860,Baguette
+5861,Spanish Brunch,Salad,Extra Salami or Feta,Coffee,Coffee
+5862,Bread,Tiffin
+5863,Chicken Stew,Soup,Bread
+5864,Brownie,Coffee
+5865,Coke,Mineral water,Coffee,Soup,Sandwich
+5866,Coffee,Scone
+5867,Coffee,Scone
+5868,Hot chocolate,Hot chocolate,Bread,Scone
+5869,Bread,Cookies
+5870,Scone,Bread
+5871,Tea,Brownie
+5872,Tea,Bread,Cake
+5873,Tea,Pastry
+5874,Hot chocolate,Cake
+5875,Coffee,Tiffin
+5876,Coffee
+5877,Bread,Cookies
+5878,Coffee
+5879,Coffee,Brownie
+5880,Scone,Coke,Coffee,Soup
+5881,Coffee,Juice
+5882,Farm House
+5883,Coffee
+5884,Coffee,Bread
+5885,Coffee
+5886,Tea
+5887,Coffee,Coffee
+5888,Coffee,Coffee,Pastry,Sandwich
+5889,Bread,Scone
+5890,Coffee,Coffee,Toast,Granola
+5891,Coffee,Coffee,Pastry,Cake
+5892,Tea
+5893,Farm House
+5894,Coffee
+5895,Coffee,Pastry
+5896,Coffee,Truffles,Pastry,Bread
+5897,Bread
+5898,Coffee,Coffee,Coffee granules
+5899,The Nomad
+5900,Bread
+5901,Bread,Cookies
+5902,Bread
+5903,Truffles
+5904,Coffee,Sandwich,Cake
+5905,Coffee,Toast
+5906,Tea,Coffee,Toast,Scandinavian,Farm House
+5907,Bread
+5908,Coffee
+5909,Coffee
+5910,Scone,Bread,Spanish Brunch
+5911,Coffee,Coffee,Cookies
+5912,Mineral water,Truffles,Coke,Scone
+5913,Sandwich,Soup
+5914,Coffee
+5915,Coffee,Coffee,Medialuna,Cake
+5916,Tea,Sandwich
+5917,Bread
+5918,Coffee,Coffee,Sandwich
+5919,Coffee,Bread,Scone
+5920,Coffee
+5921,Coffee,Jammie Dodgers,Juice
+5922,Cookies
+5923,Soup
+5924,Bread,Sandwich
+5925,Tea,Cookies
+5926,Cookies,Cake,Tea
+5927,Tea,Coffee,Alfajores
+5928,Medialuna
+5929,Scone,Bread
+5930,Tea,Alfajores,Toast
+5931,Soup,Coffee,Medialuna
+5932,Tiffin,Cookies,Hot chocolate
+5933,Coffee
+5934,Cookies
+5935,Alfajores
+5936,Bread
+5937,Bread
+5938,Tea,Hot chocolate,Cake,Salad,Coffee
+5939,Coffee
+5940,Bread,Mineral water
+5941,Coffee,Cookies
+5942,Coffee,Toast
+5943,Cake,Pastry
+5944,Coffee
+5945,Coffee
+5946,Coffee,Extra Salami or Feta
+5947,Bread,Pastry
+5948,Tea
+5949,Coke
+5950,Coffee
+5951,Bread
+5952,Coffee,Coffee,Pastry
+5953,Coffee
+5954,Coffee
+5955,Coffee,Coffee
+5956,Bread,Honey,Jammie Dodgers
+5957,Bread,Coffee,Jammie Dodgers
+5958,Coffee,Bread,Bread
+5959,Pastry,Bread
+5960,Coffee
+5961,Eggs
+5962,Bread,Cake
+5963,Coffee
+5964,Bread
+5965,Juice,Bread
+5966,Coffee
+5967,Coffee
+5968,Coffee,Extra Salami or Feta
+5969,Coffee,Coffee,Coffee,Bread
+5970,Coffee
+5971,Coffee,Juice,Mineral water,Salad,Sandwich,Drinking chocolate spoons
+5972,Chicken Stew,Mineral water,Tea
+5973,Coffee,Bread
+5974,Coffee,Salad
+5975,Bread
+5976,Cookies
+5977,Tea,Soup,Soup
+5978,Coffee,Bread,Cake,Juice,Spanish Brunch,Salad,Extra Salami or Feta
+5979,Coffee,Cake
+5980,Coffee,Cake
+5981,Bread,Soup
+5982,Coffee,Bread
+5983,Mineral water,Cookies
+5984,Coffee,Tea
+5985,Coffee,Baguette
+5986,Coffee,Salad
+5987,Coffee,Bread
+5988,Coffee,Tea
+5989,Tea,Tea,Coffee,Coffee,Juice,Cake,Cake
+5990,Coffee,Cake
+5991,Cake,Cake,Coffee,Smoothies,Tea
+5992,Chicken Stew,Tea
+5993,Coffee
+5994,Bread,Tea
+5995,Hot chocolate,Bread,Bread,Jam,Christmas common
+5996,Coffee
+5997,Coffee,Coffee,Bread
+5998,Coffee,Hot chocolate,Hot chocolate,Pastry
+5999,Tea,Coffee
+6000,Tea
+6001,Coffee,Coffee,Pastry,Toast
+6002,Bread
+6003,Tea,Truffles
+6004,Coffee,Pastry
+6005,Toast,Bread,Tea,Coffee
+6006,Toast,Coffee,Bread
+6007,Coffee,Bread,Tea,Pastry,Muffin
+6008,Pastry,Coffee
+6009,Tea,Coffee,Sandwich
+6010,Salad,Tea
+6011,Tea,Pastry
+6012,Farm House
+6013,Coffee,Truffles,Bread
+6014,Coffee,Sandwich
+6015,Sandwich,Coffee
+6016,Salad
+6017,Tea,Coffee
+6018,Coffee,Tiffin,Bread
+6019,Coke,Chicken Stew,Tiffin
+6020,Coffee,Muffin,Salad,Extra Salami or Feta
+6021,Cake
+6022,Bread,Drinking chocolate spoons
+6023,Coffee,Salad,Sandwich,Cake
+6024,Cookies,Cake,Coffee
+6025,Juice,Coke,Sandwich,Sandwich,Cake,Tiffin
+6026,Cake,Coffee,Hot chocolate
+6027,Bread,Sandwich
+6028,Baguette,Hot chocolate
+6029,Bread,Jammie Dodgers
+6030,Farm House,Baguette
+6031,Pastry
+6032,Coke
+6033,Bread,Coffee
+6034,Scandinavian
+6035,Cookies
+6036,Coffee,Cake
+6037,Cookies,Muffin,Tea,Spanish Brunch,Soup
+6038,Bread,Truffles,Cake,Bread
+6039,Bread,Coffee
+6040,Coffee,Coffee,Cake,Cookies,Bread
+6041,Tea,Cake
+6042,Bread
+6043,Tiffin,Bread
+6044,Pastry
+6045,Cake
+6046,Pastry,Tea,Coffee
+6047,Chocolates,Tea,Coke,Juice,Coffee,Tiffin,Alfajores,Cookies,Pastry,Mineral water
+6048,Juice,Mineral water
+6049,Coffee
+6050,Bread
+6051,Toast
+6052,Coffee
+6053,Coffee,Tiffin,Bread
+6054,Alfajores,Tea
+6055,Farm House
+6056,Toast,Coffee
+6057,Bread,Juice
+6058,Coffee
+6059,Coffee,Juice
+6060,Jammie Dodgers,Coffee
+6061,Bread,Juice,Coffee,Coffee,Cookies,Bread
+6062,Tiffin,Juice,Tea
+6063,Coffee,Toast,Coffee
+6064,Bread
+6065,Tea
+6066,Bread,Alfajores,Brioche and salami
+6067,Cake,Tea
+6068,Christmas common
+6069,Farm House,Scandinavian
+6070,Alfajores,Coffee
+6071,Juice,Cookies,Art Tray,Salad
+6072,Sandwich
+6073,Tea,Tea,Sandwich
+6074,Soup,Coffee
+6075,Coffee,Sandwich
+6076,Bread
+6077,Bread
+6078,Muffin,Soup
+6079,Sandwich,Coffee
+6080,Coffee,Tiffin
+6081,Coffee,Sandwich
+6082,Farm House,Coke,Soup
+6083,Coffee,Tiffin
+6084,Sandwich
+6085,Sandwich,Coffee,Bread
+6086,Tea,Coffee,Truffles
+6087,Coffee
+6088,Tea,Sandwich,Sandwich
+6089,Sandwich,Sandwich,Coke,Smoothies,Bread,Coffee,Alfajores,Crisps
+6090,Coffee,Coffee,Coffee,Toast,Salad
+6091,Tea,Muffin,Bread,Soup
+6092,Bread,Tiffin
+6093,Toast,Bread
+6094,Coffee,Sandwich
+6095,Coke
+6096,Juice,Coffee,Cookies
+6097,Alfajores,Bread
+6098,Bread,Mineral water,Muffin,Cake
+6099,Tea,Tiffin
+6100,Tea,Cookies
+6101,Coffee
+6102,Bread,Pastry
+6103,Coffee,Coffee,Medialuna,Cookies,Tiffin,Toast
+6104,Coffee,Tea
+6105,Coffee
+6106,Coffee,Medialuna
+6107,Coffee,Bread,Cookies
+6108,Coffee
+6109,Tea,Cake,Bread
+6110,Bread,Bread,Bread
+6111,Coffee,Medialuna,Pastry,Bread
+6112,Cookies,Bread,Bread
+6113,Coffee,Cookies
+6114,Tea,Juice,Muffin
+6115,Bread,Coffee
+6116,Coffee
+6117,Coffee
+6118,Coffee,Toast
+6119,Coffee,Toast
+6120,Coffee,Toast
+6121,Bread
+6122,Coffee,Soup
+6123,Coffee
+6124,Coke,Soup,Sandwich,Tea,Mineral water
+6125,Soup
+6126,Coffee
+6127,Bread
+6128,Baguette,Bread,Coffee,Coffee
+6129,Coke,Juice,Truffles,Salad,Coffee,Cake,Sandwich,Chicken Stew,Alfajores
+6130,Tiffin,Tea
+6131,Truffles,Chicken Stew
+6132,Coffee
+6133,Coffee
+6134,Sandwich,Mineral water
+6135,Coffee
+6136,Coffee
+6137,Cookies
+6138,Bread,Cake,Tiffin
+6139,Cake,Muffin,Alfajores
+6140,Scone,Tea
+6141,Coffee,Scone
+6142,Coke
+6143,Coffee,Coffee,Alfajores
+6144,Bread
+6145,Chicken Stew,Sandwich
